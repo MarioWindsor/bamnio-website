@@ -1,0 +1,99 @@
+{% include 'parts/head.liquid' %}
+{% include 'parts/header.liquid' %}
+
+
+<style>
+.placeholder-section { position: relative; }
+
+.placeholder-section .logo img {
+	width: var(--card);
+}
+
+.placeholder-section .cta {
+	transform-origin: top left;
+	transform: scale(2);
+	display: inline-flex;
+	align-items: center;
+}
+.placeholder-section .cta i {
+	scale: 1.5;
+	margin-right: var(--space-25);
+}
+
+@media( max-width: 499px )  {
+	.placeholder-section .logo img {
+		width: calc(var(--card)*0.75);
+	}
+	.placeholder-section .intro .heading {
+		font-size: var(--h3);
+	}
+	.placeholder-section .intro .sub-heading {
+		font-size: var(--h5);
+	}
+}
+@media( min-width: 500px )  {}
+@media( min-width: 1000px ) {
+	.placeholder-section .intro .heading {
+		font-size: calc(var(--h1)*1.25);
+	}
+	.placeholder-section .intro .sub-heading {
+		font-size: calc(var(--h4)*1.25);
+	}
+}
+@media( min-width: 1500px ) {}
+</style>
+
+<!-- Placeholder Section -->
+<section id="placeholder-section" class="placeholder-section space-200-vertical">
+	<div class="container">
+		<div class="logo row">
+			<div class="columns small-12 xlarge-10 xlarge-offset-1">
+				<img src="media/logo.svg" alt="">
+			</div>
+		</div>
+		<div class="intro row space-100-vertical">
+			<div class="columns small-12 xlarge-10 xlarge-offset-1">
+				<h1 class="heading strong space-25-bottom">Empowering <br>Communication</h1>
+				<h4 class="sub-heading">Neurodiversity-affirming <br>Therapy for children</h4>
+				<h5 class="strong uppercase space-75-vertical">&nbsp;For a <span class="fill-warning radius-min">&nbsp;FREE 20 Minutes&nbsp;<br>&nbsp;Consultation&nbsp;</span> Contact...</h5>
+				<a class="cta button radius-min w-600" href="tel: +919620559517"><i class='bx bxs-phone-call' style="font-size: inherit;"></i> +91-96205-59517</a>
+			</div>
+		</div>
+		<div class="address row space-100-top">
+			<div class="columns small-12 medium-7 large-5 xlarge-5 xlarge-offset-1">
+				<div class="card space-50">
+					<label class="block text-dark w-600 text-uppercase space-min-bottom">Location:</label>
+					<label class="block space-50-bottom">1st Floor No.4, Windsor Tranquil, 4th Cross St, CRP Layout, Horamavu Agara, Horamavu, Bengaluru - 560043, Karnataka, India.</label>
+					<a class="button fill-dark radius-min" href="https://maps.app.goo.gl/RB9ZtjMDcNuJoBNeA" target="_blank"><i class='bx bxs-map' style="scale: 1.76; margin-right: var(--space-25);"></i>Open in Google Maps</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="address row space-100-top">
+		  <small class="text-neutral-50">&copy; Copyright 2025, Bambino Therapy. <br class="hide-medium hide-large hide-xlarge">All rights reserved.</small>
+		</div>
+	</div>
+</section>
+<!-- END: Placeholder Section -->
+
+
+
+
+<!-- Sample Section -->
+<section id="sample-section" class="sample-section hidden">
+	<div class="container">
+		<div class="row">
+			<div class="columns small-12">
+				<h3 class="space-25-bottom">Sample Heading</h3>
+				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos exercitationem quas cupiditate accusamus harum tempora obcaecati amet soluta repellat dolorem. Nulla possimus molestias, distinctio dolorum expedita est animi quis veritatis.</p>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- END: Sample Section -->
+
+
+
+
+{% include 'parts/footer.liquid' %}
+{% include 'parts/foot.liquid' %}

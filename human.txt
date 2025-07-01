@@ -1,0 +1,7 @@
+/* TEAM */
+    Author: Mario Windsor
+    Role: Web Developer
+    Website: mariowindsor.com
+/* DESIGN */
+    Author: Mario Windsor
+    Role: Designer
