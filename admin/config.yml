@@ -13,10 +13,10 @@ local_backend: true
 media_folder: "/media/uploads"
 public_folder: "/media/uploads"
 
-media_library:
-  name: uploadcare
-  config:
-    publicKey: af9a3bd88d716b1788b4
+# media_library:
+#   name: uploadcare
+#   config:
+#     publicKey: af9a3bd88d716b1788b4
 
 collections:
   - name: "services"
