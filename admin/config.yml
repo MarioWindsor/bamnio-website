@@ -1,7 +1,7 @@
 
 backend:
-  name: git-gateway
-  # name: github
+  # name: git-gateway
+  name: github
   branch: main
   repo: MarioWindsor/bambino-website
 
