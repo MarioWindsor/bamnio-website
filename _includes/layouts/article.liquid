@@ -1,0 +1,144 @@
+{% include 'parts/head.liquid' %}
+{% include 'parts/header.liquid' %}
+
+
+
+<!-- Article Section -->
+<style>
+.article-section {
+	position: relative;
+}
+.article-section .cover {
+	display: block;
+	/*position: sticky;*/
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: auto;
+	padding-top: 50%;
+	z-index: -1;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	opacity: 0.85;
+	/*mix-blend-mode: hard-light;*/
+}
+.article-section .cover:after {
+	content: '';
+	display: block;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: auto;
+	padding-top: 75%;
+	background-image: linear-gradient(to top, white, transparent);
+}
+.article-section .article {
+	z-index: 1;
+	padding-top: var(--space-200);
+	/*margin-top: calc((var(--container-width) / 4) * 1);*/
+}
+
+.article-section .article .author {
+	display: flex;
+	flex-direction: row;
+	gap: var(--space-25);
+	align-items: center;
+	justify-content: space-between;
+}
+.article-section .article .author .author-photo {
+	width: var(--space-100);
+	height: var(--space-100);
+	object-fit: cover;
+	border-radius: var(--space-min);
+}
+.article-section .article .author .author-info {
+	flex-grow: 1;
+	line-height: 1;
+}
+.article-section .article .author .author-info .author-title {
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	text-overflow: ellipsis;
+}
+
+@media( min-width: 1000px ) {
+	.article-section .article {
+		/*margin-top: calc((var(--container-width) / 3) * 1);*/
+	}
+
+	.article-section .article .card {
+		padding: var(--space-100);
+	}
+	.article-section .article .title {
+		font-size: var(--h2);
+	}
+	.article-section .article .description {
+		font-size: var(--h5);
+	}
+}
+</style>
+<section id="article-section" class="article-section">
+	<div class="row">
+		<div class="cover" style="background-image: url('{{ cover }}');"></div>
+		<div class="article">
+			<div class="container">
+				<div class="columns small-12 large-12 xlarge-9">
+					<div class="card space-50">
+						<h2 class="title h3 text-dark w-600">{{ title }}</h2>
+						<h3 class="description h6 text-dark space-50-top">{{ description }}</h3>
+						<!-- <h6 class="small w-600 text-neutral-20 text-uppercase space-25-vertical">Author:</h6> -->
+						<small class="date block text-neutral-50 space-50-top">Published On {{ date | date: "%b %d, %Y" }}</small>
+						<div class="author space-25-top">
+						{% if author-credit != blank %}
+							<img class="author-photo" src="{{ author-credit.photo }}" alt="">
+							<div class="author-info">
+								
+									
+								
+								{% if author-credit.name %}
+								<p class="small author-name text-dark">By 
+									{% if author-credit.website %}
+									<a href="{{ author-credit.website }}">{{ author-credit.name }}</a>
+									{% else %}
+									{{ author-credit.name }}</a>
+									{% endif %}
+								</p>
+								{% endif %}
+								<p class="small author-title text-neutral-50 no-overflow-text">{{ author-credit.title }}</p>
+							</div>
+						{% else %}
+							<img class="author-photo" src="media/hima-nair-photo.png" alt="">
+							<div class="author-info">
+								<p class="small author-name text-dark">By Hima Nair</p>
+								<p class="small author-title text-neutral-50">Founder &amp; SLP</p>
+							</div>
+						{% endif %}
+						</div>
+
+						<div class="article-content space-50-top">
+							{{ content }}
+						</div>
+							
+						{% if author-credit.backlink %}
+						<div class="backlink space-50-top">
+							<small style="display: flex; align-items: center; gap: var(--space-min);"><i class='label bx bx-link' ></i> Source: <a class="inline no-overflow-text" href="{{ author-credit.backlink }}">{{ author-credit.backlink }}</a></small>
+						</div>
+						{% endif %}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End: Article Section -->
+
+
+
+{% include 'parts/footer.liquid' %}
+{% include 'parts/foot.liquid' %}

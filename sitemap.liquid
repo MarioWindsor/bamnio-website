@@ -10,18 +10,18 @@ eleventyExcludeFromCollections: true
     </url>
     
     <url>
-        <loc>{{ site.baseUrl }}about/</loc>
+        <loc>{{ site.baseUrl }}/about/</loc>
         <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S%z" }}</lastmod>
     </url>
     
     <url>
-        <loc>{{ site.baseUrl }}blog/</loc>
+        <loc>{{ site.baseUrl }}/blog/</loc>
         <lastmod>{{ "now" | date: "%Y-%m-%dT%H:%M:%S%z" }}</lastmod>
     </url>
 
     {% for page in collections.blog %}
     <url>
-        <loc>{{ site.baseUrl }}{{ page.url }}</loc>
+        <loc>{{ site.baseUrl }}/{{ page.url }}</loc>
         <lastmod>{{ page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}</lastmod>
     </url>
     {% endfor %}

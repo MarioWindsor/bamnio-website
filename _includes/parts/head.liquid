@@ -6,20 +6,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no, viewport-fit=cover" />
 
 
-	<title>{{ title | default: 'Bambino Therapy' }}</title>
+	<title>{{ title | append: ' | ' }}{{ site.name }}</title>
 	<base href="/">
 
 	
 	<!-- Metadata -->
 	<!-- Short description of the document (limit to 150 characters) -->
-	<!-- This content *may* be used as a part of search engine results. -->
-	<meta name="description" content="Speech & Hearing Specialist, in Bangalore, India.">
+	<meta name="description" content="{{ description | default: site.description }}">
 
 
 	<!-- Authors -->
 	<!-- Links to information about the author(s) of the document -->
-	<meta name="author" content="Mario Windsor">
-	<link rel="author" href="humans.txt">
+	<meta name="author" content="{{ site.author }}">
+	<link rel="author" href="{{ site.humans }}">
 
 
 	<!-- SEO -->
@@ -41,17 +40,17 @@
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="{{ title | default: 'Bambino Therapy' }}">
-	<meta property="og:description" content="Speech & Hearing Specialist, in Bangalore, India.">
-	<meta property="og:url" content="">
-	<meta property="og:image" content="">
-	<meta property="og:site_name" content="">
+	<meta property="og:title" content="{{ title | append: ' | ' }}{{ site.name }}">
+	<meta property="og:description" content="{{ description | default: site.description }}">
+	<meta property="og:url" content="{{ site.baseUrl }}">
+	<meta property="og:image" content="{{ site.image }}">
+	<meta property="og:site_name" content="{{ site.name }}">
 
 
 	<!-- Schema.org / Google+ -->
-	<meta itemprop="name" content="{{ title | default: 'Bambino Therapy' }}">
-	<meta itemprop="description" content="Speech & Hearing Specialist, in Bangalore, India.">
-	<meta itemprop="image" content="">
+	<meta itemprop="name" content="{{ title | append: ' | ' }}{{ site.name }}">
+	<meta itemprop="description" content="{{ description | default: site.description }}">
+	<meta itemprop="image" content="{{ site.image }}">
 
 
 	<!-- Mako CSS -->
@@ -62,15 +61,17 @@
 	<link rel="stylesheet" type="text/css" href="css/4-function.css">
 	<link rel="stylesheet" type="text/css" href="css/5-theme.css">
 
-	<!-- Component -->
-	<link rel="stylesheet" type="text/css" href="css/component/card.css">
+	<!-- Components -->
+	<link rel="stylesheet" type="text/css" href="css/components/card.css">
+	<link rel="stylesheet" type="text/css" href="css/components/carousel.css">
+	<link rel="stylesheet" type="text/css" href="css/components/video-embed.css">
 
-	<!-- Section -->
-	<link rel="stylesheet" type="text/css" href="css/section/footer.css">
+	<!-- Parts -->
+	<link rel="stylesheet" type="text/css" href="css/parts/header.css">
+	<link rel="stylesheet" type="text/css" href="css/parts/footer.css">
 
-	<!-- Page -->
-	<link rel="stylesheet" type="text/css" href="css/page/home.css">
-
+	<!-- Layouts -->
+	<link rel="stylesheet" type="text/css" href="css/layouts/home.css">
 
 	<!-- Font -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -84,11 +85,16 @@
 
 
 	<!-- Typing JS -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js" integrity="sha512-BdHyGtczsUoFcEma+MfXc71KJLv/cd+sUsUaYYf2mXpfG/PtBjNXsPo78+rxWjscxUYN2Qr2+DbeGGiJx81ifg==" crossorigin="anonymous"></script>
+	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js" integrity="sha512-BdHyGtczsUoFcEma+MfXc71KJLv/cd+sUsUaYYf2mXpfG/PtBjNXsPo78+rxWjscxUYN2Qr2+DbeGGiJx81ifg==" crossorigin="anonymous"></script> -->
 
 
 	<!-- Netlify Identity -->
 	<script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+
+	<!-- Lottie Player -->
+	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js"></script> -->
+
 
 
 	<!-- Google Tag Manager -->
@@ -101,3 +107,5 @@
 
 
 <!--  ★  MARKUP GOES HERE  ★  -->
+
+

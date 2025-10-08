@@ -1,5 +1,12 @@
 {
-  "baseUrl": "https://mariowindsor.com/",
-  "robots": "/robots.txt",
-  "siteMap": "/sitemap.xml"
+  "name": "Bambino Therapy",
+  "description": "We offer Speech Therapy, Behavioural Therapy, Occupational Therapy, Special Education and more for clients diagnosed with Autism, ADHD, and Echolalia.",
+  "image": "/media/seo_image.png",
+  "baseUrl": "https://bambinotherapy.com",
+  "siteMap": "sitemap.xml",
+  "robots": "robots.txt",
+  "author": "Mario Windsor & Co",
+  "authorURL": "https://mariowindsor.com",
+  "humans": "humans.txt"
+
 }

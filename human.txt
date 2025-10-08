@@ -1,7 +1,11 @@
 /* TEAM */
-    Author: Mario Windsor
-    Role: Web Developer
+    Author: Mario Windsor & Co
+    Role: Web Design and Development
     Website: mariowindsor.com
-/* DESIGN */
-    Author: Mario Windsor
-    Role: Designer
+    Contact: hello [at] mariowindsor.com
+    From: Bangalore, India
+
+/* SITE */
+    Language: English
+    Doctype: HTML5
+    Technologies: JAMstack, 11ty, Mako CSS

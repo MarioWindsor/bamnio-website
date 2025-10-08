@@ -1,9 +1,47 @@
+<!-- Copyright Section -->
+<style>
+	.copyright-section {
+		position: sticky;
+		top: 100%;
+		left: 0;
+		display: block;
+		width: 100%;
+		text-align: center;
+		border-top: solid var(--border-width) var(--hue-neutral-10);
+	}
+	.copyright-section .signature { margin-top: var(--space-50); }
+	.copyright-section .signature .bling-text {
+		background-image: linear-gradient(135deg, #0099FF, #9933FF, #CC00FF, #ff3366);
+		-webkit-background-clip: text;
+		background-clip: text;
+		-webkit-text-fill-color: transparent; text-wrap: nowrap;
+	}
+	@media( min-width: 1040px ) {
+		.copyright-section { text-align: left; }
+		.copyright-section .signature { text-align: right; margin: 0; }
+	}
+</style>
+<section class="copyright-section space-50-vertical" id="copyright-section">
+	<div class="container">
+		<div class="row text-neutral-50">
+			<div class="columns small-12 large-7 inline-middle">
+				<div class="p">Copyright &copy; {{ "now" | date: "%Y" }} –  {{ site.name }} <span style="display: inline-block; text-wrap: nowrap;"><span class="hide-small">| </span>All Rights Reserved</span></div>
+			</div>
+			<div class="signature columns small-12 large-5 inline-middle">
+				<a href="{{site.authorURL }}?utm_source=client+website" target="_blank" class="p inline text-neutral-50">Web Design &amp; Development by <span class="strong bling-text">{{ site.author }}</span></a>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- END: Copyright Section -->
+
 
 <!--  ☠  MARKUP ENDS HERE  ☠  -->
 
 
-<script type="text/javascript" src="/js/video_embed.js"></script>
-<script type="text/javascript" src="/js/carousel.js"></script>
+<script type="text/javascript" src="js/debounce.js"></script>
+<script type="text/javascript" src="js/carousel.js"></script>
+<script type="text/javascript" src="js/video-embed.js"></script>
 
 
 </body>

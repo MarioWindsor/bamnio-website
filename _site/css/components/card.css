@@ -8,9 +8,9 @@
 
 .card {
 	background: var(--hue-light);
-	border: var(--border-width) solid var(--hue-neutral-10);
-	border-radius: var(--space-min); /* Use a spacing variable */
-	box-shadow: var(--shadow-md); /* Use a shadow variable from your theme */
 	overflow: hidden;
-	transition: all 0.3s ease;
+	border-radius: var(--space-25);
+	box-shadow: 
+		0 0 var(--border-width)  color-mix(in srgb, var(--hue-primary) 25%, transparent),
+		0 var(--border-width) calc(var(--space-min)/1) color-mix(in srgb, var(--hue-primary) 25%, transparent);
 }

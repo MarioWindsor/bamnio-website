@@ -55,7 +55,7 @@
 
 	/* -- Spacing System -- */
 
-	--space-100: calc(var(--card)/8); 
+	--space-100: calc(var(--card)/8);
 
 	/* Fractional sizes */
 	
