@@ -3,7 +3,7 @@ backend:
   name: github
   # name: git-gateway
   branch: main
-  repo: MarioWindsor/bambino-website
+  repo: MarioWindsor/bamnio-website
   base_url: https://sveltia-cms-auth.mario-windsor.workers.dev/
 
 output:
