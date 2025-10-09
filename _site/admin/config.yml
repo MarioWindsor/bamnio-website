@@ -4,7 +4,7 @@ backend:
   # name: git-gateway
   branch: main
   repo: MarioWindsor/bambino-website
-  base_url: https://bambinotherapy.com
+  base_url: https://sveltia-cms-auth.mario-windsor.workers.dev/
 
 output:
   omit_empty_optional_fields: true
