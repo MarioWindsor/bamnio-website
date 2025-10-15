@@ -23,9 +23,6 @@ Let's understand what ableism is and try to bring a small change in the way we s
 3. Using ableist terms like 'crazy', 'stupid' and 'mad' for disabled people.
 4. Excluding the people with disabilities in decisions that affect them.
 5. Portrayal of disabled people in media as tragic, sad and inspirational in news stories and films.
-
-
-
  
 
 **Ableist attitudes and phrases we need to speak up against -**
