@@ -24,8 +24,6 @@ Let's understand what ableism is and try to bring a small change in the way we s
 4. Excluding the people with disabilities in decisions that affect them.
 5. Portrayal of disabled people in media as tragic, sad and inspirational in news stories and films.
 
-
-
 **Ableist attitudes and phrases we need to speak up against -**
 
 * Talking loudly to a disabled person 
@@ -62,6 +60,6 @@ Families can support their disabled kin by accepting them as and how they are. 
 6. Gently correct misconceptions about disabilities 
 7. Amplify the voice of people with disabilities on social media and in conversations.
 
-**“Breaking free from ableism starts with simple, everyday actions—choosing respectful language, advocating for accessibility, and honouring each person’s uniqueness. Together, families, schools, and communities can build a world where neurodivergent and disabled individuals are truly included, valued, and empowered to thrive. Let’s speak up, make space, and celebrate diversity in every part of life.”[[1](https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/ableism-awareness-what-it-is-and-how-to-develop-it)][[2](https://www.linkedin.com/pulse/what-ableism-its-impact-alan-s-gutterman-jd-dba-phd-u38vc)][[3](https://www.handtalk.me/en/blog/ableism/)]**
+**“Breaking free from ableism starts with simple, everyday actions—choosing respectful language, advocating for accessibility, and honouring each person’s uniqueness. Together, families, schools, and communities can build a world where neurodivergent and disabled individuals are truly included, valued, and empowered to thrive. Let’s speak up, make space, and celebrate diversity in every part of life.”[[1](https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/ableism-awareness-what-it-is-and-how-to-develop-it){:target="\_blank"}][[2](https://www.linkedin.com/pulse/what-ableism-its-impact-alan-s-gutterman-jd-dba-phd-u38vc){:target="\_blank"}][[3](https://www.handtalk.me/en/blog/ableism/){:target="\_blank"}]** 
 
 ![](https://static01.nyt.com/images/2022/11/13/books/review/13Lachmann-02/08Lachmann-02-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
