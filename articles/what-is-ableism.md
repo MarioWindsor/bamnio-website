@@ -18,12 +18,11 @@ Ableism is so deeply ingrained into our social fabric that it feels like that is
 
 Let's understand what ableism is and try to bring a small change in the way we speak, be   more inclusive and  accepting.
 
-1. Ableism is a thought process that holds the people with disabilities as nonexistent entities in the society, ignoring and overlooking them in social gatherings. 
-2. Public places without ramps or wheelchair access, no quiet rooms, schools without sensory break areas.
-3. Using ableist terms like 'crazy', 'stupid' and 'mad' for disabled people.
-4. Excluding the people with disabilities in decisions that affect them.
-5. Portrayal of disabled people in media as tragic, sad and inspirational in news stories and films.
- 
+* Ableism is a thought process that holds the people with disabilities as nonexistent entities in the society, ignoring and overlooking them in social gatherings. 
+* Public places without ramps or wheelchair access, no quiet rooms, schools without sensory break areas.
+* Using ableist terms like 'crazy', 'stupid' and 'mad' for disabled people.
+* Excluding the people with disabilities in decisions that affect them.
+* Portrayal of disabled people in media as tragic, sad and inspirational in news stories and films.
 
 **Ableist attitudes and phrases we need to speak up against -**
 
@@ -53,13 +52,13 @@ The families where the neurodivergent children are compared to all their neuroty
 
 Families can support their disabled kin by accepting them as and how they are. 
 
-1. Person first, then the disability. 
-2. Respect and support them.
-3. Speak up against ableist remarks.
-4. Promote accessibility in all environments
-5. Treat people with disabilities as equals.
-6. Gently correct misconceptions about disabilities 
-7. Amplify the voice of people with disabilities on social media and in conversations.
+* **Person first, then the disability.** 
+* **Respect and support them.**
+* **Speak up against ableist remarks.**
+* **Promote accessibility in all environments**
+* **Treat people with disabilities as equals.**
+* **Gently correct misconceptions about disabilities** 
+* **Amplify the voice of people with disabilities on social media and in conversations.**
 
 **“Breaking free from ableism starts with simple, everyday actions—choosing respectful language, advocating for accessibility, and honouring each person’s uniqueness. Together, families, schools, and communities can build a world where neurodivergent and disabled individuals are truly included, valued, and empowered to thrive. Let’s speak up, make space, and celebrate diversity in every part of life.”[[1](https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/ableism-awareness-what-it-is-and-how-to-develop-it)][[2](https://www.linkedin.com/pulse/what-ableism-its-impact-alan-s-gutterman-jd-dba-phd-u38vc)][[3](https://www.handtalk.me/en/blog/ableism/)]** 
 
