@@ -3,7 +3,7 @@ tags:
   - articles
 date: 2025-10-16T00:43:00.000+05:30
 title: "Self-Regulation: The Foundation of Self-Advocacy for Neurodivergent Children"
-cover: /media/uploads/generated-imagen.png
+cover: /media/uploads/self-regulation.png
 description: Explore the crucial role of self-regulation in neurodivergent
   children as the first step towards self-advocacy. Understand how managing
   emotions, behaviours, and co-regulation with supportive adults builds
