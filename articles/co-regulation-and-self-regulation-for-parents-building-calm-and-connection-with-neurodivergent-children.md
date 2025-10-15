@@ -4,7 +4,7 @@ tags:
 date: 2025-10-16T01:02:00.000+05:30
 title: "Co-Regulation and Self-Regulation for Parents: Building Calm and
   Connection with Neurodivergent Children"
-cover: /media/uploads/generated-image.png
+cover: /media/uploads/co-regulation.png
 description: Discover the essential role of self-regulation and co-regulation
   for parents of neurodivergent children. Learn practical strategies to manage
   your emotions, set healthy boundaries, and foster a calm, supportive
