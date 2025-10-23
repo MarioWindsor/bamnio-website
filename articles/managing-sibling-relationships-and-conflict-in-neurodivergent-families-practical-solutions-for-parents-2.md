@@ -33,13 +33,13 @@ Strategies and Solutions to cope with such a situation in a healthy and open man
 
 To mitigate the growing rivalry, parents need to  -
 
-1. **Provide individual attention.** Take one of the children out regularly and spend alone time with each whenever they can.
-2. **Teach them early to resolve conflicts** Parents have to assist the children by building up skills to resolve conflicts. They have to stop a physical tussle from happening and help the children to go to their separate calm spots to regulate themselves.
-3. **Have an open communication about the feelings.** By modelling, the parents can encourage the children to share their feelings.
-4. **Create  a mutual understanding between the siblings.** Acceptance of individual differences can help foster a deeper connection between the siblings.
-5. **Reduce communication barriers.** Parents can help the siblings find their unique way of playing and  bonding.
-6. **Emphasize similar interests**- If the children love a particular kind of game or food, highlighting their shared interests helps them bond better, and they feel that they are in the same team, creating a sense of affinity and belonging.
-7. **Encourage them to share positive experiences** As parents, while validating the difficulties faced by the children is important, teaching them to observe things in a positive light is also equally important.  Children need to be encouraged to share their positive experiences too.
+* **Provide individual attention.** Take one of the children out regularly and spend alone time with each whenever they can.
+* **Teach them early to resolve conflicts** Parents have to assist the children by building up skills to resolve conflicts. They have to stop a physical tussle from happening and help the children to go to their separate calm spots to regulate themselves.
+* **Have an open communication about the feelings.** By modelling, the parents can encourage the children to share their feelings.
+* **Create  a mutual understanding between the siblings.** Acceptance of individual differences can help foster a deeper connection between the siblings.
+* **Reduce communication barriers.** Parents can help the siblings find their unique way of playing and  bonding.
+* **Emphasize similar interests**- If the children love a particular kind of game or food, highlighting their shared interests helps them bond better, and they feel that they are in the same team, creating a sense of affinity and belonging.
+* **Encourage them to share positive experiences** As parents, while validating the difficulties faced by the children is important, teaching them to observe things in a positive light is also equally important.  Children need to be encouraged to share their positive experiences too.
 
 These are just general strategies, and families might need to figure out their own way of building strong relationships between children. It requires continuous efforts on the part of each member of the neurodivergent family to achieve this goal.
 
