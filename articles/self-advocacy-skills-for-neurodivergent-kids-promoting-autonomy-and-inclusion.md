@@ -15,6 +15,8 @@ author-credit:
   name: Ranjitha Ganesh
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
+![](/media/uploads/whatsapp-image-2025-10-28-at-11.06.03-1-.jpeg)
+
 Communication does not necessarily have to verbal and communication in any form must be respected. The interventions supporting communication, not just speech, should be encouraged and this should be a norm in therapy centres or educational institutions. Promotion of autonomy in neurodivergent individuals is crucial. It is important to teach neurodivergent children the need to stand up for themselves. Their rights and needs must be respected and honoured.
 
 **So, what is self-advocacy?**
@@ -25,20 +27,22 @@ If a person is non-speaking, does it mean they cannot develop self-advocacy skil
 
  No, non-speaking does not mean non-thinking. Being able to voice your opinion and being heard creates a sense of belonging. This is a very essential part of inclusion for neurodivergent individuals in the society. The neurodivergent individual has to be taught to be unapologetic for their needs. 
 
+![](/media/uploads/whatsapp-image-2025-10-28-at-11.06.03.jpeg)
+
 **How do we teach Self advocacy to Neurodivergent children?**
 
 * Develop Self awareness
 * Model and practice communication 
-* Allow and encourage decision making 
+* Allow and encourage decision-making 
 
 **Role of parents in developing self-advocacy**      
 
 * Involve children in the decisions pertaining to their life, even smaller ones like choosing their clothes, their meal, play time and so on
-* Develop problem solving skills in them. Let them figure out solutions in everyday situations rather than jumping in to fix their problems.
+* Develop problem-solving skills in them. Let them figure out solutions in everyday situations rather than jumping in to fix their problems.
 * Empower them by providing access to communication. 
 * Instil confidence in them to voice their feelings.
 
-**Self advocacy skills** should be taught to children at grass roots level (schools and homes).  We need to create a society which has more confident children and adults, who can protect their boundaries and speak up for themselves - an **egalitarian society**, where **every person has equal rights, every voice has a right to be heard**. True social justice is where neurodiversity is embraced. - every individual thrives, not just survives.
+**Self advocacy skills** should be taught to children at grassroots level (schools and homes).  We need to create a society which has more confident children and adults, who can protect their boundaries and speak up for themselves — an **egalitarian society**, where **every person has equal rights, every voice has a right to be heard**. True social justice is where neurodiversity is embraced. — every individual thrives, not just survives.
 
 Note-
 
