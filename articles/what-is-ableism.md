@@ -14,6 +14,8 @@ author-credit:
   website: http://notsospecialmommy.blogspot.com
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
+![](/media/uploads/whatsapp-image-2025-10-28-at-10.52.18-1-.jpeg)
+
 Ableism is so deeply ingrained into our social fabric that it feels like that is the correct way to be. It's been there for centuries, and it continues everywhere in families, society, and schools. People with disabilities face this attitude every day.
 
 Let's understand what ableism is and try to bring a small change in the way we speak, be   more inclusive and  accepting.
@@ -60,6 +62,8 @@ Families can support their disabled kin by accepting them as and how they are. 
 * **Gently correct misconceptions about disabilities** 
 * **Amplify the voice of people with disabilities on social media and in conversations.**
 
-**“Breaking free from ableism starts with simple, everyday actions—choosing respectful language, advocating for accessibility, and honouring each person’s uniqueness. Together, families, schools, and communities can build a world where neurodivergent and disabled individuals are truly included, valued, and empowered to thrive. Let’s speak up, make space, and celebrate diversity in every part of life.”[[1](https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/ableism-awareness-what-it-is-and-how-to-develop-it)][[2](https://www.linkedin.com/pulse/what-ableism-its-impact-alan-s-gutterman-jd-dba-phd-u38vc)][[3](https://www.handtalk.me/en/blog/ableism/)]** 
+![](/media/uploads/whatsapp-image-2025-10-28-at-10.52.18.jpeg)
+
+**“**Breaking free from ableism starts with simple, everyday actions—choosing respectful language, advocating for accessibility, and honouring each person’s uniqueness. Together, families, schools, and communities can build a world where neurodivergent and disabled individuals are truly included, valued, and empowered to thrive. Let’s speak up, make space, and celebrate diversity in every part of life**.”[[1](https://oxford-review.com/the-oxford-review-dei-diversity-equity-and-inclusion-dictionary/ableism-awareness-what-it-is-and-how-to-develop-it)][[2](https://www.linkedin.com/pulse/what-ableism-its-impact-alan-s-gutterman-jd-dba-phd-u38vc)][[3](https://www.handtalk.me/en/blog/ableism/)]** 
 
 ![](https://static01.nyt.com/images/2022/11/13/books/review/13Lachmann-02/08Lachmann-02-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
