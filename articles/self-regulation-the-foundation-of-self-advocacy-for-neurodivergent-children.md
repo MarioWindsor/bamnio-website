@@ -21,10 +21,14 @@ This blog is a part of the series that intends to throw more light on Self-Advoc
 
 Self-regulation is the ability to manage our thoughts, feelings and behaviours in various  circumstances. To be honest, even I, as a mother of a neurodivergent child,  learnt about emotional regulation for the first time from a Therapist. I had no idea how important it is to regulate my own emotions and teach the same to my child.
 
+![](/media/uploads/whatsapp-image-2025-10-23-at-18.52.26.jpeg)
+
 **Why should one self-regulate?** 
 
 * It helps to manage emotions, process and respond to our needs in a healthy manner rather than having a maladaptive response.
 * Focus and attention are enhanced when we are able to label our emotions and channelize our energy in the right direction, to accomplish the task in an effective manner.
+
+  ![](/media/uploads/whatsapp-image-2025-10-23-at-18.52.27.jpeg)
 
 **Role of Co-regulation**        
 
