@@ -2,7 +2,7 @@
 tags:
   - testimonials
 date: 2025-10-29T11:03:00.000+05:30
-title: Sri Sudha
+title: Sri Sudha (Parent)
 rating: 5
 content: We have been consulting Ms. Hima for our Kid for the past 2 months. She
   is very dedicated and committed in her work. She has made a good connection
