@@ -2,7 +2,7 @@
 tags:
   - testimonials
 date: 2025-10-29T11:04:00.000+05:30
-title: Karunika (parent)
+title: Karunika (Parent)
 rating: 5
 content: >-
   Loved the experience at bambino center .
