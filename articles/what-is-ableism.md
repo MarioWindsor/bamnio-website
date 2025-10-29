@@ -40,7 +40,7 @@ Let's understand what ableism is and try to bring a small change in the way we s
 
 **The schools**
 
-The mainstream schools reject or ostracize the disabled as unfit to attend their schools. In special schools too, the non-verbal children are treated differently than the verbal.
+Many of the mainstream schools reject or ostracize the disabled as unfit to attend their schools. In special schools too, the non-verbal children are treated differently than the verbal.
 
 **The society** 
 
