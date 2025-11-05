@@ -1,4 +1,0 @@
-Sitemap: https://bambinotherapy.comsitemap.xml
-
-User-agent: *
-Disallow: /admin/**
