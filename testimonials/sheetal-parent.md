@@ -4,7 +4,7 @@ tags:
 date: 2025-10-29T11:09:00.000+05:30
 title: Sheetal (Parent)
 rating: 5
-content: >-
+review: >-
   I am so grateful for the incredible support my son and I have received from
   our speech therapist. My 9-year-old son is autistic and minimally speaking,
   and she has been a true blessing in our journey. She works with us both online

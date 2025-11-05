@@ -4,7 +4,7 @@ tags:
 date: 2025-10-29T11:08:00.000+05:30
 title: Krishna Priya (Client with stuttering)
 rating: 5
-content: >
+review: >
   I recently attended speech therapy sessions at bambino with therapist Hima,
   and I was thoroughly impressed! Hima's expertise and patience helped me tackle
   my stuttering issues with confidence. Her approach was tailored to my needs,
