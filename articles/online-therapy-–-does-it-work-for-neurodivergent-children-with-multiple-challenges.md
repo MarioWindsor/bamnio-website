@@ -17,7 +17,7 @@ description: >+
 author-credit:
   name: Ranjitha Ganesh
   title: Late diagnosed autistic person and also mother of an autistic teenager.
-  photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
+  photo: /media/uploads/whatsapp-image-2026-01-02-at-08.40.26.jpeg
   website: https://notsospecialmommy.blogspot.com/
 ---
 
