@@ -6,7 +6,9 @@ title: Loving Arthur Means
 cover: /media/uploads/whatsapp-nimage-2025-12-29-at-10.02.38.jpeg
 author-credit:
   name: "Teslin Joseph "
-  title: ""
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
+    AAC & All Forms of Communication
+  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 ---
 I didn’t step into parenting feeling sure of myself. Even now, I often wonder if I am doing enough, or if I am failing him in ways I can't yet see.
 
