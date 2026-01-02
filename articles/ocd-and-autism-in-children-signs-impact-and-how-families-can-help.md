@@ -12,15 +12,13 @@ author-credit:
   website: https://notsospecialmommy.blogspot.com/
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
-
-
 This blog explores the comorbid condition of Obssessive-Compulsive Disorder (OCD) in children with autism and how challenging it is to ascertain whether the repetitive behaviors of an autistic person is an OCD or a self soothing behaviour. This is based on my experiences, as mother of a 15 year old who is on the autism spectrum, as I have witnessed my son’s struggle and deep trauma due to the coexistence of OCD and autism. 
 
 Over the years, many studies have been conducted which indicate that 17 % of autistic population do have some form of OCD. But all repetitive behaviors are not necessarily OCDs
 
-![](/media/uploads/whatsapp-image-2026-01-01-at-22.42.21-2-.jpeg)
+![](/media/uploads/whatsapp-image-2026-01-01-at-22.42.21-2-.jpeg "neurodivergentinsights.com")
 
-![](/media/uploads/whatsapp-image-2026-01-01-at-22.42.21-1-.jpeg)
+![](/media/uploads/whatsapp-image-2026-01-01-at-22.42.21-1-.jpeg "simplypsychology.org")
 
 **OCD** is a mental health condition that causes a pattern of unwanted thoughts and fear resulting in repetitive behaviors.
 
