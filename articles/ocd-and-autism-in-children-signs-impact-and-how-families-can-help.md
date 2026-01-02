@@ -3,6 +3,7 @@ tags:
   - articles
 date: 2026-01-02T08:16:00.000+05:30
 title: " OCD and Autism in Children: Signs, Impact and How Families Can Help"
+cover: /media/uploads/whatsapp-image-2026-01-01-at-22.42.21-1-.jpeg
 description: Explore how OCD shows up in autistic children, how it impacts
   sleep, anxiety and daily life, and practical, empathetic ways families can
   support and seek timely psychiatric help.
@@ -10,7 +11,7 @@ author-credit:
   name: Ranjitha Ganesh
   title: Late diagnosed autistic person and also a mother of an autistic teenager
   website: https://notsospecialmommy.blogspot.com/
-  photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
+  photo: /media/uploads/whatsapp-image-2026-01-02-at-08.40.26.jpeg
 ---
 This blog explores the comorbid condition of Obssessive-Compulsive Disorder (OCD) in children with autism and how challenging it is to ascertain whether the repetitive behaviors of an autistic person is an OCD or a self soothing behaviour. This is based on my experiences, as mother of a 15 year old who is on the autism spectrum, as I have witnessed my son’s struggle and deep trauma due to the coexistence of OCD and autism. 
 
