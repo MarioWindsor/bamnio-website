@@ -4,6 +4,7 @@ tags:
 date: 2026-01-02T08:34:00.000+05:30
 title: Online therapy – does it work for Neurodivergent children with multiple
   challenges?
+cover: /media/uploads/whatsapp-image-2025-12-30-at-23.05.40.jpeg
 description: >+
   Online speech therapy at Bambino Therapy supports autistic and neurodivergent
   children through parent-led, flexible sessions that can be accessed from
