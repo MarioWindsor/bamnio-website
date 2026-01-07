@@ -107,7 +107,7 @@ Autonomy stays central.
 
 That is what it means to truly listen.
 
-When we honor **all** forms of communication—gestures, actions, emotions, silence, visuals, shared attention—we send a powerful message:
+When we honor **all** forms of communication—gestures, actions, emotions, silence, AAC device, communication board, letter board, visuals, shared attention—we send a powerful message:
 
 **You are already communicating.**
 
