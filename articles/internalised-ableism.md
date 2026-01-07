@@ -24,8 +24,6 @@ In this blog, I want to share about how I, as a late diagnosed autistic adult, i
 
 What is Internalized Ableism?
 
-\    
-
 ![](/media/uploads/whatsapp-imafge-2026-01-03-at-12.51.55.jpeg)
 
 \    
@@ -43,28 +41,24 @@ It may cause some or all of these:
 * Anxiety
 * Suicidal tendencies
 
-  ![](/media/uploads/whatsapp-image-2026-01-03-at-12.51.55.jpeg)
+![](/media/uploads/whatsapp-image-2026-01-03-at-12.51.55.jpeg)
 
  After my own diagnosis as an autistic adult, I have questioned myself about my disability. My experience reflects the shame I internalised towards the diagnosis. I have had difficulty with socializing and maintaining friendships all my life. My only defence was to mask my differences in order to not stand out. 
 
 I went in for a formal assessment when I was 45 years old. It  was an important step to get answers to the nagging feeling of ‘not being enough’ and always feeling like an outsider. I battled anxiety issues and burnouts for many years. I reached a point where I had passive suicidal thoughts very often. I did take therapy and reached out to my doctors to help me tide over these difficult emotions. I used to feel that I have to fix my son’s autism due to the traditional therapies and behaviour modification models. Assessment as an autistic adult, though late, made me realise my ableist attitude. My diagnosis has helped me confront the ableist attitude in me, as well as the  shame I internalized.
 
-There have been some amount of  research done on the internalized stigma of neurodivergent individuals which reveal how the individual’s experiences with stigma affected their self concept. Some of them refer to themselves as “wrong”, “broken”, “defective”, due to the shame and embarrassment related to their diagnosis. 
+There have been some amount of  research done on the internalized stigma of neurodivergent individuals which reveal how the individual’s experiences with stigma affected their self concept. Some of them refer to themselves as “**wrong**”, “**broken**”, “**defective**”, due to the shame and embarrassment related to their diagnosis. 
 
 **Efforts I made to combat ableism**
 
-\    
+
 
 ![](/media/uploads/whatsapp-image-2026-01-03-at-12.51.56.jpeg)
 
 1. Speak openly about my autism diagnosis. 
-
 2. Advocate for other neurodivergent people.
-
 3. Try to educate people around me about any unintentional ableist remarks they may make.
-
 4. Connect with other autistic adults, as it makes me feel seen and heard.
-
 5. Stop using euphemisms to describe my disability. 
 
 ![](/media/uploads/whatsapp-image-202f6-01-03-at-12.51.55.jpeg)
