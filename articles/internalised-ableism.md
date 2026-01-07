@@ -24,9 +24,7 @@ In this blog, I want to share about how I, as a late diagnosed autistic adult, i
 
 What is Internalized Ableism?
 
-![](/media/uploads/whatsapp-imafge-2026-01-03-at-12.51.55.jpeg)
 
-\    
 
 It is the way in which neurodivergent people tend to view themselves due to the constant negative stereotyping. Internalized ableism comes from a belief that, people with no known disabilities, are superior and that disability is a flaw, something that needs to be fixed. It makes a neurodivergent person believe that they need to overcome their disability to become more capable.
 
@@ -51,15 +49,13 @@ There have been some amount of  research done on the internalized stigma of neur
 
 **Efforts I made to combat ableism**
 
-
-
 ![](/media/uploads/whatsapp-image-2026-01-03-at-12.51.56.jpeg)
 
-1. Speak openly about my autism diagnosis. 
-2. Advocate for other neurodivergent people.
-3. Try to educate people around me about any unintentional ableist remarks they may make.
-4. Connect with other autistic adults, as it makes me feel seen and heard.
-5. Stop using euphemisms to describe my disability. 
+* Speak openly about my autism diagnosis. 
+* Advocate for other neurodivergent people.
+* Try to educate people around me about any unintentional ableist remarks they may make.
+* Connect with other autistic adults, as it makes me feel seen and heard.
+* Stop using euphemisms to describe my disability. 
 
 ![](/media/uploads/whatsapp-image-202f6-01-03-at-12.51.55.jpeg)
 
