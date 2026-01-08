@@ -31,6 +31,8 @@ As Gayle Porter, Speech-Language Pathologist and developer of [PODD](https://www
 
 **“Being able to say what I want to say, to whoever I want to say it to, whenever I want to say it, however I choose to say it.”**
 
+![](/media/uploads/whatsapp-image-2026-01-05-at-02.41.51.jpeg "The goal of AAC")
+
 This is the heart of AAC for me—not output or compliance, but **autonomy**.
 
 This New Year, Arthur seemed more drawn to his Avaz AAC app.
