@@ -3,7 +3,7 @@ tags:
   - articles
 date: 2026-01-07T22:26:00.000+05:30
 title: "Listening Beyond Words: Honoring Multimodal Communication"
-cover: /media/uploads/whatsapp-image-2026-01-05-at-17.00.18.jpeg
+cover: /media/uploads/whatsapp-image-2026-01-05-at-02.36.59.jpeg
 description: Discover how my nonspeaking son Arthur communicates without
   words—through images, emotions, and shared moments. Explore fluid, multimodal
   communication for neurodivergent kids, beyond AAC. True listening honors
