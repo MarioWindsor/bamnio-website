@@ -9,7 +9,7 @@ description: Discover how my nonspeaking son Arthur communicates without
   communication for neurodivergent kids, beyond AAC. True listening honors
   autonomy.
 author-credit:
-  backlink: https://bambinotherapy.com/articles/loving-arthur-means/
+  backlink: https://bambinotherapy.com/articles/access-with-autonomy-aac-as-an-invitation-not-a-requirement/
   title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
     AAC & All Forms of Communication
   name: Teslin Joseph
@@ -25,7 +25,7 @@ My son, [Arthur](https://bambinotherapy.com/articles/loving-arthur-means/), is a
 
 Some days, communication feels more accessible—when I slow down and listen beyond words, beyond sound, beyond my ears.
 
-Some days, it requires me to “read his mind,” which can be hard and exhausting. I say that honestly and without shame, because caregiving and deep listening take real emotional labor.
+Some days, it requires me to “read his mind,” which can be hard and exhausting. I say that honestly and without shame, because caregiving and deep listening take real emotional labour.
 
 An AAC device is not Arthur’s preferred or main way of communicating right now.
 
@@ -44,6 +44,8 @@ At a New Year’s Eve party we attended.
 At that party, Arthur looked emotional as he stood near the Christmas tree. My sister and I noticed it, though we didn’t immediately understand what had stirred something inside him.
 
 The next day—New Year’s Day—Arthur took my phone, opened the photo gallery, scrolled with intention, and went straight to pictures of **last year’s** (2024) Christmas tree and crib at our home. He looked at them quietly for a while.
+
+![](/media/uploads/whatsapp-image-2026-01-05-at-02.36.59.jpeg "Picture of the 2024 Christmas tree and crib ")
 
 This was the **second time** he had done this. The first was after visiting his cousin’s birthday on December 26th.
 
