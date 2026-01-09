@@ -16,13 +16,13 @@ author-credit:
   backlink: https://bambinotherapy.com/articles/loving-arthur-means/
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 ---
-What Arthur showed me did not happen quickly.
+What [Arthur](https://bambinotherapy.com/articles/loving-arthur-means/) showed me did not happen quickly.
 
 It took years.
 
 Years of modeling. Years of offering tools without insisting on their use. Years of sitting with uncertainty and trusting that learning doesn’t always announce itself.
 
-Arthur was exposed to many experiences, strategies, and ways of interacting through Ms. Kate’s Talker Power class. He didn’t join the games. He didn’t participate in the activities the way one might expect. I knew he was watching. Absorbing. Storing. I didn’t know if—or when—he would ever use these strategies. I also knew that his PDA neurotype—his need for autonomy, his resistance to being directed, his way of deciding for himself what mattered—shaped how he engaged with these experiences.
+[Arthur](https://bambinotherapy.com/articles/loving-arthur-means/) was exposed to many experiences, strategies, and ways of interacting through Ms. Kate’s Talker Power class. He didn’t join the games. He didn’t participate in the activities the way one might expect. I knew he was watching. Absorbing. Storing. I didn’t know if—or when—he would ever use these strategies. I also knew that his PDA neurotype—his need for autonomy, his resistance to being directed, his way of deciding for himself what mattered—shaped how he engaged with these experiences.
 
 Years later, those ideas surfaced—not during a lesson, but in moments that mattered.
 
