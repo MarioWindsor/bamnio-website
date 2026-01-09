@@ -79,3 +79,13 @@ It is a long-term memory bank of possibilities.
 Sometimes it takes years for a seed to surface—and when it does, it blooms exactly when it’s needed.
 
 A quiet assurance that when the time comes, there will be a way.
+
+
+
+Continue reading Listening Beyond Words: Honoring Multimodal Communication.
+
+If communication isn’t about performance, what does it truly look like? In this next piece, I share a quiet Christmas tree moment that reminded me to pause, observe, and listen to the language Arthur was already speaking.
+
+
+
+<https://bambinotherapy.com/articles/listening-beyond-words-honoring-multimodal-communication/>
