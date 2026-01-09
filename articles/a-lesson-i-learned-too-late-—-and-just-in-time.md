@@ -3,7 +3,7 @@ tags:
   - articles
 date: 2026-01-09T16:04:00.000+05:30
 title: A Lesson I Learned Too Late — and Just in Time
-cover: ""
+cover: /media/uploads/whatsapp-image-2026-01-09-at-03.50.31.jpeg
 author-credit:
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
   title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
