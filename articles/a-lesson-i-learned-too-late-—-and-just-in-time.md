@@ -3,6 +3,12 @@ tags:
   - articles
 date: 2026-01-09T16:04:00.000+05:30
 title: A Lesson I Learned Too Late — and Just in Time
+cover: ""
+author-credit:
+  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
+    AAC & All Forms of Communication
+  name: Teslin Joseph
 ---
 Recently, in a session with my psychotherapist, I realized something important about my son—and about something we got wrong in parenting a PDA child.
 
