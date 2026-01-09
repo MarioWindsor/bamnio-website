@@ -64,3 +64,9 @@ And the most important thing I can do is dance with him.
 To the other families walking this less-trodden path: you are not alone. Your child’s unique rhythm, their beautiful way of being, is not a deviation from success — it is success. There’s magic in being seen. And there’s even more magic in seeing our children exactly as they are — and loving them freely.
 
 ![Arthur's recent creativity](/media/uploads/whatsapp-image-2025-12-29-at-10.02.38.jpeg "Arthur recent creativity")
+
+If this piece spoke to you, you might also find meaning in Breaking Communication Barriers: What Arthur Taught Me About Patience and Trust. It’s a story about the hidden breakthroughs that appear when we stop pushing and start trusting.
+
+
+
+[https://bambinotherapy.com/articles/breaking-communication-barriers-what-arthur-taught-me-about-patience-and-trust/](<If this piece spoke to you, you might also find meaning in Breaking Communication Barriers: What Arthur Taught Me About Patience and Trust. It’s a story about the hidden breakthroughs that appear when we stop pushing and start trusting.  https://bambinotherapy.com/articles/breaking-communication-barriers-what-arthur-taught-me-about-patience-and-trust/>)
