@@ -67,4 +67,6 @@ Having a calm parent during meltdowns helps the child learn positive ways to res
 
 Co-regulation sets the foundation for improving the parent child relationship. This happens organically when the parents are at peace with their emotions and become role models for their children.
 
+![]()
+
 **Happy parenting!**
