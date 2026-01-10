@@ -67,4 +67,4 @@ To the other families walking this less-trodden path: you are not alone. Your ch
 
 If this piece spoke to you, you might also find meaning in Breaking Communication Barriers: What Arthur Taught Me About Patience and Trust. It’s a story about the hidden breakthroughs that appear when we stop pushing and start trusting.
 
-[https://bambinotherapy.com/articles/breaking-communication-barriers-what-arthur-taught-me-about-patience-and-trust/](bambinotherapy.com/articles/breaking-communication-barriers-what-arthur-taught-me-about-patience-and-trust/)
+<https://bambinotherapy.com/articles/breaking-communication-barriers-what-arthur-taught-me-about-patience-and-trust/>
