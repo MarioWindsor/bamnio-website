@@ -54,7 +54,7 @@ If a person is non-speaking, does it mean they cannot develop self-advocacy skil
 * Empower them by providing access to communication. 
 * Instil confidence in them to voice their feelings.
 
-  ![]()
+![]()
 
 **Self advocacy skills** should be taught to children at grassroots level (schools and homes).  We need to create a society which has more confident children and adults, who can protect their boundaries and speak up for themselves — an **egalitarian society**, where **every person has equal rights, every voice has a right to be heard**. True social justice is where neurodiversity is embraced. — every individual thrives, not just survives.
 
