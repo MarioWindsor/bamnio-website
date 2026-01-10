@@ -18,13 +18,19 @@ author-credit:
 
 Ableism is so deeply ingrained into our social fabric that it feels like that is the correct way to be. It's been there for centuries, and it continues everywhere in families, society, and schools. People with disabilities face this attitude every day.
 
+![]()
+
 Let's understand what ableism is and try to bring a small change in the way we speak, be   more inclusive and  accepting.
+
+![]()
 
 * Ableism is a thought process that holds the people with disabilities as nonexistent entities in the society, ignoring and overlooking them in social gatherings. 
 * Public places without ramps or wheelchair access, no quiet rooms, schools without sensory break areas.
 * Using ableist terms like 'crazy', 'stupid' and 'mad' for disabled people.
 * Excluding the people with disabilities in decisions that affect them.
 * Portrayal of disabled people in media as tragic, sad and inspirational in news stories and films.
+
+![]()
 
 **Ableist attitudes and phrases we need to speak up against -**
 
@@ -42,15 +48,23 @@ Let's understand what ableism is and try to bring a small change in the way we s
 
 Many of the mainstream schools reject or ostracize the disabled as unfit to attend their schools. In special schools too, the non-verbal children are treated differently than the verbal.
 
+![]()
+
 **The society** 
 
 The society at large tries to portray a sad picture of the disabled community, showing them as a person deserving pity.
+
+![]()
 
 **Families** 
 
 The families where the neurodivergent children are compared to all their neurotypical peers and looked down upon. 
 
+![]()
+
 **What can be done by us to reduce ableism?** 
+
+![]()
 
 Families can support their disabled kin by accepting them as and how they are. 
 
