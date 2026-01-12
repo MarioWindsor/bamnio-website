@@ -5,9 +5,9 @@ date: 2026-01-07T23:07:00.000+05:30
 title: "Access with Autonomy: AAC as an Invitation, Not a Requirement"
 cover: /media/uploads/whatsapp-image-2026-01-05-at-02.39.13.jpeg
 description: My nonspeaking son Arthur chooses AAC on his terms—no pressure,
-  full autonomy. Inspired by PODD's wisdom, we prioritize 24/7 access for
-  neurodivergent kids. Discover multimodal communication, trust-based listening,
-  and why choice trumps compliance for autistic children.
+  full autonomy. Inspired by Gayle Porter's wisdom, we prioritize 24/7 access
+  for neurodivergent kids. Discover multimodal communication, trust-based
+  listening, and why choice trumps compliance for autistic children.
 author-credit:
   backlink: https://bambinotherapy.com/articles/listening-beyond-words-honoring-multimodal-communication/
   name: Teslin Joseph
@@ -67,6 +67,8 @@ He gestured to let me know I could go and do my own thing.
 
 That moment mattered—not because he used AAC, but because he used it **when he needed it, on his terms, with trust** that he would be understood.
 
+![]()
+
 For us, AAC is not about doing it “right.”
 
 It is about making sure Arthur always has a way to say
@@ -113,18 +115,12 @@ It is about choice, trust, and being truly heard.
 
 The Origin of the Invitation
 
-
-
 This approach—honoring choice over compliance—wasn’t something I understood overnight. It began years ago with Melissa & Doug alphabet boards and a toddler who refused to be measured. To see the moment I first learned the power of strewing—back when I didn't even know the name for it—over direct prompting, read: \[When Learning Bloomed Without Being Asked | How Strewing Changed My Equation with My PDA Child]
 
 ![]()
 
 Further Reading
 
-
-
 Building a life of autonomy isn’t always a smooth path. I'm sharing a more personal story about a time I got this wrong—and how a simple change to an iPad cover led to a two-year rejection. You can read about that lesson, the concept of Equalizing Behavior, and the power of repair here:
-
-
 
 <https://bambinotherapy.com/articles/a-lesson-i-learned-too-late-%E2%80%94-and-just-in-time/>
