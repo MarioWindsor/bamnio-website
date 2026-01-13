@@ -4,11 +4,13 @@ tags:
 date: 2026-01-13T12:29:00.000+05:30
 title: When Learning Bloomed Without Being Asked | How Strewing Changed My
   equation with my PDA Child
+cover: /media/uploads/whatsapp-image-2026-01-10-at-09.34.41.jpeg
 author-credit:
   name: Teslin Joseph
   title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
     AAC & All Forms of Communication
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
+  backlink: https://bambinotherapy.com/articles/access-with-autonomy-aac-as-an-invitation-not-a-requirement/
 ---
 I knew from early on that Arthur was a PDAer (Pathological Demand Avoidance / Pervasive Drive for Autonomy), but I didn’t yet have the language to fully understand what I was seeing.
 
