@@ -16,6 +16,8 @@ I knew from early on that Arthur was a PDAer (Pathological Demand Avoidance / Pe
 
 This story captures how PDA showed up in our everyday life—and how my approach slowly shifted from direct demands to strewing, modeling, and partnership. It shows that Arthur’s so-called “avoidance” was a protective response, rooted in a need to preserve autonomy.
 
+![]()
+
 **The Early “No”**
 
 When Arthur was about three, his online nursery teacher asked the children to identify words starting with the letter “D.” I showed Arthur two alphabet boards—one with D and one with B—and asked him to identify words that started with D.
@@ -30,7 +32,11 @@ There was something else sitting underneath that moment—something I recognised
 
 Part of my urgency came from fear. If Arthur’s intelligence wasn’t visible, I worried the world would misread him. I wanted proof—evidence strong enough to counter ableism and low expectations.
 
-What I didn’t see then was that Arthur didn’t need to perform intelligence to be worthy of respect. A PDA nervous system feels that pressure immediately. Arthur wasn’t resisting learning; he was resisting being measured. He was \*equalizing\* — pivoting the task to reclaim control.
+![]()
+
+What I didn’t see then was that Arthur didn’t need to perform intelligence to be worthy of respect. A PDA nervous system feels that pressure immediately. Arthur wasn’t resisting learning; he was resisting being measured. He was **equalizing** — pivoting the task to reclaim control.
+
+![](/media/uploads/whatsapp-image-2026-01-10-at-10.46.50.jpeg)
 
 **The Shift: From Demand to Invitation**
 
@@ -57,6 +63,8 @@ I just **strewed** the activity.
 ![](/media/uploads/whatsapp-image-2026-01-10-at-10.10.25.jpeg)
 
 Strewing removes the social pressure of performance. It offers access without expectation. Because there was no requirement to respond, Arthur’s nervous system stayed regulated. Because there was no evaluation, curiosity could surface. What followed wasn’t compliance. It was \*engagement\*. Skills that had seemed “blocked” bloomed naturally once the demand disappeared.
+
+![]()
 
 Now, in 2026, I can look back at that moment with more clarity.
 
