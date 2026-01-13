@@ -115,7 +115,7 @@ It is about choice, trust, and being truly heard.
 
 The Origin of the Invitation
 
-This approach—honoring choice over compliance—wasn’t something I understood overnight. It began years ago with Melissa & Doug alphabet boards and a toddler who refused to be measured. To see the moment I first learned the power of strewing—back when I didn't even know the name for it—over direct prompting, read: \[When Learning Bloomed Without Being Asked | How Strewing Changed My Equation with My PDA Child]
+This approach—honoring choice over compliance—wasn’t something I understood overnight. It began years ago with Melissa & Doug alphabet boards and a toddler who refused to be measured. To see the moment I first learned the power of strewing—back when I didn't even know the name for it—over direct prompting, read [When Learning Bloomed Without Being Asked | How Strewing Changed My Equation with My PDA Child]](https://bambinotherapy.com/articles/when-learning-bloomed-without-being-asked-how-strewing-changed-my-equation-with-my-pda-child/)
 
 ![]()
 
