@@ -1,9 +1,12 @@
 
 backend:
-
   name: github
   repo: MarioWindsor/bamnio-website
   branch: main
+  base_url: https://bambino-cms-auth.mario-windsor.workers.dev/
+
+output:
+  omit_empty_optional_fields: true
 
 local_backend: true
 
