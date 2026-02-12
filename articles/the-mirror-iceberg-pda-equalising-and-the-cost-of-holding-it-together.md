@@ -1,14 +1,19 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-02-11T20:33:00.000+05:30
-title: "The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together"
+title: 'The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together'
+cover: /media/uploads/whatsapp-image-2026-02-03-at-00.58.41.jpeg
+author-credit:
+  name: Teslin Joseph
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
+  website: https://teslinj7.substack.com
+  backlink: https://bambinotherapy.com/articles/when-learning-bloomed-without-being-asked-how-strewing-changed-my-equation-with-my-pda-child/
+  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 ---
+
 PDA is often described in terms of behaviour: meltdowns, refusals, or “big reactions.” But what we see on the surface is only a small part of the story.
 
 PDA is also often described as a linear spectrum—from internalised to externalised. But this framing misses something essential.
-
-![]()
 
 For a long time, I described my experience as internalised PDA after watching [Sally Cat’s video guide on internalised PDA](https://www.youtube.com/watch?v=M5B0TcODlK4). That language helped me name something real—the way my nervous system collapses inward under demand. But I now understand this isn’t a separate “type” of PDA.
 
@@ -20,11 +25,7 @@ What looks like calm, compliance, or silence from the outside is actually my ner
 
 Arthur and I aren’t different kinds of PDAers. We are responding to the same loss of autonomy—just through different survival pathways, shaped by capacity and context.
 
-![](/media/uploads/whatsapp-image-2026-02-03-at-00.43.58.jpeg)
-
 Instead of a straight line, PDA is better understood as a dynamic distribution of nervous system dimensions, including:
-
-![]()
 
 \* **Threshold of Tolerance:** the tipping point where nervous system activation spills into visible action.
 
@@ -36,11 +37,7 @@ Instead of a straight line, PDA is better understood as a dynamic distribution o
 
 \* **Strength of the Autonomy Drive:** the intensity with which autonomy is protected—sometimes overriding biological needs.
 
-![]()
-
 \* **Co-occurring Factors:** sensory processing, executive functioning, communication access, and social differences that shape how PDA is expressed.
-
-![]()
 
 **The Visible and the Hidden: Two Sides of the Same Nervous System Load**
 
@@ -52,15 +49,11 @@ Some PDAers externalise distress. Their “no” is loud, visible, and immediate
 
 This difference is often misunderstood as personality, severity, or even “who is more PDA.” But it’s more accurate to think in terms of capacity. A nervous system can only hold so much before it has to restore balance.
 
-
-
 Sometimes that restoration looks like:
 
 \* yelling, refusing, pushing away, or
 
 \* going silent, dissociating, or complying while the body absorbs the cost.
-
-![]()
 
 **The Seeds of Autonomy: “No way. Goodbye.”**
 
@@ -98,8 +91,6 @@ This wasn’t about food. It was about ownership, identity, and uncontrollable s
 
 **\*The Dead-Battery Standoff\***
 
-![]()
-
 When Arthur’s phone or iPad dies, it represents more than inconvenience. It is a sudden, external removal of control. Charging the device—something that appears logical to outsiders—can feel like submission to a system that already violated his autonomy. Refusal becomes a standoff, not defiance.
 
 At that point, restoring power to the device does not feel regulating—it feels like agreeing to the loss.
@@ -107,8 +98,6 @@ At that point, restoring power to the device does not feel regulating—it feels
 My psychotherapist helped me understand that his behaviour is not irrational. It is a nervous system insisting on self-determination after forced loss. These triggers are often invisible to others because they operate at the level of meaning, association, and identity—not instruction.
 
 What looks “irrational” from the outside is, internally, a clear signal: \*something about my world just moved without my consent.\*
-
-![]()
 
 When “Compliance” Is Actually a Safety Strategy
 
@@ -142,8 +131,6 @@ His system is saying:
 
 \*“If I gave something up earlier to stay safe, I need to restore balance now.”\*
 
-![]()
-
 **The Mirror Side**
 
 From the mirror side, I recognise this too. There are moments when I appear cooperative or accommodating—not because my PDA is absent, but because connection, safety, or meaning temporarily expand my capacity. And later, my system finds quieter, delayed ways to rebalance.
@@ -151,8 +138,6 @@ From the mirror side, I recognise this too. There are moments when I appear coop
 Seen this way, these patterns are not inconsistencies to correct. They are maps of where safety, attachment, autonomy, and tolerance intersect—and where they momentarily fall out of alignment.
 
 The iceberg holds both: the visible compliance above the waterline, and the invisible nervous-system negotiations happening below.
-
-![]()
 
 **Equalising Is Not Regression — It’s Repair**
 
@@ -169,8 +154,6 @@ This is why:
 \* a cooperative routine suddenly resurfaces at an unexpected hour
 
 The demand didn’t disappear. It was held—until it couldn’t be anymore.
-
-![]()
 
 The Delayed Mirror: When I Froze and Advocated Later
 
@@ -198,11 +181,11 @@ Same nervous system need. Different timing.
 
 For many PDAers, equalising may arrive late—through writing, advocacy, withdrawal,  or collapse—once the nervous system is safe enough to respond.
 
-![]()
-
  **The Cup Metaphor: Why the Reaction Rarely Matches the Moment**
 
 The cup metaphor helps explain this difference.
+
+![](/media/uploads/whatsapp-image-2026-02-03-at-00.43.58.jpeg)
 
 Each perceived loss of control adds a drop. Some drops are visible. Many are not. When the cup reaches its threshold, it spills.
 
@@ -214,11 +197,7 @@ Dr. Casey’s \*At Peace Parents\* explanation helped me understand this not jus
 
 Arthur often senses when my cup is nearing its threshold before I do.
 
-![]()
-
 **The Remote Control: A Nervous System Rescue**
-
-![]()
 
 One evening, while watching a spiritual video, the speaker said, “Don’t pray with unforgiveness in your heart.” Instantly, my nervous system went into a forced internal audit. Being told how to feel felt invasive. I tried to endure it.
 
@@ -233,8 +212,6 @@ This wasn’t about control. This was \*co-regulation.\*
 My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to \*my physiology.\* By changing the environment, he moved us from performance-based safety to relational safety.
 
 In some instances, he also takes away my phone when he senses that I am on the verge of breaking after reading triggering messages.
-
-![]()
 
 **A Second Look at “Compliance”: What We Often Miss**
 
@@ -266,25 +243,17 @@ the \*cost\* shows up later as:
 
 This is how burnout is missed in “compliant-looking” PDAers. They don’t spill. They leak internally—until the system collapses.
 
-![]()
-
 **A High-Cost Safety Strategy**
 
 This occurs when the nervous system suppresses the drive for autonomy to avoid the "threat" of disappointing a loved one. For a PDAer, a demand feels like a threat to their safety. However, if the person making the demand is a primary attachment figure (like a parent or spouse), the nervous system faces a paradox: “The demand makes me feel unsafe, but disappointing this person also makes me feel unsafe.”
 
 Guilt-driven compliance is the nervous system choosing the "lesser" of two threats. It is a high-cost trade-off where a PDAer agrees to a demand—like Arthur agreeing to a task to please his father—while his internal system remains in a state of "no." This isn't true cooperation; it is a "borrowed" compliance that often leads to a delayed "after-burn" or total burnout later.
 
-![]()
-
 **The Physiological Cost of Imposed Boundaries**
 
 When boundaries are imposed—by people, schedules, or environments—this isn’t a behavioural issue. It is a full-body response to a perceived loss of agency.
 
-![]()
-
 For Arthur, the impact is deeply physiological and often shows up as:
-
-![]()
 
 \* Circadian disruption (Non-24)
 
@@ -293,8 +262,6 @@ For Arthur, the impact is deeply physiological and often shows up as:
 \* Restrictive eating (ARFID+)
 
 \* The need for undivided attention
-
-![]()
 
 Arthur may become triggered if I speak to someone else, requiring my total presence to feel his environment is safe and co-regulated.
 
@@ -308,37 +275,27 @@ For PDAers like me, distress may show up as:
 
 \* delayed advocacy or writing as a “late equaliser”
 
-![]()
-
  **The F-Family: Fight, Flight, Freeze, Fawn, and Beyond**
 
 PDA nervous systems often respond with high-adrenaline reactions:
 
-![]()
+\* \*Fight:\* active resistance, arguing, moving the world
 
-\* \*Fight:* active resistance, arguing, moving the world
+\* \*Flight:\* withdrawing, avoiding, escaping demands
 
-\* \*Flight:* withdrawing, avoiding, escaping demands
+\* \*Freeze:\* temporary paralysis, silent standoff
 
-\* \*Freeze:* temporary paralysis, silent standoff
+\* \*Fawn:\* over-compliance to preserve safety or connection
 
-\* \*Fawn:* over-compliance to preserve safety or connection
-
-\* \*Funster / Flop / Fib:* lesser-known responses such as hiding feelings, joking to diffuse, or guilt-driven compliance
+\* \*Funster / Flop / Fib:\* lesser-known responses such as hiding feelings, joking to diffuse, or guilt-driven compliance
 
 These are not different categories of PDA. They are different survival routes chosen by the same nervous system under different conditions.
-
-![]()
 
 **The Mirror Iceberg: Parent and Child**
 
 Arthur’s PDA and mine operate on the same survival logic, but our nervous systems choose different strategies based on capacity, context, and safety.
 
-![]()
-
  **A Gentle Reframe for Parents**
-
-![]()
 
 If your child:
 
@@ -350,19 +307,13 @@ If your child:
 
 \* unravels after holding it together
 
-![]()
-
 they are not being inconsistent.
 
 They are managing a \*fluctuating nervous-system capacity.\*
 
-![]()
+When we stop asking, _“**Why won’t they just**…?”_
 
-When we stop asking, *“**Why won’t they just**…?”*
-
-and start asking, ***“How full is their cup right now?**”*
-
-![]()
+and start asking, \*\*_“How full is their cup right now?”_
 
 we move from behaviour management to nervous-system care.
 
