@@ -2,7 +2,6 @@
 tags: articles
 date: 2026-02-11T20:33:00.000+05:30
 title: 'The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together'
-cover: /media/uploads/whatsapp-image-2026-02-03-at-00.58.41.jpeg
 author-credit:
   name: Teslin Joseph
   title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
@@ -21,15 +20,11 @@ For a long time, I described my experience as internalised PDA after watching [S
 
 What looks like calm, compliance, or silence from the outside is actually my nervous system entering survival mode—most often through funster, fawn, or freeze. My voice doesn’t argue; it locks. Not because I agree, but because my capacity to resist safely has dropped too low.
 
-![](/media/uploads/whatsapp-image-2026-02-03-at-00.38.39.jpeg)
-
 Arthur and I aren’t different kinds of PDAers. We are responding to the same loss of autonomy—just through different survival pathways, shaped by capacity and context.
 
 Instead of a straight line, PDA is better understood as a dynamic distribution of nervous system dimensions, including:
 
 \* **Threshold of Tolerance:** the tipping point where nervous system activation spills into visible action.
-
-![](/media/uploads/whatsapp-image-2026-02-03-at-00.53.13.jpeg)
 
 \* **Window of Tolerance:** the fluctuating space where demands can be processed without triggering survival responses.
 
@@ -99,7 +94,7 @@ My psychotherapist helped me understand that his behaviour is not irrational. It
 
 What looks “irrational” from the outside is, internally, a clear signal: \*something about my world just moved without my consent.\*
 
-When “Compliance” Is Actually a Safety Strategy
+**When “Compliance” Is Actually a Safety Strategy**
 
 There are moments when Arthur appears compliant—particularly with his father around hygiene routines like brushing teeth or bathing. He allows his father to lead these tasks, yet strongly resists my involvement—pushing me away if I enter the washroom, refusing to let me touch his toothbrush, and clearly communicating that hygiene is something he wants only his father to manage.
 
@@ -203,13 +198,13 @@ One evening, while watching a spiritual video, the speaker said, “Don’t pray
 
 Arthur didn’t.
 
-He sensed the shift, took the remote, and replaced the video with his favourite \*Litany of the Blessed Virgin Mary\*—a melodic invitation rather than a moral demand.
+He sensed the shift, took the remote, and replaced the video with his favourite **Litany of the Blessed Virgin Mary**—a melodic invitation rather than a moral demand.
 
 The relief was immediate. My heart rate slowed. The ice began to thaw.
 
-This wasn’t about control. This was \*co-regulation.\*
+This wasn’t about control. This was **co-regulation.**
 
-My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to \*my physiology.\* By changing the environment, he moved us from performance-based safety to relational safety.
+My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to **my physiology. ** By changing the environment, he moved us from performance-based safety to relational safety.
 
 In some instances, he also takes away my phone when he senses that I am on the verge of breaking after reading triggering messages.
 
@@ -252,6 +247,8 @@ Guilt-driven compliance is the nervous system choosing the "lesser" of two threa
 **The Physiological Cost of Imposed Boundaries**
 
 When boundaries are imposed—by people, schedules, or environments—this isn’t a behavioural issue. It is a full-body response to a perceived loss of agency.
+
+![](/media/uploads/whatsapp-image-2026-02-03-at-00.53.13.jpeg)
 
 For Arthur, the impact is deeply physiological and often shows up as:
 
@@ -313,7 +310,7 @@ They are managing a \*fluctuating nervous-system capacity.\*
 
 When we stop asking, _“**Why won’t they just**…?”_
 
-and start asking, \*\*_“How full is their cup right now?”_
+and start asking, _“**How full is their cup right now?**”_
 
 we move from behaviour management to nervous-system care.
 
