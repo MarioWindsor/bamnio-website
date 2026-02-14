@@ -50,6 +50,8 @@ Sometimes that restoration looks like:
 
 \* going silent, dissociating, or complying while the body absorbs the cost.
 
+![](/media/uploads/WhatsApp%20Image%202026-02-14%20at%2021.36.26.jpeg)
+
 **The Seeds of Autonomy: “No way. Goodbye.”**
 
 ![](/media/uploads/whatsapp-image-2026-02-03-at-00.40.25.jpeg)
@@ -110,7 +112,7 @@ On the surface, this can look confusing or even contradictory:
 
 A neuroaffirming lens helps us see what’s really happening.
 
-My therapist helped me name something important here: in these moments, Arthur may be \*prioritising connection over autonomy.\* His desire for undivided attention from his father is so strong that he is willing—temporarily—to loosen his grip on autonomy. His nervous system may still be activated, but his window of tolerance is wider in that relational context. The task is not neutral; it is buffered by safety, predictability, and deep attachment.
+My therapist helped me name something important here: in these moments, Arthur may be \***prioritising connection over autonomy.**\* His desire for undivided attention from his father is so strong that he is willing—temporarily—to loosen his grip on autonomy. His nervous system may still be activated, but his window of tolerance is wider in that relational context. The task is not neutral; it is buffered by safety, predictability, and deep attachment.
 
 This is not true compliance. It is a nervous-system trade-off. And trade-offs carry a cost.
 
@@ -120,11 +122,11 @@ Over time, Arthur equalises by:
 
 \* insisting that only one parent handle these tasks
 
-This is not manipulation. It is \*repair.\*
+This is not manipulation. It is \***repair.**\*
 
 His system is saying:
 
-\*“If I gave something up earlier to stay safe, I need to restore balance now.”\*
+\*“**If I gave something up earlier to stay safe, I need to restore balance now.**”\*
 
 **The Mirror Side**
 
@@ -142,23 +144,21 @@ When autonomy is compromised—even gently, even through love and connection—t
 
 This is why:
 
-\* a child may tolerate school all day and unravel at home
-
-\* a “good morning” turns into a hard evening
-
-\* a cooperative routine suddenly resurfaces at an unexpected hour
+- a child may tolerate school all day and unravel at home
+- a “good morning” turns into a hard evening
+- a cooperative routine suddenly resurfaces at an unexpected hour
 
 The demand didn’t disappear. It was held—until it couldn’t be anymore.
 
-The Delayed Mirror: When I Froze and Advocated Later
+**The Delayed Mirror: When I Froze and Advocated Later**
 
 That same need for autonomy surfaced for me in 2020 during a therapy session. Arthur’s occupational therapist used hand-over-hand assistance. As his hands were guided, Arthur escalated.
 
 My own nervous system spiked—and I froze.
 
-I wanted to say “stop.”
+I wanted to say “**stop**.”
 
-I wanted to protect his autonomy.
+I wanted to protect his [autonomy](https://bambinotherapy.com/articles/access-with-autonomy-aac-as-an-invitation-not-a-requirement/).
 
 But my voice locked in my throat.
 
@@ -200,11 +200,13 @@ Arthur didn’t.
 
 He sensed the shift, took the remote, and replaced the video with his favourite **Litany of the Blessed Virgin Mary**—a melodic invitation rather than a moral demand.
 
+![](/media/uploads/whatsapp-image-2026-02-03-at-00.44.48.jpeg)
+
 The relief was immediate. My heart rate slowed. The ice began to thaw.
 
 This wasn’t about control. This was **co-regulation.**
 
-My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to **my physiology. ** By changing the environment, he moved us from performance-based safety to relational safety.
+My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to \*\*my physiology. \*\* By changing the environment, he moved us from performance-based safety to relational safety.
 
 In some instances, he also takes away my phone when he senses that I am on the verge of breaking after reading triggering messages.
 
@@ -306,11 +308,11 @@ If your child:
 
 they are not being inconsistent.
 
-They are managing a \*fluctuating nervous-system capacity.\*
+They are managing a \***fluctuating nervous-system capacity.**\*
 
 When we stop asking, _“**Why won’t they just**…?”_
 
-and start asking, _“**How full is their cup right now?**”_
+and start asking, _“\*\***How full is their cup right now?**\*\*”_
 
 we move from behaviour management to nervous-system care.
 
