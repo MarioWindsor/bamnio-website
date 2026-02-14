@@ -3,6 +3,13 @@ tags:
   - articles
 date: 2026-02-14T16:23:00
 title: When Help Felt Like Pressure, Thinking Aloud Changed Everything
+cover: /media/uploads/whatsapp-image-2026-02-04-at-23.02.49.jpeg
+author-credit:
+  name: Teslin Joseph
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
+  website: https://teslinj7.substack.com/
+  backlink: https://bambinotherapy.com/articles/the-mirror-iceberg-pda-equalising-and-the-cost-of-holding-it-together/
+  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 ---
 
 Recently, we had a moment that perfectly captured the evolution of Arthur’s communication—and the growing pains of my own understanding as his partner in this dance.
@@ -16,6 +23,8 @@ He began using my finger to point under the bed or sofa to mean something was mi
 Then came a shift he created himself.
 
 Arthur began using the shoe stick—the tool I use to reach things under the sofa—as a symbolic communication system. Handing me the stick became his self-authored way of saying:
+
+![](/media/uploads/whatsapp-image-2026-02-04-at-23.02.49.jpeg)
 
 The world feels incomplete. Something vital is missing. Help me find it.
 
@@ -31,7 +40,7 @@ It was midnight, but for Arthur, it was the beginning of his day. My sleep sched
 
 He handed it to me.
 
-I wasn’t keeping well. I heard the irritation in my own voice before I fully registered him. I told him honestly that I understood something was missing, but that my capacity to search for it was limited at that hour. I didn’t have the energy to be in “detective mode.” 
+I wasn’t keeping well. I heard the irritation in my own voice before I fully registered him. I told him honestly that I understood something was missing, but that my capacity to search for it was limited at that hour. I didn’t have the energy to be in “detective mode.”
 
 He handed me the stick again.
 
@@ -61,9 +70,13 @@ Once the peg was returned, Arthur’s system settled. The pattern was whole agai
 
 I then modelled language on his AAC device, thinking aloud as I navigated:
 
+![](/media/uploads/whatsapp-image-2026-02-04-at-23.03.01.jpeg)
+
 - I go to the Colour folder to say RED.
 - Then I open the Shapes folder and long-press circle to explore related word forms, and choose CIRCULAR.
 - I notice that the word "peg" isn’t available in CoughDrop vocabulary, so I will type it using the native keyboard.
+
+![](/media/uploads/whatsapp-image-2026-02-04-at-23.03.08.jpeg)
 
 I wasn’t asking him to respond. I was simply offering a map for future reference.
 
@@ -82,6 +95,8 @@ His choice to stay present—and to close the interaction on his own terms—was
 It was only later, while reflecting with my psychotherapist, that I fully understood why my initial "help" had backfired.
 
 For a PDA neurotype, even a "choice" can feel like a demand for a response. When I offered the AAC folder or the pointing option, the expectation that he must respond was still there—and for his nervous system, that expectation itself was the pressure.
+
+![](/media/uploads/WhatsApp%20Image%202026-02-11%20at%2009.06.17.jpeg)
 
 Thinking aloud was the key because it does three things at once:
 
@@ -114,7 +129,6 @@ My therapist helped me shape language I plan to use next time:
 The choice stays with Arthur.
 
 The relationship stays intact.
-
 
 **Practical Takeaways**
 
