@@ -8,137 +8,161 @@
 .article-section {
 	position: relative;
 
-	.cover {
-		display: block;
-		/*position: sticky;*/
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100%;
-		height: auto;
-		padding-top: 50%;
-		z-index: -1;
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-position: center center;
-		background-attachment: fixed;
-		opacity: 0.85;
-		/*mix-blend-mode: hard-light;*/
-
-		&:after {
-			content: '';
-			display: block;
-			position: absolute;
-			left: 0;
-			bottom: 0;
-			width: 100%;
-			height: auto;
-			padding-top: 75%;
-			background-image: linear-gradient(to top, white, transparent);
-		}
-	}
-
-	.article {
-		z-index: 1;
-		padding-top: var(--space-200);
-		/*margin-top: calc((var(--container-width) / 4) * 1);*/
-
-		.author {
-			display: flex;
-			flex-direction: row;
-			gap: var(--space-25);
-			align-items: center;
-			justify-content: space-between;
-
-			.author-photo {
-				width: var(--space-100);
-				height: var(--space-100);
-				object-fit: cover;
-				border-radius: var(--space-min);
-			}
-
-			.author-info {
-				flex-grow: 1;
-				line-height: 1;
-
-				.author-title {
-					overflow: hidden;
-					display: -webkit-box;
-					-webkit-line-clamp: 1;
-					-webkit-box-orient: vertical;
-					text-overflow: ellipsis;
-				}
-			}
-		}
-
-		.article-content {
-			display: grid;
-			gap: var(--space-50);
-		}
+	.article-row {
+		display: grid;
+		gap: var(--space-100);
+		align-items: start;
+		grid-template-columns: repeat(1, 1fr);
 
 		@media( min-width: 1000px ) {
-			/*margin-top: calc((var(--container-width) / 3) * 1);*/
+			grid-template-columns: repeat(3, 1fr);
+		}
 
-			.card {
-				padding: var(--space-100);
+		@media( min-width: 1500px ) {
+			grid-template-columns: repeat(4, 1fr);
+		}
+
+		.article {
+			min-width: 0;
+
+			.author {
+				display: flex;
+				flex-direction: row;
+				gap: var(--space-25);
+				align-items: center;
+				justify-content: space-between;
+
+				.author-photo {
+					width: var(--space-100);
+					height: var(--space-100);
+					object-fit: cover;
+					border-radius: var(--space-min);
+				}
+
+				.author-info {
+					flex-grow: 1;
+					min-width: 0;
+					overflow: hidden;
+					line-height: 1;
+
+					.author-title {
+						overflow: hidden;
+						display: -webkit-box;
+						-webkit-line-clamp: 1;
+						-webkit-box-orient: vertical;
+						text-overflow: ellipsis;
+					}
+				}
 			}
-			.title {
-				font-size: var(--h2);
+
+			.article-content {
+				display: grid;
+				gap: var(--space-50);
 			}
-			.description {
-				font-size: var(--h5);
+
+			@media( min-width: 1000px ) {
+				grid-column: span 2;
+			}
+
+			@media( min-width: 1500px ) {
+				grid-column: span 3;
+			}
+		}
+
+		.sidebar {
+
+			.intro {
+				position: relative;
+				
+				.heading {
+					font-size: var(--h4);
+				}
+				.sub-heading {
+					font-size: var(--h6);
+				}
+				.action {
+					display: inline-flex;
+					align-items: center;
+					transform: scale(1.25);
+					transform-origin: top left;
+		
+					i {
+						transform: scale(1.75);
+						margin-right: var(--space-25);
+					}
+				}
+				.kid {
+					z-index: -1;
+					mix-blend-mode: lighten;
+					transform: scale(1.375);
+					transform-origin: top left;
+				}
+			}
+
+			@media( min-width: 1000px ) {
+				position: sticky;
+				top: var(--space-100);
 			}
 		}
 	}
 }
+
+
 </style>
 <section id="article-section" class="article-section">
-	<div class="row">
-		<div class="cover" style="background-image: url('{{ cover }}');"></div>
-		<div class="article">
-			<div class="container">
-				<div class="columns small-12 large-12 xlarge-9">
-					<div class="card space-50">
-						<h2 class="title h3 text-dark w-600">{{ title }}</h2>
-						<h3 class="description h6 text-dark space-50-top">{{ description }}</h3>
-						<!-- <h6 class="small w-600 text-neutral-20 text-uppercase space-25-vertical">Author:</h6> -->
-						<small class="date block text-neutral-50 space-50-top">Published On {{ date | date: "%b %d, %Y" }}</small>
-						<div class="author space-25-top">
-						{% if author-credit != blank %}
-							<img class="author-photo" src="{{ author-credit.photo }}" alt="">
-							<div class="author-info">
-								
-									
-								
-								{% if author-credit.name %}
-								<p class="small author-name text-dark">By 
-									{% if author-credit.website %}
-									<a href="{{ author-credit.website }}">{{ author-credit.name }}</a>
-									{% else %}
-									{{ author-credit.name }}</a>
-									{% endif %}
-								</p>
-								{% endif %}
-								<p class="small author-title text-neutral-50 no-overflow-text">{{ author-credit.title }}</p>
-							</div>
-						{% else %}
-							<img class="author-photo" src="media/hima-nair-photo.png" alt="">
-							<div class="author-info">
-								<p class="small author-name text-dark">By Hima Nair</p>
-								<p class="small author-title text-neutral-50">Founder &amp; SLP</p>
-							</div>
+	<div class="container">
+		<div class="article-row">
+			<div class="article">
+				<div class="cover space-100-bottom"><img class="block overflow-clip box-shadow radius-25" src="{{ cover }}" alt=""></div>
+				<h2 class="title h3 text-dark w-600">{{ title }}</h2>
+				<h3 class="description h6 text-dark space-50-top">{{ description }}</h3>
+				<small class="date block text-neutral-50 space-50-top">Published On {{ date | date: "%b %d, %Y" }}</small>
+				<div class="author space-25-top">
+				{% if author-credit != blank %}
+					<img class="author-photo" src="{{ author-credit.photo }}" alt="">
+					<div class="author-info">
+						{% if author-credit.name %}
+						<p class="small author-name text-dark">By 
+							{% if author-credit.website %}
+							<a href="{{ author-credit.website }}">{{ author-credit.name }}</a>
+							{% else %}
+							{{ author-credit.name }}</a>
+							{% endif %}
+						</p>
 						{% endif %}
+						<p class="small author-title text-neutral-50 no-overflow-text">{{ author-credit.title }}</p>
+					</div>
+				{% else %}
+					<img class="author-photo" src="media/hima-nair-photo.png" alt="">
+					<div class="author-info">
+						<p class="small author-name text-dark">By Hima Nair</p>
+						<p class="small author-title text-neutral-50">Founder &amp; SLP</p>
+					</div>
+				{% endif %}
+				</div>
+				
+				<div class="article-content space-100-top">
+					{{ content }}
+				</div>
+					
+				{% if author-credit.backlink %}
+				<div class="backlink space-50-top">
+					<small style="display: flex; align-items: center; gap: var(--space-min);"><i class='label bx bx-link' ></i> Source: <a class="inline no-overflow-text" href="{{ author-credit.backlink }}">{{ author-credit.backlink }}</a></small>
+				</div>
+				{% endif %}
+			</div>
+			<div class="sidebar">
+				<div class="intro fill-primary space-100 radius-25 box-shadow no-overflow-clip">
+					<div class="row">
+						<div class="columns small-12 medium-6 large-12">
+							<h1 class="heading strong space-25-bottom">Empowering <br>Communication</h1>
+							<h2 class="sub-heading">Neurodiversity-affirming <br>Therapy for children</h4>
+							<h6 class="cta strong uppercase space-75-vertical">&nbsp;For a <span class="fill-secondary radius-min">&nbsp;FREE 20 Minutes&nbsp;<br>&nbsp;Consultation&nbsp;</span> Contact...</h5>
+							<a class="action button fill-secondary w-600 radius-min box-shadow" href="tel: +919620559517"><i class="bx bxs-phone-call" style="font-size: inherit;"></i> +91-96205-59517</a>
 						</div>
-
-						<div class="article-content space-50-top">
-							{{ content }}
+						<div class="columns small-12 medium-6 large-12">
+							<img class="kid" src="media/genai-intro-kid.png" alt="">
 						</div>
-							
-						{% if author-credit.backlink %}
-						<div class="backlink space-50-top">
-							<small style="display: flex; align-items: center; gap: var(--space-min);"><i class='label bx bx-link' ></i> Source: <a class="inline no-overflow-text" href="{{ author-credit.backlink }}">{{ author-credit.backlink }}</a></small>
-						</div>
-						{% endif %}
 					</div>
 				</div>
 			</div>
@@ -146,6 +170,85 @@
 	</div>
 </section>
 <!-- End: Article Section -->
+
+
+<!-- Related Articles Section -->
+<style>
+.articles-section {
+	.articles {
+		/*font-size: 0;*/
+		display: grid;
+		gap: var(--space-50);
+		grid-template-columns: repeat(1, 1fr);
+
+		.article {
+			display: flex;
+			align-content: start;
+			flex-direction: column;
+			gap: var(--space-50);
+
+			.thumbnail {
+				aspect-ratio: 2 / 1;
+				object-fit: cover;
+			}
+			.info {
+				flex-grow: 1;
+			}
+			.info .title {
+				overflow: hidden;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				text-overflow: ellipsis;
+			}
+		}
+
+		@media( min-width: 500px ) {
+			grid-template-columns: repeat(2, 1fr);
+		}
+
+		@media( min-width: 1000px ) {
+			grid-template-columns: repeat(3, 1fr);
+		}
+
+		@media( min-width: 1500px ) {
+			grid-template-columns: repeat(4, 1fr);
+		}
+	}
+}
+</style>
+<section id="related-articles-section" class="articles-section gap">
+	<div class="container">
+		<div class="row">
+			<div class="columns small-12">
+				<div class="label text-uppercase space-50-bottom" style="border-top: 1px solid var(--neutral-20); padding-top: var(--space-50);">Related Articles</div>
+				<div class="articles">
+				{% assign count = 0 %}
+				{% for article in collections.articles %}
+					{% if article.url != page.url %}
+					<div class="article card space-50">
+						<a href="{{ article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
+						<div class="info">
+							<small class="date block text-neutral-50 space-min-bottom">{{ article.date | date: "%b %d, %Y" }}</small>
+							<a href="{{ article.url }}"><h3 class="title h4 w-600">{{ article.data.title }}</h3></a>
+							{% if article.data.description != blank %}
+							<p class="description small text-dark space-25-top">{{ article.data.description }}</p>
+							{% else %}
+							<p class="excerpt small text-dark space-25-top">{{ article.content | strip_html | truncate: 145, "..." }}</p>
+							{% endif %}
+						</div>
+						<a href="{{ article.url }}"><span class="action small strong text-uppercase text-primary" style="display: flex ; align-items: center; justify-content: space-between;"><span style="flex-grow: 1;">View Article</span> <i class='h6 bx bx-right-arrow-alt' ></i></span></a>
+					</div>
+					{% assign count = count | plus: 1 %}
+					{% if count == 4 %}{% break %}{% endif %}
+					{% endif %}
+				{% endfor %}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End: Related Articles Section -->
 
 
 

@@ -19,69 +19,77 @@
 
 <!-- Intro Section -->
 <style>
-.intro-section { position: relative; }
+.intro-section {
+	position: relative;
 
-.intro-section .intro .heading {
-	font-size: var(--h4);
-}
-.intro-section .intro .sub-heading {
-	font-size: var(--h6);
-}
-.intro-section .intro .action {
-	display: inline-flex;
-	align-items: center;
-	transform: scale(1.25);
-	transform-origin: top left;
-}
-.intro-section .intro .action i {
-	transform: scale(1.75);
-	margin-right: var(--space-25);
-}
-.intro-section .intro .kid {
-	z-index: -1;
-	mix-blend-mode: lighten;
-	transform: scale(1.375);
-	transform-origin: top left;
-}
-@media( min-width: 500px )  {
-	.intro-section .intro .heading {
-		font-size: var(--h2);
-	}
-	.intro-section .intro .sub-heading {
-		font-size: var(--h4);
-	}
-	.intro-section .intro .action {
-		transform: scale(1);
-	}
-	.intro-section .intro .kid {
-		transform: scale(3);
-		transform-origin: top center;
-	}
-}
-@media( min-width: 1000px ) {
-	.intro-section .intro .heading {
-		font-size: calc(var(--h1)*1.25);
-	}
-	.intro-section .intro .sub-heading {
-		font-size: calc(var(--h4)*1.25);
-	}
-	.intro-section .intro .action {
-		transform: scale(1.25);
-		transform-origin: bottom left;
-	}
-	.intro-section .intro .kid {
-		transform: scale(1.5);
-		transform-origin: top center;
-	}
-}
-@media( min-width: 1500px ) {
-	.intro-section .intro .action {
-		transform: scale(1.5);
-		transform-origin: top left;
-	}
-	.intro-section .intro .kid {
-		transform: scale(1.1);
-		transform-origin: top center;
+	.intro {
+		.heading {
+			font-size: var(--h4);
+		}
+		.sub-heading {
+			font-size: var(--h6);
+		}
+		.action {
+			display: inline-flex;
+			align-items: center;
+			transform: scale(1.25);
+			transform-origin: top left;
+
+			i {
+				transform: scale(1.75);
+				margin-right: var(--space-25);
+			}
+		}
+		.kid {
+			z-index: -1;
+			mix-blend-mode: lighten;
+			transform: scale(1.375);
+			transform-origin: top left;
+		}
+
+		@media( min-width: 500px ) {
+			.heading {
+				font-size: var(--h2);
+			}
+			.sub-heading {
+				font-size: var(--h4);
+			}
+			.action {
+				transform: scale(1);
+			}
+			.kid {
+				transform: scale(3);
+				transform-origin: top center;
+			}
+		}
+
+		@media( min-width: 1000px ) {
+			.heading {
+				font-size: calc(var(--h1)*1.25);
+			}
+			.sub-heading {
+				font-size: calc(var(--h4)*1.25);
+			}
+			.action {
+				transform: scale(1.25);
+				transform-origin: bottom left;
+			}
+			.kid {
+				transform: scale(1.5);
+				transform-origin: top center;
+			}
+		}
+
+		@media( min-width: 1500px ) {
+			.action {
+				transform: scale(1.5);
+				transform-origin: top left;
+			}
+			.kid {
+				transform: scale(1.1);
+				transform-origin: top center;
+			}
+		}
 	}
 }
 </style>
@@ -102,15 +110,6 @@
 				</div>
 			</div>
 		</div>
-		<div class="row space-100-top hidden">
-			<div class="columns small-12 medium-7 large-6 xlarge-5">
-				<div class="card space-50">
-					<label class="block text-dark w-600 text-uppercase space-min-bottom">Location:</label>
-					<label class="block space-50-bottom">1st Floor No.4, Windsor Tranquil, 4th Cross St, CRP Layout, Horamavu Agara, Horamavu, Bengaluru - 560043, Karnataka, India.</label>
-					<a class="button fill-dark radius-min" href="https://maps.app.goo.gl/RB9ZtjMDcNuJoBNeA" target="_blank"><i class="bx bxs-map" style="scale: 1.76; margin-right: var(--space-25);"></i>Open in Google Maps</a>
-				</div>
-			</div>
-		</div>
 	</div>
 </section>
 <!-- End: Intro Section -->
@@ -118,45 +117,46 @@
 
 <!-- Articles Section -->
 <style>
-.articles-section {}
-.articles-section .articles {
-	font-size: 0;
-	display: grid;
-	gap: var(--space-50);
-	grid-template-columns: repeat(1, 1fr);
-}
-.articles-section .articles .article {
-	display: grid;
-	gap: var(--space-50);
-	grid-template-columns: repeat(1, 1fr);
-}
-.articles-section .articles .article .thumbnail {
-	aspect-ratio: 2 / 1;
-	object-fit: cover;
-}
-.articles-section .articles .article .info .title {
-	overflow: hidden;
-	display: -webkit-box;
-	-webkit-line-clamp: 2;
-	-webkit-box-orient: vertical;
-	text-overflow: ellipsis;
-}
+.articles-section {
+	.articles {
+		font-size: 0;
+		display: grid;
+		gap: var(--space-50);
+		grid-template-columns: repeat(1, 1fr);
 
-@media( min-width: 500px )  {
-	.articles-section .articles {
-		grid-template-columns: repeat(2, 1fr);
-	}
-}
+		.article {
+			display: flex;
+			align-content: start;
+			flex-direction: column;
+			gap: var(--space-50);
 
-@media( min-width: 1000px ) {
-	.articles-section .articles {
-		grid-template-columns: repeat(3, 1fr);
-	}
-}
+			.thumbnail {
+				aspect-ratio: 2 / 1;
+				object-fit: cover;
+			}
+			.info {
+				flex-grow: 1;
+			}
+			.info .title {
+				overflow: hidden;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				text-overflow: ellipsis;
+			}
+		}
 
-@media( min-width: 1500px ) {
-	.articles-section .articles {
-		grid-template-columns: repeat(4, 1fr);
+		@media( min-width: 500px ) {
+			grid-template-columns: repeat(2, 1fr);
+		}
+
+		@media( min-width: 1000px ) {
+			grid-template-columns: repeat(3, 1fr);
+		}
+
+		@media( min-width: 1500px ) {
+			grid-template-columns: repeat(4, 1fr);
+		}
 	}
 }
 
@@ -176,7 +176,7 @@
 							{% if article.data.description != blank %}
 							<p class="description small text-dark space-25-top">{{ article.data.description }}</p>
 							{% else %}
-							<p class="excerpt small text-dark space-25-top">{{ article.content | strip_html | truncate: 145, "..." }}</p>
+							<p class="excerpt small text-dark space-25-top">{{ article.content | strip_html | truncate: 240, "..." }}</p>
 							{% endif %}
 						</div>
 						<a href="{{ article.url }}"><span class="action small strong text-uppercase text-primary" style="display: flex ; align-items: center; justify-content: space-between;"><span style="flex-grow: 1;">View Article</span> <i class='h6 bx bx-right-arrow-alt' ></i></span></a>
