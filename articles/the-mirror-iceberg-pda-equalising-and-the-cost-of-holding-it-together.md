@@ -21,9 +21,9 @@ For a long time, I described my experience as internalised PDA after watching [S
 
 What looks like calm, compliance, or silence from the outside is actually my nervous system entering survival mode—most often through funster, fawn, or freeze. My voice doesn’t argue; it locks. Not because I agree, but because my capacity to resist safely has dropped too low.
 
-![](/media/uploads/whatsapp-image-2026-02-03-at-00.38.39.jpeg)
-
 Arthur and I aren’t different kinds of PDAers. We are responding to the same loss of autonomy—just through different survival pathways, shaped by capacity and context.
+
+![](/media/uploads/whatsapp-image-2026-02-03-at-00.38.39.jpeg)
 
 Instead of a straight line, PDA is better understood as a dynamic distribution of nervous system dimensions, including:
 
