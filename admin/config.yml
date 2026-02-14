@@ -43,8 +43,6 @@ collections:
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Cover Image", name: "cover", widget: "image", hint: "Aspect Ratio 2:1 (Width = 2 x Height)", required: false }
       - { label: "SEO Short Description", name: "description", widget: "text", hint: "Limit to 150 Characters", required: false }
-      - { label: "Category", name: "category", widget: "string", hint: "Group articles by topic (e.g. Parenting, Therapy)", required: false }
-      - { label: "Related Articles", name: "related", widget: "relation", collection: "articles", search_fields: ["title"], value_field: "url", display_fields: ["title"], multiple: true, required: false, hint: "Manually select specific articles to recommend." }
       - label: "Author Credit"
         name: "author-credit"
         widget: "object"
@@ -56,6 +54,8 @@ collections:
           - { label: "Author Website URL (Optional)", name: "website", hint: "Eg: `https://bambinotherapy.com` — Note: Add Full URL including https", widget: "string", required: false }
           - { label: "Article Source Backlink (Optional)", name: "backlink", widget: "string", hint: "Eg: `https://bambinotherapy.com/articles/sample-article`", required: false }
           - { label: "Author Photo", name: "photo", widget: "image", hint: "Aspect Ratio 1:1 (Square Image)", required: false }
+      - { label: "Category", name: "category", widget: "string", hint: "Group articles by topic (e.g. Parenting, Therapy)", required: false }
+      - { label: "Related Articles", name: "related", widget: "relation", collection: "articles", search_fields: ["title", "category"], value_field: "url", display_fields: ["title", "date"], multiple: true, required: false, hint: "Manually select specific articles to recommend." }
   - name: "testimonials"
     label: "Testimonials"
     folder: "testimonials"

@@ -279,8 +279,12 @@
 
 				{% comment %} 1. Explicit Linked Articles {% endcomment %}
 				{% if related %}
-					{% for related_url in related %}
-						{% assign matched_article = collections.articles | where: "url", related_url | first %}
+					{% for related_ref in related %}
+						{% assign matched_article = collections.articles | where: "url", related_ref | first %}
+						{% unless matched_article %}
+							{% assign matched_article = collections.articles | where: "data.title", related_ref | first %}
+						{% endunless %}
+
 						{% if matched_article %}
 							<div class="article card space-50 item-{{ count }}">
 								<a href="{{ matched_article.url }}"><img class="thumbnail block radius-min no-overflow-clip" src="{{ matched_article.data.cover }}" alt=""></a>
