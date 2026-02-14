@@ -123,7 +123,7 @@ In therapy, something important clicked: the neuroaffirming path forward wasn’
 
 My therapist helped me shape language I plan to use next time:
 
-“**I want to help, but I’m stuck. You can give me a clue now, or I can keep looking on my own, which might take longer.**”
+> “I want to help, but I’m stuck. You can give me a clue now, or I can keep looking on my own, which might take longer.”
 
 The choice stays with Arthur.
 
