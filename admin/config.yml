@@ -43,6 +43,8 @@ collections:
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Cover Image", name: "cover", widget: "image", hint: "Aspect Ratio 2:1 (Width = 2 x Height)", required: false }
       - { label: "SEO Short Description", name: "description", widget: "text", hint: "Limit to 150 Characters", required: false }
+      - { label: "Category", name: "category", widget: "string", hint: "Group articles by topic (e.g. Parenting, Therapy)", required: false }
+      - { label: "Related Articles", name: "related", widget: "relation", collection: "articles", search_fields: ["title"], value_field: "url", display_fields: ["title"], multiple: true, required: false, hint: "Manually select specific articles to recommend." }
       - label: "Author Credit"
         name: "author-credit"
         widget: "object"

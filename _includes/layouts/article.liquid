@@ -8,6 +8,8 @@
 .article-section {
 	position: relative;
 
+	}
+	
 	.article-row {
 		display: grid;
 		gap: var(--space-100);
@@ -20,6 +22,7 @@
 
 		@media( min-width: 1500px ) {
 			grid-template-columns: repeat(4, 1fr);
+			gap: var(--space-200);
 		}
 
 		.article {
@@ -58,6 +61,10 @@
 			.article-content {
 				display: grid;
 				gap: var(--space-50);
+
+				img {
+					border-radius: var(--space-25);
+				}
 			}
 
 			@media( min-width: 1000px ) {
@@ -212,8 +219,25 @@
 			grid-template-columns: repeat(3, 1fr);
 		}
 
+		@media( min-width: 1000px ) {
+			grid-template-columns: repeat(3, 1fr);
+
+			.item-0 {
+				grid-column: span 2;
+				grid-row: span 2;
+			}
+		}
+
 		@media( min-width: 1500px ) {
 			grid-template-columns: repeat(4, 1fr);
+
+			.item-0 {
+				grid-column: span 2;
+				grid-row: auto;
+			}
+			.item-1 {
+				grid-column: span 2;
+			}
 		}
 	}
 }
@@ -225,25 +249,87 @@
 				<div class="label text-uppercase space-50-bottom" style="border-top: 1px solid var(--neutral-20); padding-top: var(--space-50);">Related Articles</div>
 				<div class="articles">
 				{% assign count = 0 %}
-				{% for article in collections.articles reversed %}
-					{% if article.url != page.url %}
-					<div class="article card space-50">
-						<a href="{{ article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
-						<div class="info">
-							<small class="date block text-neutral-50 space-min-bottom">{{ article.date | date: "%b %d, %Y" }}</small>
-							<a href="{{ article.url }}"><h3 class="title h6 w-600">{{ article.data.title }}</h3></a>
-							{% if article.data.description != blank %}
-							<p class="description small text-dark space-25-top">{{ article.data.description }}</p>
-							{% else %}
-							<p class="excerpt small text-dark space-25-top">{{ article.content | strip_html | truncate: 145, "..." }}</p>
-							{% endif %}
+				{% assign excluded_ids = page.url | append: "," %}
+
+				{% comment %} 1. Explicit Linked Articles {% endcomment %}
+				{% if related %}
+					{% for related_url in related %}
+						{% assign matched_article = collections.articles | where: "url", related_url | first %}
+						{% if matched_article %}
+							<div class="article card space-50 item-{{ count }}">
+								<a href="{{ matched_article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ matched_article.data.cover }}" alt=""></a>
+								<div class="info">
+									<small class="date block text-neutral-50 space-min-bottom">{{ matched_article.date | date: "%b %d, %Y" }}</small>
+									<a href="{{ matched_article.url }}"><h3 class="title h6 w-600">{{ matched_article.data.title }}</h3></a>
+									{% if matched_article.data.description != blank %}
+									<p class="description small text-dark space-25-top">{{ matched_article.data.description }}</p>
+									{% else %}
+									<p class="excerpt small text-dark space-25-top">{{ matched_article.content | strip_html | truncate: 145, "..." }}</p>
+									{% endif %}
+								</div>
+								<a href="{{ matched_article.url }}"><span class="action small strong text-uppercase text-primary" style="display: flex ; align-items: center; justify-content: space-between;"><span style="flex-grow: 1;">View Article</span> <i class='h6 bx bx-right-arrow-alt' ></i></span></a>
+							</div>
+							{% assign count = count | plus: 1 %}
+							{% assign excluded_ids = excluded_ids | append: matched_article.url | append: "," %}
+							
+							{% if count == 6 %}{% break %}{% endif %}
+						{% endif %}
+					{% endfor %}
+				{% endif %}
+				
+				{% comment %} 2. Category Match {% endcomment %}
+				{% if count < 6 and category %}
+					{% for article in collections.articles reversed %}
+						{% if count == 6 %}{% break %}{% endif %}
+						
+						{% assign check_id = article.url | append: "," %}
+						{% if excluded_ids contains check_id %}{% continue %}{% endif %}
+
+						{% if article.data.category == category %}
+							<div class="article card space-50 item-{{ count }}">
+								<a href="{{ article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
+								<div class="info">
+									<small class="date block text-neutral-50 space-min-bottom">{{ article.date | date: "%b %d, %Y" }}</small>
+									<a href="{{ article.url }}"><h3 class="title h6 w-600">{{ article.data.title }}</h3></a>
+									{% if article.data.description != blank %}
+									<p class="description small text-dark space-25-top">{{ article.data.description }}</p>
+									{% else %}
+									<p class="excerpt small text-dark space-25-top">{{ article.content | strip_html | truncate: 145, "..." }}</p>
+									{% endif %}
+								</div>
+								<a href="{{ article.url }}"><span class="action small strong text-uppercase text-primary" style="display: flex ; align-items: center; justify-content: space-between;"><span style="flex-grow: 1;">View Article</span> <i class='h6 bx bx-right-arrow-alt' ></i></span></a>
+							</div>
+							{% assign count = count | plus: 1 %}
+							{% assign excluded_ids = excluded_ids | append: article.url | append: "," %}
+						{% endif %}
+					{% endfor %}
+				{% endif %}
+
+				{% comment %} 3. Recent Fallback {% endcomment %}
+				{% if count < 6 %}
+					{% for article in collections.articles reversed %}
+						{% if count == 6 %}{% break %}{% endif %}
+
+						{% assign check_id = article.url | append: "," %}
+						{% if excluded_ids contains check_id %}{% continue %}{% endif %}
+
+						<div class="article card space-50 item-{{ count }}">
+							<a href="{{ article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
+							<div class="info">
+								<small class="date block text-neutral-50 space-min-bottom">{{ article.date | date: "%b %d, %Y" }}</small>
+								<a href="{{ article.url }}"><h3 class="title h6 w-600">{{ article.data.title }}</h3></a>
+								{% if article.data.description != blank %}
+								<p class="description small text-dark space-25-top">{{ article.data.description }}</p>
+								{% else %}
+								<p class="excerpt small text-dark space-25-top">{{ article.content | strip_html | truncate: 145, "..." }}</p>
+								{% endif %}
+							</div>
+							<a href="{{ article.url }}"><span class="action small strong text-uppercase text-primary" style="display: flex ; align-items: center; justify-content: space-between;"><span style="flex-grow: 1;">View Article</span> <i class='h6 bx bx-right-arrow-alt' ></i></span></a>
 						</div>
-						<a href="{{ article.url }}"><span class="action small strong text-uppercase text-primary" style="display: flex ; align-items: center; justify-content: space-between;"><span style="flex-grow: 1;">View Article</span> <i class='h6 bx bx-right-arrow-alt' ></i></span></a>
-					</div>
-					{% assign count = count | plus: 1 %}
-					{% if count == 4 %}{% break %}{% endif %}
-					{% endif %}
-				{% endfor %}
+						{% assign count = count | plus: 1 %}
+						{% assign excluded_ids = excluded_ids | append: article.url | append: "," %}
+					{% endfor %}
+				{% endif %}
 				</div>
 			</div>
 		</div>
