@@ -37,8 +37,6 @@ Instead of a straight line, PDA is better understood as a dynamic distribution o
 
 **The Visible and the Hidden: Two Sides of the Same Nervous System Load**
 
-![](/media/uploads/whatsapp-image-2026-01-22-at-14.50.58.jpeg)
-
 Like an iceberg, most of what shapes a PDAer’s responses lives below the waterline—in the nervous system, not in choice or intent. This is why two children (or a child and a parent) can experience the same loss of control and respond in completely different ways. One may “move the world.” The other may go quiet. Both are surviving.
 
 Some PDAers externalise distress. Their “no” is loud, visible, and immediate. Others internalise. They may appear compliant, frozen, or agreeable—until they suddenly aren’t.
@@ -113,7 +111,7 @@ On the surface, this can look confusing or even contradictory:
 
 A neuroaffirming lens helps us see what’s really happening.
 
-My therapist helped me name something important here: in these moments, Arthur may be \*\*\*prioritising connection over autonomy.\*\*\* His desire for undivided attention from his father is so strong that he is willing—temporarily—to loosen his grip on autonomy. His nervous system may still be activated, but his window of tolerance is wider in that relational context. The task is not neutral; it is buffered by safety, predictability, and deep attachment.
+My therapist helped me name something important here: in these moments, Arthur may be \*\*\***prioritising connection over autonomy**.\*\*\* His desire for undivided attention from his father is so strong that he is willing—temporarily—to loosen his grip on autonomy. His nervous system may still be activated, but his window of tolerance is wider in that relational context. The task is not neutral; it is buffered by safety, predictability, and deep attachment.
 
 This is not true compliance. It is a nervous-system trade-off. And trade-offs carry a cost.
 
