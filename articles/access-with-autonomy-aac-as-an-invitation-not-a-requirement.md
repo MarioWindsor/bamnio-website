@@ -67,8 +67,6 @@ He gestured to let me know I could go and do my own thing.
 
 That moment mattered—not because he used AAC, but because he used it **when he needed it, on his terms, with trust** that he would be understood.
 
-![]()
-
 For us, AAC is not about doing it “right.”
 
 It is about making sure Arthur always has a way to say
@@ -97,27 +95,19 @@ It is not something to be taken away when it isn’t used “enough.”
 
 It is not a measure of success or compliance.
 
-![]()
-
 We may not always know **when** a child will choose to use their AAC device.
 
 But we will never know **if** we don’t keep it available.
 
 And sometimes, the most meaningful communication happens not when a button is pressed—but when we choose to **listen, wait, and trust.**
 
-![]()
-
 Because communication is not about words alone.
 
 It is about choice, trust, and being truly heard.
 
-![]()
-
 The Origin of the Invitation
 
 This approach—honoring choice over compliance—wasn’t something I understood overnight. It began years ago with Melissa & Doug alphabet boards and a toddler who refused to be measured. To see the moment I first learned the power of strewing—back when I didn't even know the name for it—over direct prompting, read [When Learning Bloomed Without Being Asked | How Strewing Changed My Equation with My PDA Child]](https://bambinotherapy.com/articles/when-learning-bloomed-without-being-asked-how-strewing-changed-my-equation-with-my-pda-child/)
-
-![]()
 
 Further Reading
 

@@ -17,8 +17,6 @@ author-credit:
 ---
 This blog is a part of the series that intends to throw more light on Self-Advocacy skills, as self-regulation is the first step to towards self advocacy.
 
-![]()
-
 **Let us understand What is Self Regulation?**
 
 Self-regulation is the ability to manage our thoughts, feelings and behaviours in various  circumstances. To be honest, even I, as a mother of a neurodivergent child,  learnt about emotional regulation for the first time from a Therapist. I had no idea how important it is to regulate my own emotions and teach the same to my child.
@@ -34,20 +32,12 @@ Self-regulation is the ability to manage our thoughts, feelings and behaviours i
 
 **Role of Co-regulation**        
 
-![]()
-
 Co-regulation is a process where one person’s nervous system positively influences the person next to him. The presence of a calm adult enhances the chances of emotional regulation and builds a sense of safety in the dysregulated individual. The concept of self-regulation and co-regulation are interconnected, and it is essential for us to stay regulated first and then help others around to manage their emotions.
-
-![]()
 
 **Importance of self-regulation in the Neurodivergent population** 
 
 When neurodivergent children find it difficult to regulate themselves, they may have a melt-down / shut-down. They engage in stims in overwhelming situations. The self stimulatory behaviours (Stims) are coping mechanisms to regulate the nervous system. They should not be stopped forcefully, as it is a way of regulating emotions and feelings.  Parents  have to understand the need for self-regulation and  help the children learn ways to calm themselves. The interoceptive skill deficits are the major cause of dysregulation. Interoception is the ability to identify what is going on inside our body or understand our bodily needs. 
 
-![]()
-
 It is empowering to learn  self-regulation as it sets the base for self advocacy, and it is an important skill and every person needs to possess it.
-
-![]()
 
 “Embracing sensory tools, mindful practices, and unconditional acceptance not only helps children thrive but also strengthens your bond. Together, you are building resilience, confidence, and a lifelong ability to navigate the world with greater ease and dignity.” [[1](https://incredibleyears.com/co-regulation-and-emotion-coaching/)]

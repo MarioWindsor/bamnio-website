@@ -28,8 +28,6 @@ Years later, those ideas surfaced—not during a lesson, but in moments that mat
 
 One day, Arthur was searching for something. I could see the urgency in his body, but I couldn’t figure out what he wanted. This time, I gently reminded him to think about how he could show me what he wanted—without hurting himself or anyone else.
 
-![]()
-
 Instead of escalating, Arthur took my phone, opened the gallery, and searched until he found a picture. He showed it to me.
 
 It was a toy I had packed away in the cupboard, assuming he no longer used it. I told him where it was. We went upstairs together. When I handed it to him, his face brightened with delight.
@@ -41,8 +39,6 @@ Another day, a different kind of repair unfolded.
 Arthur usually watches a particular **days of the week** song that starts with **“7 days in a week,”** and he always watches it on a specific mobile phone. That day, I had placed the phone on charge behind the aquarium—hidden—because it wasn’t charging properly in its usual place.
 
 A little while later, Arthur was searching again. I couldn’t tell what he wanted. I asked gently. This time, he didn’t gesture or point. He decided to use his CoughDrop AAC app.
-
-![]()
 
 He navigated—***Time folder → Days and Months → Months***—and selected:
 
@@ -83,8 +79,6 @@ It is a long-term memory bank of possibilities.
 Sometimes it takes years for a seed to surface—and when it does, it blooms exactly when it’s needed.
 
 A quiet assurance that when the time comes, there will be a way.
-
-![]()
 
 Continue reading Listening Beyond Words: Honoring Multimodal Communication.
 

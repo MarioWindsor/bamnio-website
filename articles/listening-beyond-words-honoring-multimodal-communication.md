@@ -23,8 +23,6 @@ For me, the answer is both simple **and** complex.
 
 My son, [Arthur](https://bambinotherapy.com/articles/loving-arthur-means/), is a **multimodal, creative communicator**.
 
-![]()
-
 Some days, communication feels more accessible—when I slow down and listen beyond words, beyond sound, beyond my ears.
 
 Some days, it requires me to “read his mind,” which can be hard and exhausting. I say that honestly and without shame, because caregiving and deep listening take real emotional labour.
@@ -32,8 +30,6 @@ Some days, it requires me to “read his mind,” which can be hard and exhausti
 An AAC device is not Arthur’s preferred or main way of communicating right now.
 
 And that is **okay**.
-
-![]()
 
 Last year, I didn’t feel like putting up a Christmas tree or a crib at home.
 
@@ -44,8 +40,6 @@ He saw Christmas trees at his father’s office.
 At his cousin’s house.
 
 At a New Year’s Eve party we attended.
-
-![]()
 
 At that party, Arthur looked emotional as he stood near the Christmas tree. My sister and I noticed it, though we didn’t immediately understand what had stirred something inside him.
 
@@ -103,11 +97,7 @@ Readiness isn’t about ability; it’s about capacity. Energy levels, sensory l
 
 Emotions shape communication profoundly. Joy, grief, curiosity, overwhelm, or uncertainty all influence how communication shows up, and which form feels most supportive at that moment.
 
-![]()
-
 Taken together, this means that no single form of communication fits every moment. Gestures, silence, movement, visuals, eye gaze, shared attention, and AAC device may each rise or fall depending on the situation.
-
-![]()
 
 When we honor this fluidity, we stop treating communication as a performance to be measured and begin treating it as a relationship to be supported.
 

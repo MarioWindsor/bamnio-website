@@ -23,8 +23,6 @@ When I shared this with my therapist, she asked a simple question:
 
 “Did anything change around the time Arthur stopped using his iPads?”
 
-![]()
-
 I remembered we had replaced his iPad covers—they were old, torn, shabby.
 
 “Was Arthur part of that decision?” she asked.
@@ -47,8 +45,6 @@ I’ve known about my own PDA for a long time, but I’m still figuring out what
 
 ![](/media/uploads/whatsapp-image-2026-01-09-at-03.49.59.jpeg)
 
-![]()
-
 My therapist suggested:
 
 **"If you want to repair this, apologize to Arthur. Not to make him forgive you—but to make things better between you."**
@@ -57,13 +53,9 @@ I went to him and apologized. I told him I was sorry for changing his covers wit
 
 A few weeks later, I quietly removed the new covers and offered the iPads again—without expectation. This time, he didn’t push them away. He didn’t immediately start using them either. But the rejection was gone. Gradually, in his own time, he is returning to his iPad.
 
-![]()
-
 Things didn’t return exactly as before, but the weight shifted. He still takes my phone sometimes, but it’s different now—it no longer feels like a desperate grab for survival.
 
 We didn’t just change iPad covers; we disrupted a sense of agency. And when I slowed down, acknowledged that, and met him with understanding, Arthur let us begin again.
-
-![]()
 
 This wasn’t just a misunderstanding between parent and child. It was a household shaped by multiple nervous systems, all seeking safety in different ways, sometimes missing each other in moments of stress. My own PDA traits—my need for autonomy, sensitivity to perceived demands, shutdowns when overwhelmed—meant I was surviving too. Seeing this through a PDA lens helped me soften toward myself, without excusing the impact on Arthur. Repair doesn’t require perfection; it requires awareness.
 

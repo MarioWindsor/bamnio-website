@@ -22,8 +22,6 @@ author-credit:
 
 The Caregivers or parents go through a gamut of emotions when their child is given a diagnosis of a neurodevelopmental disorder for the first time. I recall when the doctors we consulted made an informal diagnosis for our son, the uncertainty of his future was a major concern. At that time, we had no access to information about autism (this was about thirteen years ago). As new parents, what we needed was information, counselling, and support from experts in the field. Usually, the worry about the unknown struggles
 
-![]()
-
  triggers anxiety for parents. Parents go through a grief cycle- Denial, anger, bargaining, depression, and at last acceptance. I went through this cycle of grief. It took me years to come out of that grief and accept my son as he is. I remember feeling hopeless, desperate to learn and understand what he is going through. I was numb for months, not knowing how to connect and bond with him.
 
 ![](/media/uploads/whatsapp-image-2026-01-18-at-22.39.47-1-.jpeg)
@@ -32,15 +30,9 @@ I went through stages of denial and anger at the unfairness of it all. I then de
 
  
 
-![]()
-
 **What to do after the diagnosis?**
 
-![]()
-
 Here’s what I think helps parents cope in the initial years after diagnosis, based solely on my experience and not professional advice.
-
-![]()
 
 * · Educate yourself and the members of your immediate and extended family about the condition, and enroll in parent support groups.
 * · Prioritize both your physical and mental health. Contact a psychiatrist or psychologist first; let experts guide you rather than acquaintances.
