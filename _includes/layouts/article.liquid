@@ -209,7 +209,33 @@
 				-webkit-box-orient: vertical;
 				text-overflow: ellipsis;
 			}
+
+			@media( min-width: 1000px ) and ( max-width: 1499px ) {
+				&:first-child {
+					.thumbnail {
+						aspect-ratio: 4 / 3;
+					}
+					.title {
+						font-size: var(--h3);
+					}
+					.description,
+					.excerpt {
+						font-size: var(--h6);
+					}
+				}
+			}
+
+			@media( min-width: 1500px ) {
+				&:nth-child(1),
+				&:nth-child(2) {
+					.title {
+						font-size: var(--h4);
+					}
+				}
+			}
 		}
+
+		
 
 		@media( min-width: 500px ) {
 			grid-template-columns: repeat(2, 1fr);
@@ -257,7 +283,7 @@
 						{% assign matched_article = collections.articles | where: "url", related_url | first %}
 						{% if matched_article %}
 							<div class="article card space-50 item-{{ count }}">
-								<a href="{{ matched_article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ matched_article.data.cover }}" alt=""></a>
+								<a href="{{ matched_article.url }}"><img class="thumbnail block radius-min no-overflow-clip" src="{{ matched_article.data.cover }}" alt=""></a>
 								<div class="info">
 									<small class="date block text-neutral-50 space-min-bottom">{{ matched_article.date | date: "%b %d, %Y" }}</small>
 									<a href="{{ matched_article.url }}"><h3 class="title h6 w-600">{{ matched_article.data.title }}</h3></a>
@@ -287,7 +313,7 @@
 
 						{% if article.data.category == category %}
 							<div class="article card space-50 item-{{ count }}">
-								<a href="{{ article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
+								<a href="{{ article.url }}"><img class="thumbnail block radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
 								<div class="info">
 									<small class="date block text-neutral-50 space-min-bottom">{{ article.date | date: "%b %d, %Y" }}</small>
 									<a href="{{ article.url }}"><h3 class="title h6 w-600">{{ article.data.title }}</h3></a>
@@ -314,7 +340,7 @@
 						{% if excluded_ids contains check_id %}{% continue %}{% endif %}
 
 						<div class="article card space-50 item-{{ count }}">
-							<a href="{{ article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
+							<a href="{{ article.url }}"><img class="thumbnail block radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
 							<div class="info">
 								<small class="date block text-neutral-50 space-min-bottom">{{ article.date | date: "%b %d, %Y" }}</small>
 								<a href="{{ article.url }}"><h3 class="title h6 w-600">{{ article.data.title }}</h3></a>
