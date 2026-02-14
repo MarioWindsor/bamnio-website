@@ -21,9 +21,9 @@ For a long time, I described my experience as internalised PDA after watching [S
 
 What looks like calm, compliance, or silence from the outside is actually my nervous system entering survival mode—most often through funster, fawn, or freeze. My voice doesn’t argue; it locks. Not because I agree, but because my capacity to resist safely has dropped too low.
 
-Arthur and I aren’t different kinds of PDAers. We are responding to the same loss of autonomy—just through different survival pathways, shaped by capacity and context.
-
 ![](/media/uploads/whatsapp-image-2026-02-03-at-00.38.39.jpeg)
+
+Arthur and I aren’t different kinds of PDAers. We are responding to the same loss of autonomy—just through different survival pathways, shaped by capacity and context.
 
 Instead of a straight line, PDA is better understood as a dynamic distribution of nervous system dimensions, including:
 
@@ -99,7 +99,7 @@ My psychotherapist helped me understand that his behaviour is not irrational. It
 
 What looks “irrational” from the outside is, internally, a clear signal: \*something about my world just moved without my consent.\*
 
-**When “Compliance” Is Actually a Safety Strategy**
+When “Compliance” Is Actually a Safety Strategy
 
 There are moments when Arthur appears compliant—particularly with his father around hygiene routines like brushing teeth or bathing. He allows his father to lead these tasks, yet strongly resists my involvement—pushing me away if I enter the washroom, refusing to let me touch his toothbrush, and clearly communicating that hygiene is something he wants only his father to manage.
 
@@ -252,8 +252,6 @@ Guilt-driven compliance is the nervous system choosing the "lesser" of two threa
 **The Physiological Cost of Imposed Boundaries**
 
 When boundaries are imposed—by people, schedules, or environments—this isn’t a behavioural issue. It is a full-body response to a perceived loss of agency.
-
-![](/media/uploads/whatsapp-image-2026-02-03-at-00.53.13.jpeg)
 
 For Arthur, the impact is deeply physiological and often shows up as:
 
