@@ -138,9 +138,17 @@
 				flex-grow: 1;
 			}
 			.info .title {
-				overflow: hidden;
+				/* overflow: hidden;
 				display: -webkit-box;
 				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				text-overflow: ellipsis; */
+			}
+			.info .description,
+			.info .excerpt {
+				overflow: hidden;
+				display: -webkit-box;
+				-webkit-line-clamp: 5;
 				-webkit-box-orient: vertical;
 				text-overflow: ellipsis;
 			}
@@ -167,12 +175,12 @@
 			<div class="columns small-12">
 				<div class="label text-uppercase">Articles</div>
 				<div class="articles space-50-top">
-				{% for article in collections.articles %}
+				{% for article in collections.articles reversed %}
 					<div class="article card space-50">
 						<a href="{{ article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
 						<div class="info">
 							<small class="date block text-neutral-50 space-min-bottom">{{ article.date | date: "%b %d, %Y" }}</small>
-							<a href="{{ article.url }}"><h3 class="title h4 w-600">{{ article.data.title }}</h3></a>
+							<a href="{{ article.url }}"><h3 class="title h6 w-600">{{ article.data.title }}</h3></a>
 							{% if article.data.description != blank %}
 							<p class="description small text-dark space-25-top">{{ article.data.description }}</p>
 							{% else %}

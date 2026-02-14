@@ -91,12 +91,6 @@
 						margin-right: var(--space-25);
 					}
 				}
-				.kid {
-					z-index: -1;
-					mix-blend-mode: lighten;
-					transform: scale(1.375);
-					transform-origin: top left;
-				}
 			}
 
 			@media( min-width: 1000px ) {
@@ -152,16 +146,15 @@
 				{% endif %}
 			</div>
 			<div class="sidebar">
-				<div class="intro fill-primary space-100 radius-25 box-shadow no-overflow-clip">
+				<div class="intro space-100 radius-25 box-shadow no-overflow-clip">
 					<div class="row">
 						<div class="columns small-12 medium-6 large-12">
 							<h1 class="heading strong space-25-bottom">Empowering <br>Communication</h1>
-							<h2 class="sub-heading">Neurodiversity-affirming <br>Therapy for children</h4>
-							<h6 class="cta strong uppercase space-75-vertical">&nbsp;For a <span class="fill-secondary radius-min">&nbsp;FREE 20 Minutes&nbsp;<br>&nbsp;Consultation&nbsp;</span> Contact...</h5>
-							<a class="action button fill-secondary w-600 radius-min box-shadow" href="tel: +919620559517"><i class="bx bxs-phone-call" style="font-size: inherit;"></i> +91-96205-59517</a>
+							<h2 class="sub-heading space-75-bottom">Neurodiversity-affirming <br>Therapy for children</h4>
 						</div>
 						<div class="columns small-12 medium-6 large-12">
-							<img class="kid" src="media/genai-intro-kid.png" alt="">
+							<h6 class="cta strong uppercase space-75-bottom">&nbsp;For a <span class="text-primary">&nbsp;FREE 20 Minutes&nbsp;<br>&nbsp;Consultation&nbsp;</span> Contact...</h5>
+							<a class="action button block fill-primary w-600 radius-min box-shadow" href="tel: +919620559517"><i class="bx bxs-phone-call" style="font-size: inherit;"></i> +91-96205-59517</a>
 						</div>
 					</div>
 				</div>
@@ -195,9 +188,17 @@
 				flex-grow: 1;
 			}
 			.info .title {
-				overflow: hidden;
+				/* overflow: hidden;
 				display: -webkit-box;
 				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				text-overflow: ellipsis; */
+			}
+			.info .description,
+			.info .excerpt {
+				overflow: hidden;
+				display: -webkit-box;
+				-webkit-line-clamp: 5;
 				-webkit-box-orient: vertical;
 				text-overflow: ellipsis;
 			}
@@ -224,13 +225,13 @@
 				<div class="label text-uppercase space-50-bottom" style="border-top: 1px solid var(--neutral-20); padding-top: var(--space-50);">Related Articles</div>
 				<div class="articles">
 				{% assign count = 0 %}
-				{% for article in collections.articles %}
+				{% for article in collections.articles reversed %}
 					{% if article.url != page.url %}
 					<div class="article card space-50">
 						<a href="{{ article.url }}"><img class="thumbnail radius-min no-overflow-clip" src="{{ article.data.cover }}" alt=""></a>
 						<div class="info">
 							<small class="date block text-neutral-50 space-min-bottom">{{ article.date | date: "%b %d, %Y" }}</small>
-							<a href="{{ article.url }}"><h3 class="title h4 w-600">{{ article.data.title }}</h3></a>
+							<a href="{{ article.url }}"><h3 class="title h6 w-600">{{ article.data.title }}</h3></a>
 							{% if article.data.description != blank %}
 							<p class="description small text-dark space-25-top">{{ article.data.description }}</p>
 							{% else %}
