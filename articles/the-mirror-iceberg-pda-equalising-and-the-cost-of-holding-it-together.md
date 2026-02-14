@@ -2,6 +2,7 @@
 tags: articles
 date: 2026-02-11T20:33:00.000+05:30
 title: 'The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together'
+cover: /media/uploads/whatsapp-image-2026-01-13-at-09.28.46.jpeg
 author-credit:
   name: Teslin Joseph
   title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
@@ -112,7 +113,7 @@ On the surface, this can look confusing or even contradictory:
 
 A neuroaffirming lens helps us see what’s really happening.
 
-My therapist helped me name something important here: in these moments, Arthur may be \***prioritising connection over autonomy.**\* His desire for undivided attention from his father is so strong that he is willing—temporarily—to loosen his grip on autonomy. His nervous system may still be activated, but his window of tolerance is wider in that relational context. The task is not neutral; it is buffered by safety, predictability, and deep attachment.
+My therapist helped me name something important here: in these moments, Arthur may be \*\*\*prioritising connection over autonomy.\*\*\* His desire for undivided attention from his father is so strong that he is willing—temporarily—to loosen his grip on autonomy. His nervous system may still be activated, but his window of tolerance is wider in that relational context. The task is not neutral; it is buffered by safety, predictability, and deep attachment.
 
 This is not true compliance. It is a nervous-system trade-off. And trade-offs carry a cost.
 
@@ -122,11 +123,11 @@ Over time, Arthur equalises by:
 
 \* insisting that only one parent handle these tasks
 
-This is not manipulation. It is \***repair.**\*
+This is not manipulation. It is \*\*\*repair.\*\*\*
 
 His system is saying:
 
-\*“**If I gave something up earlier to stay safe, I need to restore balance now.**”\*
+\*“\*\*If I gave something up earlier to stay safe, I need to restore balance now.\*\*”\*
 
 **The Mirror Side**
 
@@ -308,11 +309,11 @@ If your child:
 
 they are not being inconsistent.
 
-They are managing a \***fluctuating nervous-system capacity.**\*
+They are managing a \*\*\*fluctuating nervous-system capacity.\*\*\*
 
 When we stop asking, _“**Why won’t they just**…?”_
 
-and start asking, _“\*\***How full is their cup right now?**\*\*”_
+and start asking, _“\*\*\*\*How full is their cup right now?\*\*\*\*”_
 
 we move from behaviour management to nervous-system care.
 
