@@ -77,11 +77,11 @@ Many PDA triggers are not direct demands, but symbolic or sensory intrusions tha
 
 Arthur had a meltdown because I used a plate that visually resembled his plate to eat khakra—a food he strongly dislikes for its crisp texture. Nothing was asked of him. Nothing was taken from him. Yet his nervous system experienced this as an autonomy breach:
 
-\* a self-associated object appeared “misused”
+\* a** self-associated object appeared “misused”**
 
-\* a disliked sensory experience was visually imposed
+**\* a disliked sensory experience was visually imposed**
 
-\* control over symbolic boundaries was lost
+**\* con**trol over symbolic boundaries was lost
 
 This wasn’t about food. It was about ownership, identity, and uncontrollable sensory association. For PDA nervous systems, symbolism can function like a demand.
 
@@ -103,13 +103,10 @@ Over time, the equalising shows up later—requesting that his father brush his 
 
 On the surface, this can look confusing or even contradictory:
 
-\* Why can he tolerate this sometimes?
-
-\* Why only with one parent?
-
-\* Why does it later turn into refusal or control-seeking?
-
-A neuroaffirming lens helps us see what’s really happening.
+- \* Why can he tolerate this sometimes?
+- \* Why only with one parent?
+- \* Why does it later turn into refusal or control-seeking?
+- A neuroaffirming lens helps us see what’s really happening.
 
 My therapist helped me name something important here: in these moments, Arthur may be \*\*\***prioritising connection over autonomy**.\*\*\* His desire for undivided attention from his father is so strong that he is willing—temporarily—to loosen his grip on autonomy. His nervous system may still be activated, but his window of tolerance is wider in that relational context. The task is not neutral; it is buffered by safety, predictability, and deep attachment.
 
@@ -121,11 +118,11 @@ Over time, Arthur equalises by:
 
 \* insisting that only one parent handle these tasks
 
-This is not manipulation. It is \*\*\*repair.\*\*\*
+This is not manipulation. It is \*\*\***repair**.\*\*\*
 
 His system is saying:
 
-\*“\*\*If I gave something up earlier to stay safe, I need to restore balance now.\*\*”\*
+**\*“\*\*If I gave something up earlier to stay safe, I need to restore balance now.\*\*”\***
 
 **The Mirror Side**
 
@@ -205,7 +202,7 @@ The relief was immediate. My heart rate slowed. The ice began to thaw.
 
 This wasn’t about control. This was **co-regulation.**
 
-My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to \*\*my physiology. \*\* By changing the environment, he moved us from performance-based safety to relational safety.
+My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to \*\*\*\*my physiology. \*\*\*\* By changing the environment, he moved us from performance-based safety to relational safety.
 
 In some instances, he also takes away my phone when he senses that I am on the verge of breaking after reading triggering messages.
 
@@ -307,11 +304,11 @@ If your child:
 
 they are not being inconsistent.
 
-They are managing a \*\*\*fluctuating nervous-system capacity.\*\*\*
+They are managing a \*\*\***fluctuating nervous-system capacity.**\*\*\*
 
 When we stop asking, _“**Why won’t they just**…?”_
 
-and start asking, _“\*\*\*\*How full is their cup right now?\*\*\*\*”_
+and start asking, _“\*\*\*\***How full is their cup right now?**\*\*\*\*”_
 
 we move from behaviour management to nervous-system care.
 
