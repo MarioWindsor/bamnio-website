@@ -11,11 +11,16 @@ author-credit:
   backlink: https://bambinotherapy.com/articles/internalised-ableism/
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 category: Parent Support & Wellness , Early Diagnosis Resources,  Caregiver Mental Health, Autism diagnosis support for parents,  Parenting grief cycle neurodivergence,  Mental health for special needs parents,  Advocating for your neurodivergent child , Coping with autism diagnosis,  What to do after my child's autism diagnosis,  Stages of grief for special needs parents,  How to help a child with neurodevelopmental disorders,  Finding a support group for autism parents,  Building resilience as a neurodivergent parent
+related:
+  - What is Ableism?
+  - 'Understanding Apraxia of Speech in Autism: Early Assessment and Communication Strategies'
+  - 'Supporting Siblings: Navigating Neurodiversity Together - 1'
+  - 'Managing Sibling Relationships and Conflict in Neurodivergent Families: Practical Solutions for Parents - 2'
 ---
 
 ![](/media/uploads/whatsapp-image-2026-01-18-at-22.39.47.jpeg)
 
-The Caregivers or parents go through a gamut of emotions when their child is given a diagnosis of a neurodevelopmental disorder for the first time. I recall when the doctors we consulted made an informal diagnosis for our son, the uncertainty of his future was a major concern. At that time, we had no access to information about autism (this was about thirteen years ago). As new parents, what we needed was information, counselling, and support from experts in the field. Usually, the worry about the unknown struggles triggers anxiety for parents. 
+The Caregivers or parents go through a gamut of emotions when their child is given a diagnosis of a neurodevelopmental disorder for the first time. I recall when the doctors we consulted made an informal diagnosis for our son, the uncertainty of his future was a major concern. At that time, we had no access to information about autism (this was about thirteen years ago). As new parents, what we needed was information, counselling, and support from experts in the field. Usually, the worry about the unknown struggles triggers anxiety for parents.
 
 Parents go through a grief cycle- Denial, anger, bargaining, depression, and at last acceptance. I went through this cycle of grief. It took me years to come out of that grief and accept my son as he is. I remember feeling hopeless, desperate to learn and understand what he is going through. I was numb for months, not knowing how to connect and bond with him.
 
