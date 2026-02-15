@@ -2,13 +2,18 @@
 tags: articles
 date: 2026-02-11T20:33:00.000+05:30
 title: 'The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together'
-cover: /media/uploads/whatsapp-image-2026-01-13-at-09.28.46.jpeg
+cover: /media/uploads/whatsapp-image-2026-02-03-at-00.40.25.jpeg
+description: Understand PDA as a nervous system survival response, not just behavior. Explore autonomy, "equalizing," and neuroaffirming care at Bambino Therapy.
 author-credit:
   name: Teslin Joseph
   title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
   website: https://teslinj7.substack.com
   backlink: https://bambinotherapy.com/articles/when-learning-bloomed-without-being-asked-how-strewing-changed-my-equation-with-my-pda-child/
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
+related:
+  - 'The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together'
+  - 'Access with Autonomy: AAC as an Invitation, Not a Requirement'
+  - 'Breaking Communication Barriers: What Arthur Taught Me About Patience and Trust'
 ---
 
 PDA is often described in terms of behaviour: meltdowns, refusals, or “big reactions.” But what we see on the surface is only a small part of the story.
@@ -25,7 +30,7 @@ Arthur and I aren’t different kinds of PDAers. We are responding to the same l
 
 Instead of a straight line, PDA is better understood as a dynamic distribution of nervous system dimensions, including:
 
-- **Threshold of Tolerance**[**:**](* Threshold of Tolerance: the tipping point where nervous system activation spills into visible action.) the tipping point where nervous system activation spills into visible action.
+- **Threshold of Tolerance**[**:**](\* Threshold of Tolerance: the tipping point where nervous system activation spills into visible action.) the tipping point where nervous system activation spills into visible action.
 - **Window of Tolerance:** the fluctuating space where demands can be processed without triggering survival responses.
 
 ![](/media/uploads/whatsapp-image-2026-02-03-at-00.39.04.jpeg)
@@ -196,7 +201,7 @@ The relief was immediate. My heart rate slowed. The ice began to thaw.
 
 This wasn’t about control. This was **co-regulation.**
 
-My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to **my physiology. ** By changing the environment, he moved us from performance-based safety to relational safety.
+My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to \*\*my physiology. \*\* By changing the environment, he moved us from performance-based safety to relational safety.
 
 In some instances, he also takes away my phone when he senses that I am on the verge of breaking after reading triggering messages.
 
@@ -283,7 +288,7 @@ They are managing a **fluctuating nervous-system capacity.**
 
 When we stop asking, _“**Why won’t they just**…?”_
 
-and start asking, _“**How full is their cup right now?**”_
+and start asking, _“\*\*How full is their cup right now?\*\*”_
 
 we move from behaviour management to nervous-system care.
 
