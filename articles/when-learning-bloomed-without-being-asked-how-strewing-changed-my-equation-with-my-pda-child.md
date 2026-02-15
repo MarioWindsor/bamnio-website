@@ -1,17 +1,22 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-01-13T12:29:00.000+05:30
-title: When Learning Bloomed Without Being Asked | How Strewing Changed My
-  equation with my PDA Child
-cover: /media/uploads/whatsapp-image-2026-01-10-at-09.34.41.jpeg
+title: When Learning Bloomed Without Being Asked | How Strewing Changed My equation with my PDA Child
+cover: /media/uploads/Gemini_Generated_Image_xt4zxrxt4zxrxt4z.png
+description: Shift from demands to invitations. Learn how "strewing" supports PDA autonomy and natural learning. Discover neuroaffirming paths at Bambino Therapy.
 author-credit:
   name: Teslin Joseph
-  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
-    AAC & All Forms of Communication
-  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
   backlink: https://bambinotherapy.com/articles/access-with-autonomy-aac-as-an-invitation-not-a-requirement/
+  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
+related:
+  - When Help Felt Like Pressure, Thinking Aloud Changed Everything
+  - 'Understanding Sensory Challenges in Autism: Empowering Neurodivergent Individuals Through Sensory Integration'
+  - 'Supporting Siblings: Navigating Neurodiversity Together - 1'
+  - 'Listening Beyond Words: Honoring Multimodal Communication'
+  - 'Access with Autonomy: AAC as an Invitation, Not a Requirement'
 ---
+
 I knew from early on that Arthur was a PDAer (Pathological Demand Avoidance / Pervasive Drive for Autonomy), but I didn’t yet have the language to fully understand what I was seeing.
 
 This story captures how PDA showed up in our everyday life—and how my approach slowly shifted from direct demands to strewing, modeling, and partnership. It shows that Arthur’s so-called “avoidance” was a protective response, rooted in a need to preserve autonomy.
@@ -52,7 +57,7 @@ But because autonomy was intact.
 
 That was my first lived lesson in [Access with Autonomy](https://bambinotherapy.com/articles/access-with-autonomy-aac-as-an-invitation-not-a-requirement/).
 
-I just **strewed** the activity. 
+I just **strewed** the activity.
 
 ![](/media/uploads/whatsapp-image-2026-01-10-at-09.35.07.jpeg)
 
@@ -67,3 +72,5 @@ Respect should never be conditional on being perceived as smart. Safety should n
 ![](/media/uploads/whatsapp-image-2026-01-10-at-09.35.22.jpeg)
 
 Arthur didn’t need me to help him prove anything. What he needed first wasn’t recognition. It was safety. And when safety came, the skills followed—on his terms.
+
+> Are you struggling to find the balance between supporting your child's communication and respecting their autonomy? **Book a consultation with Bambino Therapy** to explore personalized, low-demand strategies for your family
