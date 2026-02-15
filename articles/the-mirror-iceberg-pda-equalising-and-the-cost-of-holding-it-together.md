@@ -2,7 +2,7 @@
 tags: articles
 date: 2026-02-11T20:33:00.000+05:30
 title: 'The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together'
-cover: /media/uploads/whatsapp-image-2026-02-03-at-00.40.25.jpeg
+cover: /media/uploads/Gemini_Generated_Image_r2sr9wr2sr9wr2sr (1).png
 description: Understand PDA as a nervous system survival response, not just behavior. Explore autonomy, "equalizing," and neuroaffirming care at Bambino Therapy.
 author-credit:
   name: Teslin Joseph
