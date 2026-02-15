@@ -2,13 +2,20 @@
 tags: articles
 date: 2026-02-14T16:23:00
 title: When Help Felt Like Pressure, Thinking Aloud Changed Everything
-cover: /media/uploads/whatsapp-image-2026-02-04-at-23.02.49.jpeg
+cover: /media/uploads/Gemini_Generated_Image_o59em9o59em9o59e.png
+description: When offering choices feels like a demand to a PDA child, what works? Read a parent's powerful reflection on symbolic communication, co-regulation, and the life-changing "thinking aloud" strategy.
 author-credit:
   name: Teslin Joseph
   title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
   website: https://teslinj7.substack.com/
   backlink: https://bambinotherapy.com/articles/the-mirror-iceberg-pda-equalising-and-the-cost-of-holding-it-together/
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
+category: Neuroaffirming Parenting,  AAC & Communication Strategies, PDA (Pathological Demand Avoidance) / Neurodivergence Perspectives, PDA communication strategies,  Neuroaffirming AAC,  Thinking aloud strategy,  Co-regulation PDA , Symbolic communication in autism
+related:
+  - A Lesson I Learned Too Late — and Just in Time
+  - When Learning Bloomed Without Being Asked | How Strewing Changed My equation with my PDA Child
+  - 'The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together'
+  - 'Listening Beyond Words: Honoring Multimodal Communication'
 ---
 
 Recently, we had a moment that perfectly captured the evolution of Arthur’s communication—and the growing pains of my own understanding as his partner in this dance.
