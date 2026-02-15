@@ -1,18 +1,19 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-01-09T16:04:00.000+05:30
 title: A Lesson I Learned Too Late — and Just in Time
-cover: /media/uploads/whatsapp-image-2026-01-09-at-03.50.31.jpeg
-description: A mother shares a vital lesson learned too late—yet just in
-  time—about supporting neurodivergent children through inclusive speech
-  therapy, AAC, and family empowerment.
+cover: /media/uploads/Gemini_Generated_Image_3l1p3v3l1p3v3l1p.png
+description: What looks like control is often survival. Learn about PDA "equalizing" behavior and the power of repair in this neuroaffirming parenting reflection.
 author-credit:
-  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
-  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
-    AAC & All Forms of Communication
   name: Teslin Joseph
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
+  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
+category: Understanding PDA (Pathological Demand Avoidance) , Neuroaffirming Parenting Stories,  Relationship Repair & Advocacy, PDA equalizing behavior,  Autonomy and safety in autism,  Internalized vs Externalized PDA  ,Neuroaffirming parenting reflection,  Pathological Demand Avoidance survival strategies,  Why did my child stop using their favorite toy? , How to apologize to a PDA child , Understanding control-seeking in neurodivergent kids , The link between autonomy and anxiety in PDA,  Repairing the relationship with a PDAer
+related:
+  - When Learning Bloomed Without Being Asked | How Strewing Changed My equation with my PDA Child
+  - 'Understanding Sensory Challenges in Autism: Empowering Neurodivergent Individuals Through Sensory Integration'
 ---
+
 Recently, in a session with my psychotherapist, I realized something important about my son—and about something we got wrong in parenting a PDA child.
 
 About two years ago, [Arthur](https://bambinotherapy.com/articles/loving-arthur-means/) suddenly stopped using his iPads. It surprised me—he had loved them so deeply. Whenever I offered them, he would push my hand away, gesture for me to take them out of sight. I didn’t understand why.
@@ -39,7 +40,7 @@ When my therapist asked if Arthur might have been attached to the covers, it rem
 
 ![](/media/uploads/whatsapp-image-2026-01-09-at-03.51.08.jpeg)
 
-I’ve known about my own PDA for a long time, but I’m still figuring out what it means. In our house, we are a map of different expressions: mine more **internalized**, his more **externalized**. Internalized PDA can look like compliance on the outside while a storm rages inside. Externalized PDA, like Arthur’s, is visible—the “no” and equalizing behaviours that demand [autonomy](https://bambinotherapy.com/articles/access-with-autonomy-aac-as-an-invitation-not-a-requirement/). 
+I’ve known about my own PDA for a long time, but I’m still figuring out what it means. In our house, we are a map of different expressions: mine more **internalized**, his more **externalized**. Internalized PDA can look like compliance on the outside while a storm rages inside. Externalized PDA, like Arthur’s, is visible—the “no” and equalizing behaviours that demand [autonomy](https://bambinotherapy.com/articles/access-with-autonomy-aac-as-an-invitation-not-a-requirement/).
 
 ![](/media/uploads/whatsapp-image-2026-01-09-at-03.49.07.jpeg)
 
