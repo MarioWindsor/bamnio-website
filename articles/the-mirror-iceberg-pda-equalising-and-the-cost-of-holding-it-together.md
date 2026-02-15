@@ -10,6 +10,7 @@ author-credit:
   website: https://teslinj7.substack.com
   backlink: https://bambinotherapy.com/articles/when-learning-bloomed-without-being-asked-how-strewing-changed-my-equation-with-my-pda-child/
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
+category: Speech Therapy, Parenting, N24, Autonomy, PDA, Equalising, Neurodiversity Affirming
 related:
   - 'The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together'
   - 'Access with Autonomy: AAC as an Invitation, Not a Requirement'
