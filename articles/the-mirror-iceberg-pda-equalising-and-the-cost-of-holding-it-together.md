@@ -33,7 +33,7 @@ Arthur and I aren’t different kinds of PDAers. We are responding to the same l
 
 Instead of a straight line, PDA is better understood as a dynamic distribution of nervous system dimensions, including:
 
-- **Threshold of Tolerance:**the tipping point where nervous system activation spills into visible action.
+- \*\*Threshold of Tolerance:\*\*the tipping point where nervous system activation spills into visible action.
 - **Window of Tolerance:** the fluctuating space where demands can be processed without triggering survival responses.
 
 ![](/media/uploads/whatsapp-image-2026-02-03-at-00.39.04.jpeg)
@@ -204,7 +204,7 @@ The relief was immediate. My heart rate slowed. The ice began to thaw.
 
 This wasn’t about control. This was **co-regulation.**
 
-My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to \*\*my physiology. \*\* By changing the environment, he moved us from performance-based safety to relational safety.
+My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to **my physiology. ** By changing the environment, he moved us from performance-based safety to relational safety.
 
 In some instances, he also takes away my phone when he senses that I am on the verge of breaking after reading triggering messages.
 
@@ -291,7 +291,7 @@ They are managing a **fluctuating nervous-system capacity.**
 
 When we stop asking, _“**Why won’t they just**…?”_
 
-and start asking, _“\*\*How full is their cup right now?\*\*”_
+and start asking, **_“How full is their cup right now?”_**
 
 we move from behaviour management to nervous-system care.
 
