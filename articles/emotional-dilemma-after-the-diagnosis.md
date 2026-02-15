@@ -1,22 +1,17 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-02-11T20:11:00.000+05:30
 title: Emotional Dilemma after the diagnosis
-cover: /media/uploads/whatsapp-image-2026-01-18-at-22.39.47.jpeg
-description: Navigating a child’s neurodevelopmental diagnosis is an emotional
-  journey. Discover an honest account of the grief cycle, from denial to
-  acceptance, and find practical advice for the initial years. You are not
-  alone—learn how to advocate for your child while protecting your own mental
-  health.
+cover: /media/uploads/Gemini_Generated_Image_8ua3118ua3118ua3.png
+description: Feeling lost after an autism diagnosis? Explore a parent’s honest journey from grief to advocacy, with practical steps to support your child and your mental health.
 author-credit:
   name: Ranjitha Ganesh
   title: Late diagnosed autistic person and also a mother of an autistic teenager
-  website: "http://notsospecialmommy.blogspot.com "
-  photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
+  website: http://notsospecialmommy.blogspot.com
   backlink: https://bambinotherapy.com/articles/internalised-ableism/
+  photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
+category: Parent Support & Wellness , Early Diagnosis Resources,  Caregiver Mental Health, Autism diagnosis support for parents,  Parenting grief cycle neurodivergence,  Mental health for special needs parents,  Advocating for your neurodivergent child , Coping with autism diagnosis,  What to do after my child's autism diagnosis,  Stages of grief for special needs parents,  How to help a child with neurodevelopmental disorders,  Finding a support group for autism parents,  Building resilience as a neurodivergent parent
 ---
-
 
 ![](/media/uploads/whatsapp-image-2026-01-18-at-22.39.47.jpeg)
 
@@ -27,8 +22,6 @@ The Caregivers or parents go through a gamut of emotions when their child is giv
 ![](/media/uploads/whatsapp-image-2026-01-18-at-22.39.47-1-.jpeg)
 
 I went through stages of denial and anger at the unfairness of it all. I then decided the best way to tackle my grief was to educate myself and find out ways to help my son. I went to the therapists so that I could move forward and do the best. I was desperate, frustrated, and deeply hurt seeing my son struggle in many areas, which we normally take for granted in neurotypical children.
-
- 
 
 **What to do after the diagnosis?**
 
