@@ -1,21 +1,16 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-01-06T09:06:00.000+05:30
-title: "Breaking Communication Barriers: What Arthur Taught Me About Patience
-  and Trust"
+title: 'Breaking Communication Barriers: What Arthur Taught Me About Patience and Trust'
 cover: /media/uploads/whatsapp-image-2026-01-05-at-17.00.18.jpeg
-description: "Breaking Communication Barriers: What Arthur Taught Me About
-  Patience and Trust explores how AAC and multimodal communication can help
-  autistic children express themselves, deepen connection and build real trust
-  between families and therapists."
+description: 'Breaking Communication Barriers: What Arthur Taught Me About Patience and Trust explores how AAC and multimodal communication can help autistic children express themselves, deepen connection and build real trust between families and therapists.'
 author-credit:
-  name: "Teslin Joseph "
-  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
-    AAC & All Forms of Communication
+  name: Teslin Joseph
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
   backlink: https://bambinotherapy.com/articles/loving-arthur-means/
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 ---
+
 What [Arthur](https://bambinotherapy.com/articles/loving-arthur-means/) showed me did not happen quickly.
 
 It took years.
@@ -40,7 +35,7 @@ Arthur usually watches a particular **days of the week** song that starts with *
 
 A little while later, Arthur was searching again. I couldn’t tell what he wanted. I asked gently. This time, he didn’t gesture or point. He decided to use his CoughDrop AAC app.
 
-He navigated—***Time folder → Days and Months → Months***—and selected:
+He navigated—**_Time folder → Days and Months → Months_**—and selected:
 
 **“7 days in a week.”**
 
@@ -78,7 +73,7 @@ It is a long-term memory bank of possibilities.
 
 Sometimes it takes years for a seed to surface—and when it does, it blooms exactly when it’s needed.
 
-A quiet assurance that when the time comes, there will be a way.
+[A quiet assurance](https://open.substack.com/pub/teslinj7/p/trusting-the-quiet-voice-from-medical?utm_campaign=post&utm_medium=web) that when the time comes, there will be a way.
 
 Continue reading Listening Beyond Words: Honoring Multimodal Communication.
 
