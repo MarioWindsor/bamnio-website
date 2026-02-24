@@ -33,7 +33,7 @@ Arthur and I aren’t different kinds of PDAers. We are responding to the same l
 
 Instead of a straight line, PDA is better understood as a dynamic distribution of nervous system dimensions, including:
 
-- \*\*Threshold of Tolerance:\*\*the tipping point where nervous system activation spills into visible action.
+- **Threshold of Tolerance:** the tipping point where nervous system activation spills into visible action.
 - **Window of Tolerance:** the fluctuating space where demands can be processed without triggering survival responses.
 
 ![](/media/uploads/whatsapp-image-2026-02-03-at-00.39.04.jpeg)
@@ -162,7 +162,7 @@ But my voice locked in my throat.
 
 I couldn’t sleep that night. The weight of my silence pressed heavily on my body. At the time, I didn’t know I was a PDAer. I only knew something felt profoundly wrong.
 
-I turned to the disabled community to understand the ethics of hand-over-hand support. Once my nervous system recovered, I wrote to the therapist—clearly, calmly, and firmly—about consent, body autonomy, and the right to refuse.
+[I turned to the disabled community to understand ](https://open.substack.com/pub/teslinj7/p/trusting-the-quiet-voice-from-medical?utm_campaign=post&utm_medium=web)the ethics of hand-over-hand support. Once my nervous system recovered, I wrote to the therapist—clearly, calmly, and firmly—about consent, body autonomy, and the right to refuse.
 
 Only later did I understand the pattern:
 
@@ -204,7 +204,7 @@ The relief was immediate. My heart rate slowed. The ice began to thaw.
 
 This wasn’t about control. This was **co-regulation.**
 
-My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to **my physiology. ** By changing the environment, he moved us from performance-based safety to relational safety.
+My therapist later helped me name what happened: Arthur wasn’t responding to the content; he was responding to \*\*my physiology. \*\* By changing the environment, he moved us from performance-based safety to relational safety.
 
 In some instances, he also takes away my phone when he senses that I am on the verge of breaking after reading triggering messages.
 
