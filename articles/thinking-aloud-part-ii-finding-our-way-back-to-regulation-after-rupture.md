@@ -1,6 +1,5 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-02-24T21:02:00
 title: 'Thinking Aloud, Part II: Finding Our Way Back to Regulation After Rupture'
 cover: /media/uploads/Gemini_Generated_Image_hff8ychff8ychff8.png
