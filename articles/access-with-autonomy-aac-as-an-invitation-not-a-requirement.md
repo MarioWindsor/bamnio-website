@@ -1,21 +1,17 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-01-07T23:07:00.000+05:30
-title: "Access with Autonomy: AAC as an Invitation, Not a Requirement"
+title: 'Access with Autonomy: AAC as an Invitation, Not a Requirement'
 cover: /media/uploads/whatsapp-image-2026-01-05-at-02.39.13.jpeg
-description: My nonspeaking son Arthur chooses AAC on his terms—no pressure,
-  full autonomy. Inspired by Gayle Porter's wisdom, we prioritize 24/7 access
-  for neurodivergent kids. Discover multimodal communication, trust-based
-  listening, and why choice trumps compliance for autistic children.
+description: My nonspeaking son Arthur chooses AAC on his terms—no pressure, full autonomy. Inspired by Gayle Porter's wisdom, we prioritize 24/7 access for neurodivergent kids. Discover multimodal communication, trust-based listening, and why choice trumps compliance for autistic children.
 author-credit:
-  backlink: https://bambinotherapy.com/articles/listening-beyond-words-honoring-multimodal-communication/
   name: Teslin Joseph
-  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
-    AAC & All Forms of Communication
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
+  backlink: https://bambinotherapy.com/articles/listening-beyond-words-honoring-multimodal-communication/
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 ---
-While communication doesn’t always rely on tools, access to communication tools still matters deeply—especially AAC.
+
+While communication doesn’t always rely on tools, [access to communication tools still matters deeply](https://open.substack.com/pub/teslinj7/p/trusting-the-quiet-voice-from-medical?utm_campaign=post&utm_medium=web)—especially AAC.
 
 For us, AAC has never been about doing it “right.”
 
