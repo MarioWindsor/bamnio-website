@@ -1,27 +1,22 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2025-12-31T14:46:00.000+05:30
 title: Loving Arthur Means
 cover: /media/uploads/whatsapp-nimage-2025-12-29-at-10.02.38.jpeg
-description: >-
-  Bambino Therapy is an inclusive speech therapy clinic in Bengaluru offering
-  neurodiversity-affirming support for autistic and neurodivergent children,
-  focusing on functional communication, AAC, and family-centred guidance.
-
+description: |-
+  Bambino Therapy is an inclusive speech therapy clinic in Bengaluru offering neurodiversity-affirming support for autistic and neurodivergent children, focusing on functional communication, AAC, and family-centred guidance.
 
   ​
-
   Our team partners closely with parents to honour each child’s unique rhythm, build real-world communication skills, and create safe spaces where children feel seen, regulated and authentically themselves.
 author-credit:
-  name: "Teslin Joseph "
-  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
-    AAC & All Forms of Communication
+  name: Teslin Joseph
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 ---
+
 I didn’t step into parenting feeling sure of myself. Even now, I often wonder if I am doing enough, or if I am failing him in ways I can't yet see.
 
-When my son Arthur was born, I had no idea how much he would teach me about love — real love. The kind that listens without assumptions. The kind that slows down and softens to meet someone exactly where they are. Loving Arthur has never been about having all the answers — it means staying, learning, and choosing him over and over again, even when I’m anxious, even when the path feels uncertain.
+When my son Arthur was born, I had no idea how much he would teach me about love — real love. The kind that listens without assumptions. The kind that slows down and softens to meet someone exactly where they are. Loving Arthur has never been about having all the answers — it means staying, learning, and [choosing him over and over again](https://open.substack.com/pub/teslinj7/p/trusting-the-quiet-voice-from-medical?utm_campaign=post&utm_medium=web), even when I’m anxious, even when the path feels uncertain.
 
 Arthur is autistic and a multimodal creative communicator. Some days he gestures; some days he spells with magnetic letters or on apps like Word Wizard or Spell 2 Speak. Some days he uses his AAC device. Some days he is silent but speaks volumes with his eyes or the way he reaches for my hand.
 
@@ -37,7 +32,7 @@ Loving Arthur freely means letting go of expectations that aren't ours to carry.
 
 It also means reimagining what progress looks like. Progress isn’t about getting closer to neurotypical standards. It’s about Arthur having more ways to be himself in the world — to ask for help, to explore his curiosity.
 
-And then there’s his sleep. Or rather, the way he doesn’t sleep like everyone else expects. 
+And then there’s his sleep. Or rather, the way he doesn’t sleep like everyone else expects.
 
 Arthur has Non-24-Hour Sleep-Wake Disorder (N24), a condition where his internal clock doesn’t sync to the 24-hour day. His internal clock moves differently — about 26 hours instead of 24 — shifting forward a little more each day. Some mornings, while the world sleeps, Arthur is wide awake at 3 a.m., happily exploring outer space, arranging intricate patterns, or listening to prayer songs — even ones sung in different languages. By noon that same day, he dozes off peacefully, resting for 9.5 to 10 hours.
 
@@ -55,9 +50,9 @@ But then I remember: loving Arthur freely means choosing him every time over the
 
 Loving him freely means I stretch my own ideas of time, of productivity, of success. It means I measure our days not in hours conquered but in moments connected — a giggle at midnight, a hug at sunrise, a whispered story while the world outside is sleeping.
 
-It means I remember: he is not broken. 
+It means I remember: he is not broken.
 
-He is simply dancing to a different rhythm. 
+He is simply dancing to a different rhythm.
 
 And the most important thing I can do is dance with him.
 
