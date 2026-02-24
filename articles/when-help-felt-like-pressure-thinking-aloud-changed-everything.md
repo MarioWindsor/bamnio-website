@@ -18,7 +18,7 @@ related:
   - 'Listening Beyond Words: Honoring Multimodal Communication'
 ---
 
-Recently, we had a moment that perfectly captured the evolution of Arthur’s communication—and the growing pains of my own understanding as his partner in this dance.
+Recently, we had a moment that perfectly captured the evolution of Arthur’s communication—and [the growing pains of my own understanding](https://open.substack.com/pub/teslinj7/p/trusting-the-quiet-voice-from-medical?utm_campaign=post&utm_medium=web) as his partner in this dance.
 
 **The Evolution of an SOS**
 
