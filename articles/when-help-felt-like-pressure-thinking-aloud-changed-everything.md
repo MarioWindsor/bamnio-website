@@ -64,6 +64,8 @@ I noticed a gap in Arthur’s rhythmic sequence. Based on the pattern, the missi
 
 “I see the pattern. I think it’s a circular peg. I wonder if it’s the red one or the blue one. I’m going to check upstairs and bring it down.”
 
+![](/media/uploads/WhatsApp%20Image%202026-02-17%20at%2007.24.45.jpeg "Moving from a demand for answers to a supportive, reflective presence.  By narrating my thinking, I wasn’t testing him. I was showing him that I understood the internal logic of his system—that it made sense to me.")
+
 The shift in the room was immediate.
 
 By narrating my thinking, I wasn’t testing him. I was showing him that I understood the internal logic of his system—that it made sense to me.
