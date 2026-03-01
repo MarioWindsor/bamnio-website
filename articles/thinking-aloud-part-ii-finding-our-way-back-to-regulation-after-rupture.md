@@ -4,7 +4,10 @@ date: 2026-02-24T21:02:00
 title: 'Thinking Aloud, Part II: Finding Our Way Back to Regulation After Rupture'
 cover: /media/uploads/Gemini_Generated_Image_hff8ychff8ychff8.png
 description: Regulation isn't linear. Explore an honest look at rupture, repair, and "Thinking Aloud" strategies when both parent and child are overdrawn. Find grace at Bambino Therapy.
-author-credit: null
+author-credit:
+  name: Teslin Joseph
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
+  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 category: PDA & Caregiver Burnout  Neuroaffirming Repair & Communication,  Strategies for Neurodivergent Parent, PDA repair and rupture,  Parental dysregulation in neurodivergence , Task-switching difficulty and parenting,  Verbal referencing AAC , Neuroaffirming scaffolding techniques
 related:
   - When Help Felt Like Pressure, Thinking Aloud Changed Everything
