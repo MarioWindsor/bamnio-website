@@ -100,12 +100,10 @@ When we allow this access, we are not “losing control”; we are expanding com
 
 These stories remind us that communication does not have to look conventional to be meaningful. Understanding can exist without spoken words, and expression can be multimodal, dynamic, and deeply personal. Our role is not to shape communication into familiar or socially accepted forms, but to pause, notice, interpret with curiosity, and respond with respect.
 
+![](/media/uploads/WhatsApp%20Image%202026-03-29%20at%2008.25.53.jpeg)
+
 **Closing Reflection**
 
 Arthur didn’t just answer a classroom question. He showed us a different way of seeing—a way where a song becomes context, a cartoon becomes comparison, and a hammer becomes history.
 
 And YouTube becomes a voice. Because when we truly listen—beyond speech—we begin to understand.
-
- **A Shift We Urgently Need**
-
-These stories remind us that communication does not have to look conventional to be meaningful. Understanding can exist without spoken words, and expression can be multimodal, dynamic, and deeply personal. Our role is not to shape communication into familiar or socially accepted forms, but to pause, notice, interpret with curiosity, and respond with respect.
