@@ -2,17 +2,17 @@
 tags: articles
 date: 2025-10-15T21:07:00.000+05:30
 title: What is Ableism?
-cover: /media/uploads/ablism-2.png
+cover: /media/uploads/Gemini_Generated_Image_jxrirzjxrirzjxri.png
 description: Building inclusive communities for neurodivergent children—Speech therapy clinic in Bangalore addressing ableism in schools and families through respectful, strengths-based approaches for autism, speech delays, and communication differences.
-category: Parenting
-related:
-  - Internalised Ableism
-  - Parenting Styles
 author-credit:
   name: Ranjitha Ganesh
   title: Late diagnosed autistic person and also mother of an autistic teenager.
   website: http://notsospecialmommy.blogspot.com
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
+category: Parenting
+related:
+  - Internalised Ableism
+  - Parenting Styles
 ---
 
 ![](/media/uploads/whatsapp-image-2025-10-28-at-10.52.18-1-.jpeg)
