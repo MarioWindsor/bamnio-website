@@ -3,6 +3,8 @@ tags:
   - articles
 date: 2026-04-08T13:55:00
 title: 'When He Said “Cupcake”: A Lesson in Agency, Not Appetite'
+cover: /media/uploads/Gemini_Generated_Image_n4lwu2n4lwu2n4lw.png
+description: Learn how listening to "Cupcake" from a non-speaking child taught a powerful lesson on agency over appetite, highlighting the importance of flexible AAC use.
 author-credit:
   name: Teslin Joseph
   title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
