@@ -3,6 +3,7 @@ tags:
   - articles
 date: 2026-04-08T14:23:00
 title: 'When YouTube Becomes a Voice: Rethinking Communication Through Arthur’s Lens'
+cover: /media/uploads/whatsapp-image-2025-12-30-at-23.06.44.jpeg
 description: Discover how "YouTube becomes a voice" in this insightful exploration of Multi-modal Communication and neuroaffirming AAC. Moving beyond traditional devices, advocate Teslin Joseph shares how children use digital autonomy—from YouTube videos to Spotify—to express complex ideas, exercise agency, and bridge the gap between thought and expression.
 author-credit:
   name: Teslin Joseph
@@ -18,8 +19,7 @@ related:
 
 In our initial journey, I was guilty of thinking that spoken words were the goal. But as I began reading perspectives shared by the neurodivergent community—like the powerful dialogue from [AUsome Training](https://www.facebook.com/share/p/14asX4tHuz4/)— I realized that wishing for a child to be different is often a reflection of society’s difficulty in accepting human variation.
 
-
-Comic strip 
+Comic strip
 
 That shift helped me let go of the idea that there is "one true way" to be human. I released that angst to the past.
 
@@ -28,7 +28,6 @@ Later, I found myself thinking that if I could just get Arthur to use the AAC de
 Then I discovered the work of Dr. Sheridan Forster introduced by Jennifer Cronk and the Natural Language Acquisition (NLA) community. Dr. Forster’s advocacy for non-linguistic communication taught me to value Arthur’s primary way of being. We stopped focusing on the device and started focusing on what I now call the [Creative Multi-modal Communication.](https://youtu.be/7EiNV1kvdDM?si=F0-yCOwP3tYF0rO4)
 
 This perspective is also supported by the research [Rethinking device abandonment:](https://www.researchgate.net/publication/370938584_Rethinking_device_abandonment_a_capability_approach_focused_model) a capability approach focused model by Smidt and Pebdani (2023), which encourages us to stop viewing non-use of devices as failure. Instead, we must see it as a child choosing the modality that is quickest, easiest, and most meaningful for them. I no longer try to make Arthur fit into someone else’s idea of how he should communicate.
-
 
 **When YouTube Became Arthur’s Voice**
 
@@ -45,8 +44,6 @@ I noticed something fascinating: Arthur began using YouTube videos to answer the
 What may look like a shift in topic was, in fact, layered thinking — Arthur weaving together ideas through association, context, and meaning.
 
 If I had insisted on a neuronormative way of participating in the class, I would have missed Arthur’s meaningful and thoughtful communication entirely.
-
-
 
 **Mapping His Responses to the Lesson**
 
