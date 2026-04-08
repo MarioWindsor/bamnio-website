@@ -129,7 +129,7 @@ Sometimes it’s his [AAC apps.](https://youtube.com/shorts/y61LrCqe6so?si=AXiT9
 
 Sometimes it’s a [spelling app.](https://youtu.be/Lm1CETSGIOc?si=JvphpkDwPociaDVb)
 
-Sometimes it’s YouTube.
+Sometimes it’s [YouTube](https://www.youtube.com/).
 
 Sometimes it’s [photos and videos in the phone gallery.](https://bambinotherapy.com/articles/listening-beyond-words-honoring-multimodal-communication/)
 
