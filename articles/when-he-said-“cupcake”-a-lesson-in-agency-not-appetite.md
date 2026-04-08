@@ -1,6 +1,5 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-04-08T13:55:00
 title: 'When He Said “Cupcake”: A Lesson in Agency, Not Appetite'
 cover: /media/uploads/Gemini_Generated_Image_n4lwu2n4lwu2n4lw.png
@@ -16,6 +15,8 @@ related:
   - Parenting Styles
   - Online therapy – does it work for Neurodivergent children with multiple challenges?
   - 'Access with Autonomy: AAC as an Invitation, Not a Requirement'
+  - 'Thinking Aloud, Part II: Finding Our Way Back to Regulation After Rupture'
+  - 'Supporting Siblings: Navigating Neurodiversity Together - 1'
 ---
 
 Last year, during a difficult week, my son Arthur wasn’t eating well.
@@ -162,7 +163,7 @@ If a child resists their AAC device, we can ask:
 -  Is the device associated with correction or performance?
 -  Can we widen the communication doorway instead of narrowing it?
 
-Picture of Could I be the breakdown
+![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%2013.42.03.jpeg)
 
 Communication access is not about perfect use.
 
@@ -176,4 +177,4 @@ And autonomy feeds far more than the body.
 
 For children with a PDA neurotype especially, autonomy is not a luxury — it is regulation.
 
-Picture of Dr. Casey, At Peace Parents 2025
+![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%2013.42.04.jpeg)
