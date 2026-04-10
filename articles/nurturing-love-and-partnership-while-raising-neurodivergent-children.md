@@ -5,9 +5,8 @@ title: Nurturing Love and Partnership While Raising Neurodivergent Children
 cover: /media/uploads/pasted-image-1775641154920.svg
 description: Caring for a neurodivergent child can lead to burnout and strain between partners. Neuroaffirming advocate Teslin Joseph shares personal strategies for navigating caregiver fatigue, preventing resentment, and reclaiming intimacy through intentional bonding, therapy, and the power of the "five-minute check-in.
 author-credit:
-  name: Ranjitha
-  website: https://notsospecialmommy.blogspot.com/
-  photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
+  name: Teslin Joseph
+  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 category: Parenting,  Therapy, ASD, ADHD, Autism,
 related:
   - 'The Mirror Iceberg: PDA, Equalising, and the Cost of Holding It Together'
