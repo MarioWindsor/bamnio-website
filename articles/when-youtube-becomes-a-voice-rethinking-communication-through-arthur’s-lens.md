@@ -100,7 +100,7 @@ When we allow this access, we are not “losing control”; we are expanding com
 
 These stories remind us that communication does not have to look conventional to be meaningful. Understanding can exist without spoken words, and expression can be multimodal, dynamic, and deeply personal. Our role is not to shape communication into familiar or socially accepted forms, but to pause, notice, interpret with curiosity, and respond with respect.
 
-![](/media/uploads/WhatsApp%20Image%202026-03-29%20at%2008.25.53.jpeg)
+![](/media/uploads/WhatsApp%20Image%202026-04-10%20at%209.55.58%20AM.jpeg)
 
 **Closing Reflection**
 
