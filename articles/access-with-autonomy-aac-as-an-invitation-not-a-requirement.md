@@ -2,7 +2,7 @@
 tags: articles
 date: 2026-01-07T23:07:00.000+05:30
 title: 'Access with Autonomy: AAC as an Invitation, Not a Requirement'
-cover: /media/uploads/whatsapp-image-2026-01-05-at-02.39.13.jpeg
+cover: /media/uploads/awa.jpeg
 description: My nonspeaking son Arthur chooses AAC on his terms—no pressure, full autonomy. Inspired by Gayle Porter's wisdom, we prioritize 24/7 access for neurodivergent kids. Discover multimodal communication, trust-based listening, and why choice trumps compliance for autistic children.
 author-credit:
   name: Teslin Joseph
