@@ -1,20 +1,16 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2025-10-16T00:43:00.000+05:30
-title: "Self-Regulation: The Foundation of Self-Advocacy for Neurodivergent Children"
-cover: /media/uploads/self-regulation.png
-description: Explore the crucial role of self-regulation in neurodivergent
-  children as the first step towards self-advocacy. Understand how managing
-  emotions, behaviours, and co-regulation with supportive adults builds
-  confidence, focus, and healthy coping strategies. Learn why embracing stimming
-  and interoception is key to helping neurodivergent kids thrive
+title: 'Self-Regulation: The Foundation of Self-Advocacy for Neurodivergent Children'
+cover: /media/uploads/Gemini_Generated_Image_7x0njz7x0njz7x0n.png
+description: Explore the crucial role of self-regulation in neurodivergent children as the first step towards self-advocacy. Understand how managing emotions, behaviours, and co-regulation with supportive adults builds confidence, focus, and healthy coping strategies. Learn why embracing stimming and interoception is key to helping neurodivergent kids thrive
 author-credit:
-  website: "http://notsospecialmommy.blogspot.com "
-  title: Late diagnosed autistic person and also a mother of an autistic teenager
   name: Ranjitha Ganesh
+  title: Late diagnosed autistic person and also a mother of an autistic teenager
+  website: http://notsospecialmommy.blogspot.com
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
+
 This blog is a part of the series that intends to throw more light on Self-Advocacy skills, as self-regulation is the first step to towards self advocacy.
 
 **Let us understand What is Self Regulation?**
