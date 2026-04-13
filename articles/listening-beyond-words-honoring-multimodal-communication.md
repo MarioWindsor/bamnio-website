@@ -1,20 +1,16 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-01-07T22:26:00.000+05:30
-title: "Listening Beyond Words: Honoring Multimodal Communication"
-cover: /media/uploads/whatsapp-image-2026-01-05-at-02.36.59.jpeg
-description: Discover how my nonspeaking son Arthur communicates without
-  words—through images, emotions, and shared moments. Explore fluid, multimodal
-  communication for neurodivergent kids, beyond AAC. True listening honors
-  autonomy.
+title: 'Listening Beyond Words: Honoring Multimodal Communication'
+cover: /media/uploads/Gemini_Generated_Image_87pvae87pvae87pv.png
+description: Discover how my nonspeaking son Arthur communicates without words—through images, emotions, and shared moments. Explore fluid, multimodal communication for neurodivergent kids, beyond AAC. True listening honors autonomy.
 author-credit:
-  backlink: https://bambinotherapy.com/articles/access-with-autonomy-aac-as-an-invitation-not-a-requirement/
-  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for
-    AAC & All Forms of Communication
   name: Teslin Joseph
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
+  backlink: https://bambinotherapy.com/articles/access-with-autonomy-aac-as-an-invitation-not-a-requirement/
   photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
 ---
+
 Many people still ask me,
 
 **“How does your son communicate if he is nonspeaking?”**
@@ -45,7 +41,7 @@ At that party, Arthur looked emotional as he stood near the Christmas tree. My s
 
 The next day—New Year’s Day—Arthur took my phone, opened the photo gallery, scrolled with intention, and went straight to pictures of **last year’s** (2024) Christmas tree and crib at our home. He looked at them quietly for a while.
 
-![](/media/uploads/whatsapp-image-2026-01-05-at-02.36.59.jpeg "Picture of the 2024 Christmas tree and crib ")
+![](/media/uploads/whatsapp-image-2026-01-05-at-02.36.59.jpeg "Picture of the 2024 Christmas tree and crib")
 
 This was the **second time** he had done this. The first was after visiting his cousin’s birthday on December 26th.
 
