@@ -2,7 +2,7 @@
 tags: articles
 date: 2026-02-11T20:22:00.000+05:30
 title: Reigniting the Joy in My Life
-cover: /media/uploads/whatsapp-image-2026-02-08-at-13.20.09.jpeg
+cover: /media/uploads/Gemini_Generated_Image_e125lme125lme125.png
 description: 'Autism burnout: A guide to rediscovering joy through mindfulness and mental health support. Essential reading for parents of neurodivergent children seeking a balanced, hopeful perspective on the therapy journey. Learn to turn challenges into opportunities for growth.'
 author-credit:
   name: Ranjitha Ganesh
@@ -19,7 +19,7 @@ related:
   - 'Managing Sibling Relationships and Conflict in Neurodivergent Families: Practical Solutions for Parents - 2'
 ---
 
-"**_The present moment is filled with joy and happiness. If you are attentive, you will see it." —_** Thich Nhat Hanh.
+"\*\*_The present moment is filled with joy and happiness. If you are attentive, you will see it." —_\*\* Thich Nhat Hanh.
 
 ![](/media/uploads/whatsapp-image-2026-02-08-at-13.20.09.jpeg)
 
@@ -29,7 +29,7 @@ A significant shift in perspective happened during the darkest phase of my life.
 
 The journey wasn't easy; my coping mechanism was losing myself in endless episodes of TV series for hours to escape my feelings, but once I put the phone down, I found myself in a quagmire of thoughts, feeling empty. I persisted with small efforts each day, I woke up early to meditate and took time out for myself. There were some good days and lots of bad days, but I learnt to look for things to smile about each day. I immersed myself in spiritual texts that encouraged me to address my inner unrest. I read books like **The Magic of Believing**- Claude Bristol and **The Power of Your Subconscious Mind** - Dr Joseph Murphy, **Things that You only See When You Slow Down-** Haemin Sunim, and I chose to believe in turning my life around, too. I learnt to pause, breathe, and experience my surroundings – the soft breeze stroking my face gently, and to take in the sweet smell of the wet soil on a rainy day.
 
-I rediscovered the joy is found in ordinary moments, which was deeper than fleeting happiness. Joy, regardless of external situations, forms a lasting spark within us. We may need to change the lens through which we see our lives. If we see our difficult circumstances as a struggle, life starts to feel suffocating with little space to breathe. But when we learn to perceive challenges as opportunities to grow, it creates a shift in our lives. We can begin to feel a spark of joy naturally and spread it around us. The **_Power of Perception_** undeniably holds the reins over happiness.
+I rediscovered the joy is found in ordinary moments, which was deeper than fleeting happiness. Joy, regardless of external situations, forms a lasting spark within us. We may need to change the lens through which we see our lives. If we see our difficult circumstances as a struggle, life starts to feel suffocating with little space to breathe. But when we learn to perceive challenges as opportunities to grow, it creates a shift in our lives. We can begin to feel a spark of joy naturally and spread it around us. The \*\*_Power of Perception_\*\* undeniably holds the reins over happiness.
 
 For parents of neurodivergent children, currently, there are support groups that can help with proper guidance regarding therapy for them as well. I genuinely hope that the stigmas related to mental health are addressed, and mental health deserves the same urgency and respect as physical health. Parents of neurodivergent children should have access to information about helplines and support groups devoted to mental health. As a community, we need to come out and support one another and work together to destigmatise mental health and normalise treatment for it. Let’s remove the shame associated  with mental health and support those  around us going through it.
 
