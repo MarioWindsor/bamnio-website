@@ -63,7 +63,7 @@ The device — at that moment — felt like work.
 
 And when a child is dysregulated or unwell, the last thing they need is more cognitive load.
 
-![](/media/uploads/PHOTO-2026-04-08-13-42-09.jpg)
+![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%2013.42.03%20%284%29.jpeg)
 
 **Trying Something Different**
 
@@ -75,7 +75,7 @@ But a space that feels low-pressure and self-directed.
 
 I typed out a few food options he usually likes and showed them to him — without expectation.
 
-![](/media/uploads/PHOTO-2026-04-08-13-42-09.jpg)
+![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%2013.42.03%20%281%29.jpeg)
 
 At first, he ignored them all.
 
@@ -103,7 +103,7 @@ Ten cupcakes in total.
 
 After days of refusal, my child was eating — because he was heard.
 
-![](/media/uploads/PHOTO-2026-04-08-13-42-11.jpg)
+![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%2013.42.03%20%285%29.jpeg)
 
  **A Note on Neuroaffirming Guardrails:** 
 
