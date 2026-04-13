@@ -1,20 +1,16 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2025-10-16T00:18:00.000+05:30
-title: "Self-Advocacy Skills for Neurodivergent Kids: Promoting Autonomy and
-  Inclusion"
-cover: /media/uploads/generated-image.png
-description: Support neurodivergent children's rights through self-advocacy
-  development. Emphasize communication access, autonomy, and confidence-building
-  in speech therapy to help children, including non speaking ones, speak up and
-  thrive
+title: 'Self-Advocacy Skills for Neurodivergent Kids: Promoting Autonomy and Inclusion'
+cover: /media/uploads/Gemini_Generated_Image_txue6vtxue6vtxue.png
+description: Support neurodivergent children's rights through self-advocacy development. Emphasize communication access, autonomy, and confidence-building in speech therapy to help children, including non speaking ones, speak up and thrive
 author-credit:
-  website: http://notsospecialmommy.blogspot.com
-  title: Late diagnosed autistic person and also mother of an autistic teenager
   name: Ranjitha Ganesh
+  title: Late diagnosed autistic person and also mother of an autistic teenager
+  website: http://notsospecialmommy.blogspot.com
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
+
 ![](/media/uploads/whatsapp-image-2025-10-28-at-11.06.03-1-.jpeg)
 
 Communication does not necessarily have to verbal and communication in any form must be respected. The interventions supporting communication, not just speech, should be encouraged and this should be a norm in therapy centres or educational institutions. Promotion of autonomy in neurodivergent individuals is crucial. It is important to teach neurodivergent children the need to stand up for themselves. Their rights and needs must be respected and honoured.
