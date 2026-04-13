@@ -63,7 +63,7 @@ The device — at that moment — felt like work.
 
 And when a child is dysregulated or unwell, the last thing they need is more cognitive load.
 
-![](/media/uploads/Good%20AAC%20BAd%20AAc.jpeg)
+![](/media/uploads/PHOTO-2026-04-08-13-42-09.jpg)
 
 **Trying Something Different**
 
@@ -75,7 +75,7 @@ But a space that feels low-pressure and self-directed.
 
 I typed out a few food options he usually likes and showed them to him — without expectation.
 
-![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%201.42.09%20PM.jpeg)
+![](/media/uploads/PHOTO-2026-04-08-13-42-09.jpg)
 
 At first, he ignored them all.
 
@@ -103,9 +103,13 @@ Ten cupcakes in total.
 
 After days of refusal, my child was eating — because he was heard.
 
-![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%201.42.11%20PM.jpeg)
+![](/media/uploads/PHOTO-2026-04-08-13-42-11.jpg)
 
- **When Eating Is Harder: Understanding ARFID**
+ **A Note on Neuroaffirming Guardrails:** 
+
+When offering choices, I have learned the importance of including an 'Extra Option'—a 'none of the above' or 'something else' button. While Arthur found his way this time, this guardrail prevents a choice from feeling like a trap and gives a child the agency to say, 'You haven't found what I need yet.'
+
+**When Eating Is Harder: Understanding ARFID**
 
 Arthur’s relationship with food is also shaped by Avoidant/Restrictive Food Intake Disorder (ARFID) — something many neurodivergent children experience.
 
