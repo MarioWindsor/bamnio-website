@@ -1,16 +1,15 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2025-10-22T10:10:00.000+05:30
-title: "Managing Sibling Relationships and Conflict in Neurodivergent Families:
-  Practical Solutions for Parents - 2 "
-cover: /media/uploads/sibling-2-3.jpg
+title: 'Managing Sibling Relationships and Conflict in Neurodivergent Families: Practical Solutions for Parents - 2'
+cover: /media/uploads/Gemini_Generated_Image_2n09hi2n09hi2n09.png
 author-credit:
   name: Ranjitha Ganesh
-  website: http://notsospecialmommy.blogspot.com
   title: Late diagnosed autistic person and also a mother of an autistic teenager
+  website: http://notsospecialmommy.blogspot.com
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
+
 This blog intends to  discuss the practical difficulties in a neurodivergent (ND) family while resolving fights, feelings of resentment.   
 
 The Neurodivergent families have to deal with sibling rivalry, jealousy, happy feelings just like any neurotypical family. There are differences in which these feelings are manifested or expressed in ND families. Parents in neurodivergent families have an important role to play in helping the children tied over their difficult feelings. Let’s see what are some challenges faced by these families. 
