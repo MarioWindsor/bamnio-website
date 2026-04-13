@@ -6,6 +6,7 @@ cover: /media/uploads/pasted-image-1775641154920.svg
 description: Caring for a neurodivergent child can lead to burnout and strain between partners. Neuroaffirming advocate Ranjitha Ganesh shares personal strategies for navigating caregiver fatigue, preventing resentment, and reclaiming intimacy through intentional bonding, therapy, and the power of the "five-minute check-in.
 author-credit:
   name: Ranjitha Ganesh
+  title: Late diagnosed autistic person and also a mother of an autistic teenager
   website: https://notsospecialmommy.blogspot.com/
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 category: Parenting,  Therapy, ASD, ADHD, Autism,
