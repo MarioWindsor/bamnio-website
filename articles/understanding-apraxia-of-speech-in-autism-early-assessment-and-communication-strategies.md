@@ -1,21 +1,16 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2025-10-29T12:38:00.000+05:30
-title: "Understanding Apraxia of Speech in Autism: Early Assessment and
-  Communication Strategies"
-cover: /media/uploads/generated-image.png
-description: Learn how apraxia of speech and autism commonly co-occur, leading
-  to unique speech and communication challenges. Discover the importance of
-  early screening, targeted speech therapy, and the value of alternative
-  communication methods—empowering every child to express themselves in their
-  own way.
+title: 'Understanding Apraxia of Speech in Autism: Early Assessment and Communication Strategies'
+cover: /media/uploads/Gemini_Generated_Image_txue6vtxue6vtxue.png
+description: Learn how apraxia of speech and autism commonly co-occur, leading to unique speech and communication challenges. Discover the importance of early screening, targeted speech therapy, and the value of alternative communication methods—empowering every child to express themselves in their own way.
 author-credit:
   name: Ranjitha Ganesh
   title: Late diagnosed autistic person and also a mother of an autistic teenager
-  website: "http://notsospecialmommy.blogspot.com "
+  website: http://notsospecialmommy.blogspot.com
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
+
 Autism and apraxia are two distinct and different neurological conditions with difficulty in communication as a common factor. They sometimes present as co-morbid conditions. Apraxia of speech is a specific speech disorder where there is  difficulty in planning speech movements. The children with apraxia struggle to produce the sounds or words and have serious motor planning issues related to the movement of the lips, tongue, and the jaw. A percentage  of the autistic population are either non-verbal or minimally speaking. According to a recent research, as much as 65% of children with autism have apraxia of speech. 
 
 It is important to screen for both the conditions so that the necessary interventions and therapy can  be started early.
