@@ -1,19 +1,16 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-01-07T21:49:00.000+05:30
 title: Parenting Styles
-cover: /media/uploads/whatsapp-image-2026-01-03-at-17.51.28.jpeg
-description: Discover 4 key parenting styles—authoritarian, permissive,
-  authoritative, neglectful—and how adopting an appropriate approach helps
-  neurodivergent children build confidence, self-regulation and emotional
-  growth.
+cover: /media/uploads/Gemini_Generated_Image_r6676wr6676wr667.png
+description: Discover 4 key parenting styles—authoritarian, permissive, authoritative, neglectful—and how adopting an appropriate approach helps neurodivergent children build confidence, self-regulation and emotional growth.
 author-credit:
   name: Ranjitha Ganesh
   title: Late diagnosed autistic person and mother of an autistic teenager
   website: https://notsospecialmommy.blogspot.com/
   photo: /media/uploads/whatsapp-image-2026-01-02-at-08.40.26.jpeg
 ---
+
 ![](/media/uploads/whatsapp-image-2026-01-03-at-17.51.28.jpeg)
 
 Parenting is an enriching experience that we learn hands on. No handbook can prepare us for the challenges that come with it. Every parent wants what is best for their child.  The method they adopt in achieving this becomes their parenting style. This is largely influenced by the person’s own parents and the environment in which with they grew up. When we start facing challenges in our parenting journey, we start reviewing the process. Sadly, we tend to start with behaviour modification on the child. But, I strongly believe that we need to look into our parenting process and find reasons for the challenging behaviours.
