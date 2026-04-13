@@ -1,21 +1,16 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2025-10-16T01:31:00.000+05:30
-title: "Understanding Sensory Challenges in Autism: Empowering Neurodivergent
-  Individuals Through Sensory Integration"
-cover: /media/uploads/sensory.png
-description: Explore the complex sensory processing differences faced by
-  autistic individuals, including hypersensitivity and hyposensitivity to
-  stimuli. Learn how sensory diets, accommodations, and neurodivergent-affirming
-  therapies help regulate the nervous system, promote calm, and support true
-  inclusion in schools and society
+title: 'Understanding Sensory Challenges in Autism: Empowering Neurodivergent Individuals Through Sensory Integration'
+cover: /media/uploads/Gemini_Generated_Image_8sxbdk8sxbdk8sxb.png
+description: Explore the complex sensory processing differences faced by autistic individuals, including hypersensitivity and hyposensitivity to stimuli. Learn how sensory diets, accommodations, and neurodivergent-affirming therapies help regulate the nervous system, promote calm, and support true inclusion in schools and society
 author-credit:
   name: Ranjitha Ganesh
   title: Late diagnosed autistic person and also a mother of an autistic teenager.
   website: http://notsospecialmommy.blogspot.com
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
+
 Sensory challenges occur when individuals have difficulty processing the sensory stimuli from their environment. For an autistic individual, the stimuli can be overstimulating or understimulating, depending on their sensory profile.
 
 Autistic individuals with hypersensitivity to sounds, lights, or smells can find a visit to a mall overwhelming because of the noise, the bright lights as well as the smells wafting in the air. 
