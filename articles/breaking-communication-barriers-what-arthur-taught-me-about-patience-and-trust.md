@@ -2,7 +2,7 @@
 tags: articles
 date: 2026-01-06T09:06:00.000+05:30
 title: 'Breaking Communication Barriers: What Arthur Taught Me About Patience and Trust'
-cover: /media/uploads/whatsapp-image-2026-01-05-at-17.00.18.jpeg
+cover: /media/uploads/Gemini_Generated_Image_gsfew9gsfew9gsfe.png
 description: 'Breaking Communication Barriers: What Arthur Taught Me About Patience and Trust explores how AAC and multimodal communication can help autistic children express themselves, deepen connection and build real trust between families and therapists.'
 author-credit:
   name: Teslin Joseph
@@ -35,7 +35,7 @@ Arthur usually watches a particular **days of the week** song that starts with *
 
 A little while later, Arthur was searching again. I couldn’t tell what he wanted. I asked gently. This time, he didn’t gesture or point. He decided to use his CoughDrop AAC app.
 
-He navigated—**_Time folder → Days and Months → Months_**—and selected:
+He navigated—\*\*_Time folder → Days and Months → Months_\*\*—and selected:
 
 **“7 days in a week.”**
 
