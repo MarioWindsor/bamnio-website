@@ -2,7 +2,7 @@
 tags: articles
 date: 2025-10-15T21:07:00.000+05:30
 title: What is Ableism?
-cover: /media/uploads/Gemini_Generated_Image_jxrirzjxrirzjxri.png
+cover: /media/uploads/Gemini_Generated_Image_b7hgogb7hgogb7hg.png
 description: Building inclusive communities for neurodivergent children—Speech therapy clinic in Bangalore addressing ableism in schools and families through respectful, strengths-based approaches for autism, speech delays, and communication differences.
 author-credit:
   name: Ranjitha Ganesh
