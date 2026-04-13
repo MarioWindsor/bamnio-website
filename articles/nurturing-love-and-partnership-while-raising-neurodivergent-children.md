@@ -2,7 +2,7 @@
 tags: articles
 date: 2026-04-08T15:07:00
 title: Nurturing Love and Partnership While Raising Neurodivergent Children
-cover: /media/uploads/pasted-image-1775641154920.svg
+cover: /media/uploads/pasted-image-1776056141430.png
 description: Caring for a neurodivergent child can lead to burnout and strain between partners. Neuroaffirming advocate Ranjitha Ganesh shares personal strategies for navigating caregiver fatigue, preventing resentment, and reclaiming intimacy through intentional bonding, therapy, and the power of the "five-minute check-in.
 author-credit:
   name: Ranjitha Ganesh
@@ -35,6 +35,8 @@ There were traumatic times during my son’s flare-up of gut issues, due to whic
 - Addressing burnout and hostile feelings regularly. Connect as two friends, not as parents, discussing the next hurdle. Spending a few minutes together each day helps to preserve the sanctity of the relationship.
 - Speak up and share feelings directly and clearly\*\*.\*\*
 
-Relationships require continual care, and nurturing the partnership is vital for the well-being of the entire family, especially in neurodivergent households.
+Relationships require continual care, and nurturing the partnership is vital for the well-being of the entire family, especially in neurodivergent households.![](/media/uploads/pasted-image-1776056030618.png)
+
+![](/media/uploads/pasted-image-1776056045911.png)
 
 PC: [www.motivationformom.com](http://www.motivationformom.com),Shutterstock, Pinterest
