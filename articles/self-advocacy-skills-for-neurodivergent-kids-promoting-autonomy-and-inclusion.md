@@ -2,7 +2,7 @@
 tags: articles
 date: 2025-10-16T00:18:00.000+05:30
 title: 'Self-Advocacy Skills for Neurodivergent Kids: Promoting Autonomy and Inclusion'
-cover: /media/uploads/Gemini_Generated_Image_txue6vtxue6vtxue.png
+cover: /media/uploads/Gemini_Generated_Image_4rgybg4rgybg4rgy.png
 description: Support neurodivergent children's rights through self-advocacy development. Emphasize communication access, autonomy, and confidence-building in speech therapy to help children, including non speaking ones, speak up and thrive
 author-credit:
   name: Ranjitha Ganesh
