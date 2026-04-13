@@ -2,7 +2,7 @@
 tags: articles
 date: 2025-12-31T14:46:00.000+05:30
 title: Loving Arthur Means
-cover: /media/uploads/whatsapp-nimage-2025-12-29-at-10.02.38.jpeg
+cover: /media/uploads/Gemini_Generated_Image_vfudenvfudenvfud (1).png
 description: |-
   Bambino Therapy is an inclusive speech therapy clinic in Bengaluru offering neurodiversity-affirming support for autistic and neurodivergent children, focusing on functional communication, AAC, and family-centred guidance.
 
