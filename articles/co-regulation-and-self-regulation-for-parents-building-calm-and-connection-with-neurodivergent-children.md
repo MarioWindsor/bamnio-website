@@ -1,22 +1,16 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2025-10-16T01:02:00.000+05:30
-title: "Co-Regulation and Self-Regulation for Parents: Building Calm and
-  Connection with Neurodivergent Children"
-cover: /media/uploads/co-regulation.png
-description: Discover the essential role of self-regulation and co-regulation
-  for parents of neurodivergent children. Learn practical strategies to manage
-  your emotions, set healthy boundaries, and foster a calm, supportive
-  environment that helps your child thrive emotionally and behaviorally. Build a
-  strong parent-child relationship based on empathy, patience, and emotional
-  validation.
+title: 'Co-Regulation and Self-Regulation for Parents: Building Calm and Connection with Neurodivergent Children'
+cover: /media/uploads/Gemini_Generated_Image_j8dyjaj8dyjaj8dy.png
+description: Discover the essential role of self-regulation and co-regulation for parents of neurodivergent children. Learn practical strategies to manage your emotions, set healthy boundaries, and foster a calm, supportive environment that helps your child thrive emotionally and behaviorally. Build a strong parent-child relationship based on empathy, patience, and emotional validation.
 author-credit:
-  name: "Ranjitha Ganesh "
+  name: Ranjitha Ganesh
   title: Late diagnosed autistic person and also mother of an autistic teenager
   website: http://notsospecialmommy.blogspot.com
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
+
 This blog is a continuation in the series of [Self — Regulation](https://bambinotherapy.com/articles/self-regulation-the-foundation-of-self-advocacy-for-neurodivergent-children/) skills.
 
 I am a late diagnosed autistic adult as well as a mother to an autistic teenager. After years of struggle to understand myself, I learnt to regulate myself and validate my feelings. I understood how co-regulation helped both me and my son.
