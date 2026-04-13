@@ -105,7 +105,57 @@ After days of refusal, my child was eating — because he was heard.
 
 ![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%201.42.11%20PM.jpeg)
 
- **A Note on Offering Choices with Guardrails:**
+ **When Eating Is Harder: Understanding ARFID**
+
+Arthur’s relationship with food is also shaped by Avoidant/Restrictive Food Intake Disorder (ARFID) — something many neurodivergent children experience.
+
+For Arthur, this isn’t just about preference. Eating can become harder when:
+
+• Sensory sensitivities intensify
+
+• Past unpleasant experiences create fear
+
+• Illness disrupts appetite and interoception
+
+• Interest in food drops during dysregulation or fatigue.
+
+Infographics about AFRID
+
+**The Stakes of Agency: A Reflection**
+
+Thinking about this reminds me of a crisis we faced a year ago. Arthur had been very unwell with a stomach bug, and his ARFID made eating extremely difficult. When he hadn’t eaten for over 24 hours, we were faced with two difficult choices:
+
+**Option A:** Supporting him more directly to eat
+
+**Option B:** Hospitalization
+
+We chose Option A, but we didn’t abandon agency.
+
+Even in that high-stakes moment, I modelled on the AAC app:
+
+"Your body needs food and water."
+
+Arthur navigated to his fruits folder, but didn’t select anything. Then he went back to the food and drinks folder and chose "Cake."
+
+I wondered if he was reaching for a memory of comfort — the strawberry cupcakes he used to love.
+
+I replied via AAC app on my phone:
+
+"Get well soon, then you can eat cake."
+
+While offering a gentle alternative, he eventually agreed to eat a little oatmeal.
+
+**Agency Is the Safety Net**
+
+This is why I’m sharing this.
+
+AAC isn’t just about naming things; it’s about connection and trust in real-life moments — even the difficult ones.
+
+When we understand ARFID, we begin to see that for these children, "no" isn’t a power struggle — it’s a boundary.
+
+Using AAC to honor that boundary, even while navigating medical necessity, helps keep the doors of communication open for the long haul.![](/media/uploads/PHOTO-2026-04-11-08-41-20.jpg)
+
+**A Note on Offering Choices with Guardrails:**
 
 When offering choices, I have learned the importance of including an 'Extra Option'—a 'none of the above' or 'something else' button. While Arthur found his way this time, this guardrail prevents a choice from feeling like a trap and gives a child the agency to say, 'You haven't found what I need yet.'
 
