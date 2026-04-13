@@ -1,14 +1,10 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-01-07T22:08:00.000+05:30
 title: Internalised Ableism
-cover: /media/uploads/whatsapp-imafge-2026-01-03-at-12.51.55.jpeg
-description: >-
-  Internalised ableism in neurodivergent families hinders authentic acceptance
-  and support for autistic children, often rooted in societal biases and
-  unexamined expectations.
-
+cover: /media/uploads/Gemini_Generated_Image_3svjx73svjx73svj.png
+description: |-
+  Internalised ableism in neurodivergent families hinders authentic acceptance and support for autistic children, often rooted in societal biases and unexamined expectations.
 
   This blog explores how to recognise and dismantle these patterns to foster true neurodiversity-affirming parenting, communication and therapy approaches at Bambino Therapy.
 author-credit:
@@ -18,6 +14,7 @@ author-credit:
   backlink: https://bambinotherapy.com/articles/what-is-ableism/
   photo: /media/uploads/whatsapp-image-2025-10-15-at-21.10.18.jpeg
 ---
+
 In one of  my [previous blogs](https://bambinotherapy.com/articles/what-is-ableism/), I had discussed in detail about Ableism that takes form in small, discrete and unintentional ways -Telling a disabled person that they don’t look disabled, “everyone is a little disabled”, infantilizing people with disabilities and so on.
 
 In this blog, I want to share about how I, as a late diagnosed autistic adult, internalised ableism.
@@ -40,8 +37,6 @@ It may cause some or all of these:
 ![](/media/uploads/whatsapp-image-2026-01-03-at-12.51.55.jpeg)
 
  After my own diagnosis as an autistic adult, I have questioned myself about my disability. My experience reflects the shame I internalised towards the diagnosis. I have had difficulty with socializing and maintaining friendships all my life. My only defence was to mask my differences in order to not stand out.
-
- 
 
 I went in for a formal assessment when I was 45 years old. It  was an important step to get answers to the nagging feeling of ‘not being enough’ and always feeling like an outsider. I battled anxiety issues and burnouts for many years. I reached a point where I had passive suicidal thoughts very often. I did take therapy and reached out to my doctors to help me tide over these difficult emotions. I used to feel that I have to fix my son’s autism due to the traditional therapies and behaviour modification models. Assessment as an autistic adult, though late, made me realise my ableist attitude. My diagnosis has helped me confront the ableist attitude in me, as well as the  shame I internalized.
 
