@@ -18,7 +18,7 @@ related:
 
 In our initial journey, I was guilty of thinking that spoken words were the goal. But as I began reading perspectives shared by the neurodivergent community—like the powerful dialogue from [AUsome Training](https://www.facebook.com/share/p/14asX4tHuz4/)— I realized that wishing for a child to be different is often a reflection of society’s difficulty in accepting human variation.
 
-![](/media/uploads/PHOTO-2026-04-08-14-11-33.jpg)
+![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%2014.11.31.jpeg)
 
 That shift helped me let go of the idea that there is "one true way" to be human. I released that angst to the past.
 
