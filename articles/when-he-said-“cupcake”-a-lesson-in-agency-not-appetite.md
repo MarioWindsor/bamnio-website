@@ -103,7 +103,7 @@ Ten cupcakes in total.
 
 After days of refusal, my child was eating — because he was heard.
 
-![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%2013.42.03%20%285%29.jpeg)
+![](/media/uploads/WhatsApp%20Image%202026-02-27%20at%2020.20.51.jpeg)
 
  **A Note on Neuroaffirming Guardrails:** 
 
