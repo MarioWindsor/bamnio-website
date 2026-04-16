@@ -105,6 +105,10 @@ After days of refusal, my child was eating — because he was heard.
 
 ![](/media/uploads/WhatsApp%20Image%202026-04-08%20at%2013.42.03%20%285%29.jpeg)
 
+ **A Note on Neuroaffirming Guardrails:** 
+
+When offering choices, I have learned the importance of including an 'Extra Option'—a 'none of the above' or 'something else' button. While Arthur found his way this time, this guardrail prevents a choice from feeling like a trap and gives a child the agency to say, 'You haven't found what I need yet.'
+
 **When Eating Is Harder: Understanding ARFID**
 
 Arthur’s relationship with food is also shaped by Avoidant/Restrictive Food Intake Disorder (ARFID) — something many neurodivergent children experience.
@@ -119,7 +123,7 @@ For Arthur, this isn’t just about preference. Eating can become harder when:
 
 • Interest in food drops during dysregulation or fatigue.
 
-![](/media/uploads/PHOTO-2026-04-11-08-41-20.jpg)
+Infographics about AFRID
 
 **The Stakes of Agency: A Reflection**
 
@@ -153,7 +157,7 @@ AAC isn’t just about naming things; it’s about connection and trust in real-
 
 When we understand ARFID, we begin to see that for these children, "no" isn’t a power struggle — it’s a boundary.
 
-Using AAC to honor that boundary, even while navigating medical necessity, helps keep the doors of communication open for the long haul.
+Using AAC to honor that boundary, even while navigating medical necessity, helps keep the doors of communication open for the long haul.![](/media/uploads/PHOTO-2026-04-11-08-41-20.jpg)
 
 **A Note on Offering Choices with Guardrails:**
 
@@ -179,7 +183,7 @@ Sometimes it’s his [AAC apps.](https://youtube.com/shorts/y61LrCqe6so?si=AXiT9
 
 Sometimes it’s a [spelling app.](https://youtu.be/Lm1CETSGIOc?si=JvphpkDwPociaDVb)
 
-Sometimes it’s [YouTube](https://www.youtube.com/).
+Sometimes it’s [YouTube](https://bambinotherapy.com/articles/when-youtube-becomes-a-voice-rethinking-communication-through-arthur%E2%80%99s-lens/).
 
 Sometimes it’s [photos and videos in the phone gallery.](https://bambinotherapy.com/articles/listening-beyond-words-honoring-multimodal-communication/)
 
