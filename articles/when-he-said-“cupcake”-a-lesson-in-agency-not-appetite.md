@@ -105,10 +105,6 @@ After days of refusal, my child was eating — because he was heard.
 
 ![](/media/uploads/WhatsApp%20Image%202026-02-27%20at%2020.20.51.jpeg)
 
- **A Note on Neuroaffirming Guardrails:** 
-
-When offering choices, I have learned the importance of including an 'Extra Option'—a 'none of the above' or 'something else' button. While Arthur found his way this time, this guardrail prevents a choice from feeling like a trap and gives a child the agency to say, 'You haven't found what I need yet.'
-
 **When Eating Is Harder: Understanding ARFID**
 
 Arthur’s relationship with food is also shaped by Avoidant/Restrictive Food Intake Disorder (ARFID) — something many neurodivergent children experience.
@@ -122,8 +118,6 @@ For Arthur, this isn’t just about preference. Eating can become harder when:
 • Illness disrupts appetite and interoception
 
 • Interest in food drops during dysregulation or fatigue.
-
-Infographics about AFRID
 
 **The Stakes of Agency: A Reflection**
 
@@ -157,7 +151,7 @@ AAC isn’t just about naming things; it’s about connection and trust in real-
 
 When we understand ARFID, we begin to see that for these children, "no" isn’t a power struggle — it’s a boundary.
 
-Using AAC to honor that boundary, even while navigating medical necessity, helps keep the doors of communication open for the long haul.![](/media/uploads/PHOTO-2026-04-11-08-41-20.jpg)
+Using AAC to honor that boundary, even while navigating medical necessity, helps keep the doors of communication open for the long haul.
 
 **A Note on Offering Choices with Guardrails:**
 
