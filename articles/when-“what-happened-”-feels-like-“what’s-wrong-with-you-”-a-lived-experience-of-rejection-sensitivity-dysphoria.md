@@ -157,8 +157,6 @@ For me, that can look like:
 
 ![](/media/uploads/WhatsApp%20Image%202026-05-04%20at%2012.54.59%20PM%204.jpeg)
 
-(Part 2/3: Delay your reactions)
-
 This is not avoidance.
 
 This is **regulation.**
@@ -171,8 +169,6 @@ Misunderstandings can happen quickly:
 
 - One person believes they are being practical
 - The other experiences it as emotional disconnection
-
-Picture 5
 
 ![](/media/uploads/WhatsApp%20Image%202026-05-04%20at%2012.54.00%20PM%205.jpeg)
 
@@ -187,8 +183,6 @@ Often, both people leave the interaction feeling unseen.
 **What Actually Helps**
 
 ![](/media/uploads/WhatsApp%20Image%202026-05-04%20at%2012.56.18%20PM%206.jpeg)
-
-(Part 1/3: Create tools before it happens)
 
 Through lived experience, I’ve learned that small shifts in language can create a meaningful difference in felt safety.
 
@@ -263,8 +257,6 @@ offering flexible ways to respond (for example, a simple scale, a few options, o
 — we move from judgment to understanding.
 
 ![](/media/uploads/WhatsApp%20Image%202026-05-04%20at%2012.57.08%20PM%207.jpeg)
-
-(Part 3/3: Affirm and evaluate your emotions)
 
 When we offer flexible ways to communicate, we create the kind of safety that allows the “messy” parts of being human to exist without fear.
 
