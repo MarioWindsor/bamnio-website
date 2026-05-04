@@ -1,8 +1,20 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-05-04T13:01:00
 title: 'When “What Happened?” Feels Like “What’s Wrong With You?”: A Lived Experience of Rejection Sensitivity Dysphoria'
+cover: /media/uploads/ChatGPT Image May 4, 2026, 04_04_31 PM.png
+description: |-
+  This article gently explores what it’s like to live with Rejection Sensitivity Dysphoria (RSD), where even simple, well-meaning words can feel unexpectedly painful. Through a personal moment, it shows how a question like “What happened?”—though neutral on the surface—can land as judgment or rejection when the nervous system is already overwhelmed.
+
+  It reminds us that this isn’t about being “too sensitive,” but about how the body is wired to protect itself. When emotional load, decision fatigue, or stress builds up, even small interactions can feel like too much, sometimes leading to withdrawal or shutdown.
+
+  At its heart, the article is about understanding and connection. It shows how small, thoughtful shifts in the way we communicate—like offering support without pressure—can help someone feel safe again. Rather than something to fix, RSD is reframed as a deep sensitivity to connection, where feeling understood can make all the difference.
+author-credit:
+  name: Teslin Joseph
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
+  website: https://substack.com/@teslinj7
+  photo: /media/uploads/whatsapp-image-2025-12-31-at-17.55.16.jpeg
+category: parenting, therapy, autism, child development
 ---
 
 **When Neutral Words Don’t Feel Neutral**
