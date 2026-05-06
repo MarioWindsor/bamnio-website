@@ -256,8 +256,6 @@ offering flexible ways to respond (for example, a simple scale, a few options, o
 
 — we move from judgment to understanding.
 
-![](/media/uploads/WhatsApp%20Image%202026-05-04%20at%2012.57.08%20PM%207.jpeg)
-
 When we offer flexible ways to communicate, we create the kind of safety that allows the “messy” parts of being human to exist without fear.
 
  **Why This Matters for Parents and Professionals**
@@ -273,6 +271,8 @@ And perhaps most importantly:
 **Intent does not always equal impact.**
 
 In these moments, parts of the brain responsible for reasoning may become less accessible as the body prioritizes safety. If we view this through a behavioral lens, we see a person being 'difficult' or 'non-responsive.' If we view it through a neuroaffirming lens, we see a body trying to find its way back to a baseline of safety.
+
+![](/media/uploads/WhatsApp%20Image%202026-05-01%20at%2000.05.39.jpeg)
 
 **Closing Reflection**
 
