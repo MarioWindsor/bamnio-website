@@ -17,7 +17,7 @@ related:
   - 'Access with Autonomy: AAC as an Invitation, Not a Requirement'
 ---
 
-![](blob:https://bambinotherapy.com/00caab4d-c98c-40ec-86da-5f5b7573beaf)
+![](/media/uploads/Picture2.png)
 
 I never liked school.
 
@@ -41,9 +41,7 @@ My mom explained to me that in traditional schools like mine, they assume a ladd
 
 If I could differentiate features, it would look like this
 
-| ***Feature*** | The Ladder (Linear) | The Web ( Non -Linear) |
-| ***Focus*** | Multi-tasking | Monotropic/Deep dive |
-| ***Learning*** | Repetition & Imitation | Logic & Interest |
+![](/media/uploads/Screenshot%202026-05-08%20at%208.58.27%20PM.png)
 
 Often the best parts of a linear learning environment are the predictability, strength and efficiency…. but those are very things that can also play the negative role by being rigid, irrelevant, and something that suppresses creativity and human ingenuity.
 
