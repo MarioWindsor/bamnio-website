@@ -2,8 +2,10 @@
 tags: articles
 date: 2026-06-26T09:58
 title: 'The Exit Door Matters: Rethinking Exposure Through an Autistic Lens'
+cover: /media/uploads/Gemini_Generated_Image_74yj3k74yj3k74yj (1).png
 author-credit:
   name: Teslin Joseph
+  title: Neurodivergent Parent Advocate | Neuroaffirming Educator Advocating for AAC & All Forms of Communication
   website: https://substack.com/@teslinj7
 ---
 
