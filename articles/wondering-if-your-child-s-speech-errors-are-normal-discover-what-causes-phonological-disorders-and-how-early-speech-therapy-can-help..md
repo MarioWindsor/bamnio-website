@@ -1,8 +1,8 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-08-06T11:05
 title: 'Phonological Disorders and Speech Sound Disorders: Understanding More Than Just Mispronounced Words'
+cover: /media/uploads/2.png
 description: Wondering if your child's speech errors are normal? Discover what causes phonological disorders and how early speech therapy can help.
 author-credit:
   name: Ajith Kumar P N
