@@ -26,11 +26,8 @@ Speech Sound Disorder is an umbrella term that refers to any difficulty producin
 Speech Sound Disorders generally include:
 
 - Articulation disorders
-
 - Phonological disorders
-
 - Childhood Apraxia of Speech (CAS)
-
 - Speech difficulties associated with structural or neurological conditions
 
 Each of these affects speech in a different way and therefore requires a different therapeutic approach.
@@ -44,9 +41,7 @@ Instead of struggling to physically produce a sound, the child is able to make t
 For example:
 
 - Saying "tat" instead of "cat"
-
 - Saying "doe" instead of "go"
-
 - Saying "poon" instead of "spoon"
 
 In these examples, the child can often produce the sounds K, G, or S individually but replaces or omits them when speaking in words.
@@ -60,11 +55,8 @@ As children learn language, they naturally simplify words to make them easier to
 Examples include:
 
 - Fronting: Saying "tat" for "cat"
-
 - Stopping: Saying "tun" for "sun"
-
 - Final consonant deletion: Saying "ca" for "cat"
-
 - Cluster reduction: Saying "pane" for "plane"
 
 Most children gradually stop using these patterns as their speech develops. When these patterns continue beyond the expected age or occur frequently enough to affect intelligibility, they may indicate a phonological disorder.
@@ -76,15 +68,10 @@ Every child develops differently, but some signs may suggest that an assessment 
 These include:
 
 - Speech that is difficult for unfamiliar listeners to understand.
-
 - Using the same speech errors repeatedly across many different words.
-
 - Omitting or replacing several speech sounds.
-
 - Speech that does not improve as expected with age.
-
 - Frustration while trying to communicate.
-
 - Difficulty being understood in preschool or school settings.
 
 Children are often aware when others cannot understand them, which may affect their confidence and willingness to participate in conversations.
@@ -96,13 +83,9 @@ In many children, there is no single identifiable cause.
 However, phonological disorders may be associated with:
 
 - Family history of speech or language difficulties
-
 - Delayed language development
-
 - Hearing difficulties, especially recurrent ear infections
-
 - Neurodevelopmental differences
-
 - Unknown developmental factors
 
 It is important to remember that a phonological disorder is not caused by poor parenting, bilingualism, or laziness. Children are not choosing to speak this way - they require support to learn the sound system of their language.
@@ -114,15 +97,10 @@ A Speech-Language Pathologist conducts a detailed assessment to understand the n
 The assessment may include:
 
 - Oral mechanism examination
-
 - Speech sound assessment
-
 - Analysis of phonological error patterns
-
 - Language assessment when appropriate
-
 - Hearing history and referral if needed
-
 - Evaluation of speech intelligibility in conversation
 
 Rather than focusing only on individual sounds, the clinician looks at the overall pattern of speech to determine whether the child has an articulation disorder, a phonological disorder, or another type of Speech Sound Disorder.
@@ -134,25 +112,17 @@ Speech therapy is highly effective for most children with phonological disorders
 Therapy focuses on helping the child:
 
 - Learn the sound patterns of their language.
-
 - Recognise differences between speech sounds.
-
 - Produce sounds accurately in words and sentences.
-
 - Generalise correct speech into everyday conversations.
-
 - Improve overall speech intelligibility.
 
 Depending on the child's needs, therapy may use approaches such as:
 
 - Minimal Pair Therapy
-
 - Multiple Oppositions Therapy
-
 - Cycles Approach
-
 - Metaphon Therapy
-
 - Core Vocabulary Approach
 
 The choice of therapy depends on the child's speech profile rather than simply the number of sounds they mispronounce.
@@ -164,13 +134,9 @@ Some developmental speech errors disappear naturally as children mature. However
 Without appropriate therapy, children may continue to experience:
 
 - Reduced speech intelligibility
-
 - Difficulties with reading and spelling
-
 - Lower confidence when speaking
-
 - Challenges in classroom participation
-
 - Social communication difficulties
 
 Early identification allows children to develop clearer speech before these challenges become more significant.
@@ -180,13 +146,9 @@ When Should Parents Seek Help?
 Consider consulting a Speech-Language Pathologist if:
 
 - Your child is difficult to understand compared to other children of the same age.
-
 - They continue using immature speech patterns beyond the expected developmental age.
-
 - Teachers or caregivers have concerns about speech clarity.
-
 - Your child becomes frustrated because others cannot understand them.
-
 - You simply feel uncertain about whether their speech is developing appropriately.
 
 Trusting your instincts as a parent is important. A professional assessment can either reassure you that development is on track or identify areas where early support may be helpful.
