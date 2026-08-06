@@ -2,6 +2,7 @@
 tags: articles
 date: 2026-08-06T10:28
 title: Dear Parent, You Are Doing Better Than You Think
+cover: /media/uploads/1.png
 description: "Parenting a child on the autism spectrum comes with quiet struggles, hidden wins, and endless care. If you're wondering if you're doing enough, this gentle reminder is for you: You are doing better than you think."
 author-credit:
   name: Dhivya Naveen
@@ -36,4 +37,4 @@ A Gentle Reminder If today was difficult... If therapy didn't go as planned... I
 
 One day, your child may not remember every therapy session, every worksheet, or every routine. But they will grow up knowing they had someone who never stopped believing in them. And that someone is you.
 
-So, dear parent, if no one has told you this today - You are doing better than you think.
+So, dear parent, if no one has told you this today - **You are doing better than you think**.
