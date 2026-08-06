@@ -1,9 +1,7 @@
 ---
-tags:
-  - articles
+tags: articles
 date: 2026-08-06T10:28
 title: Dear Parent, You Are Doing Better Than You Think
-cover: /media/uploads/pasted-image-1785992395570.png
 description: "Parenting a child on the autism spectrum comes with quiet struggles, hidden wins, and endless care. If you're wondering if you're doing enough, this gentle reminder is for you: You are doing better than you think."
 author-credit:
   name: Dhivya Naveen
