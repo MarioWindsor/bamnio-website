@@ -2,7 +2,7 @@
 tags:
   - articles
 date: 2026-08-06T11:05
-title: Wondering if your child's speech errors are normal? Discover what causes phonological disorders and how early speech therapy can help.
+title: 'Phonological Disorders and Speech Sound Disorders: Understanding More Than Just Mispronounced Words'
 description: Wondering if your child's speech errors are normal? Discover what causes phonological disorders and how early speech therapy can help.
 author-credit:
   name: Ajith Kumar P N
